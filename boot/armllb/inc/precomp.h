@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Boot Loader
+ * PROJECT:         classicOS Boot Loader
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/armllb/inc/precomp.h
  * PURPOSE:         Precompiled header for LLB
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 #include "ntdef.h"

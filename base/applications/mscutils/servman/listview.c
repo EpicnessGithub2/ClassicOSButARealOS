@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Services
+ * PROJECT:     classicOS Services
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        base/applications/mscutils/servman/listview.c
  * PURPOSE:     service listview manipulation functions

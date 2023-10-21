@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            ntoskrnl/ke/arm/exp.c
  * PURPOSE:         Implements exception helper routines for ARM machines
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            ntoskrnl/ex/uuid.c
  * PURPOSE:         UUID generator
  * PROGRAMMERS:     Eric Kohl

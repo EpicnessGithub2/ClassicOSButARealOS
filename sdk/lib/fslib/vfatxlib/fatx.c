@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs VFATX filesystem library
+ * PROJECT:     classicOS VFATX filesystem library
  * FILE:        fatx.c
  * PURPOSE:     Fatx support
  * PROGRAMMERS:

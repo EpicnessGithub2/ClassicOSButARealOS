@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   LGPL, See LGPL.txt in the top level directory
- * PROJECT:     Windivs CRT library
+ * PROJECT:     classicOS CRT library
  * FILE:        lib/sdk/crt/time/ftime.c
  * PURPOSE:     Deprecated BSD library call
  * PROGRAMERS:  Timo Kreuzer

@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Winlogon
+ * PROJECT:         classicOS Winlogon
  * FILE:            base/system/winlogon/screensaver.c
  * PURPOSE:         Screen saver management
  * PROGRAMMERS:     Herv� Poussineau (hpoussin@reactos.org)

@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Boot Loader
+ * PROJECT:         classicOS Boot Loader
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/armllb/inc/keyboard.h
  * PURPOSE:         LLB Keyboard Functions
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 CHAR

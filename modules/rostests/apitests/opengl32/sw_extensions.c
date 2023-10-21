@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs api tests
+ * PROJECT:         classicOS api tests
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         Tests extensions exposed by the software implementation
  * PROGRAMMERS:     J�r�me Gardou

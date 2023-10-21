@@ -1,6 +1,6 @@
 /*
- * Windivs Portuguese keyboard layout
- * Copyright (C) 2006 Windivs
+ * classicOS Portuguese keyboard layout
+ * Copyright (C) 2006 classicOS
  * License: LGPL, see: LGPL.txt
  * Based on kbdes, skbdda and skbdfr
  *
@@ -511,7 +511,7 @@ ROSDATA VSC_LPWSTR extended_key_names[] = {
   { 0x4b, L"Esquerda" },
   { 0x4d, L"Direita" },
 
-  { 0x54, L"<Windivs>" },
+  { 0x54, L"<classicOS>" },
   { 0x56, L"Ajuda" },
   { 0x5b, L"Windows Esquerda" },
   { 0x5c, L"Windows Direita" },

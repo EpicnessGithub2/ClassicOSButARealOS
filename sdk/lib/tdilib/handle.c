@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs TDI interface
+ * PROJECT:     classicOS TDI interface
  * FILE:        handle.c
  * PURPOSE:     TDI transport handle management
  */

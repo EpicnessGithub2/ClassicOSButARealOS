@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            ntdll/dispatch/amd64/dispatch.S
  * PURPOSE:         Usermode dispatcher stubs
  *

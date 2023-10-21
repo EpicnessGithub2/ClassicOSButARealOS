@@ -1,5 +1,5 @@
 /*
- *  Windivs Standard Dialog Application Template
+ *  classicOS Standard Dialog Application Template
  *
  *  page2.c
  *

@@ -1,5 +1,5 @@
 /*
-    Windivs Sound System
+    classicOS Sound System
     Sound Blaster DSP support
     Speaker commands
 

@@ -1,5 +1,5 @@
 /*
- * Windivs VBE EDID management
+ * classicOS VBE EDID management
  *
  * Copyright (C) 2006 Herv� Poussineau
  *

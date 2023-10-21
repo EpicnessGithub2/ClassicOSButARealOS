@@ -1,5 +1,5 @@
 /*
-    Windivs Sound System
+    classicOS Sound System
     Device type IDs and macros
 
     Author:

@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Run-Time Library
+ * PROJECT:         classicOS Run-Time Library
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         Rtl Prefix Routines
  */

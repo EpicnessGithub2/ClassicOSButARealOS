@@ -1,9 +1,9 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Client/Server Runtime SubSystem
+ * PROJECT:         classicOS Client/Server Runtime SubSystem
  * FILE:            subsystems/win32/csrsrv/procsup.c
  * PURPOSE:         CSR Server DLL Process Management
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  *                  Alex Ionescu (alex@relsoft.net)
  */
 

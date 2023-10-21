@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            include/reactos/arm/peripherals/sp804.h
  * PURPOSE:         SB804 Registers and Constants
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* GLOBALS ********************************************************************/

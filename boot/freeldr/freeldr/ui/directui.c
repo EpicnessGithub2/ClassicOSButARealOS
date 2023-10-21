@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Boot Loader
+ * PROJECT:         classicOS Boot Loader
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/freeldr/freeldr/ui/directui.c
  * PURPOSE:         FreeLDR UI Routines
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 #if 0

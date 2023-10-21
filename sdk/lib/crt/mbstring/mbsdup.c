@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs system libraries
+ * PROJECT:     classicOS system libraries
  * FILE:        lib/sdk/crt/mbstring/mbsdup.c
  * PURPOSE:     Duplicates a multi byte string
  * PROGRAMER:   Ariadne

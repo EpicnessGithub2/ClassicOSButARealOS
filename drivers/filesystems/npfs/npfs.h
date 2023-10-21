@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Named Pipe FileSystem
+ * PROJECT:     classicOS Named Pipe FileSystem
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        drivers/filesystems/npfs/npfs.h
  * PURPOSE:     Named Pipe FileSystem Header
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 #ifndef _NPFS_PCH_

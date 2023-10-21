@@ -1,6 +1,6 @@
 /*++ NDK Version: 0098
 
-Copyright (c) Windivs Portable Systems Group.  All rights reserved.
+Copyright (c) classicOS Portable Systems Group.  All rights reserved.
 
 Header Name:
 
@@ -12,7 +12,7 @@ Abstract:
 
 Author:
 
-    Windivs Portable Systems Group (ros.arm@reactos.org) - Created - 27-Jun-2010
+    classicOS Portable Systems Group (ros.arm@reactos.org) - Created - 27-Jun-2010
 
 --*/
 

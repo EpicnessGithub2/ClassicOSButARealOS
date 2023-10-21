@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       GPL, see COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            drivers/base/kddll/kddll.h
  * PURPOSE:         Base definitions for the kernel debugger.
  */

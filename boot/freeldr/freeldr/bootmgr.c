@@ -388,7 +388,7 @@ VOID RunLoader(VOID)
         /* Show the operating system list menu */
         if (!UiDisplayMenu("Please select the operating system to start:",
                            "For troubleshooting and advanced startup options for "
-                               "Windivs, press F8.",
+                               "classicOS, press F8.",
                            TRUE,
                            OperatingSystemDisplayNames,
                            OperatingSystemCount,

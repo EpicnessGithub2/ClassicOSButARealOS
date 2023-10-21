@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            ntoskrnl/ex/exintrin.c
  * PURPOSE:         Exported kernel functions which are now intrinsics
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

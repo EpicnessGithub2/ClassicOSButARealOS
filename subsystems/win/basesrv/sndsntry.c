@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Base API Server DLL
+ * PROJECT:         classicOS Base API Server DLL
  * FILE:            subsystems/win/basesrv/sndsntry.c
  * PURPOSE:         Sound Sentry Notifications
  * PROGRAMMERS:     Alex Ionescu (alex.ionescu@reactos.org)

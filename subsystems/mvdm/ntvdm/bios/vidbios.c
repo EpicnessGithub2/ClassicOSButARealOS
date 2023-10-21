@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       GPL - See COPYING in the top level directory
- * PROJECT:         Windivs Virtual DOS Machine
+ * PROJECT:         classicOS Virtual DOS Machine
  * FILE:            subsystems/mvdm/ntvdm/bios/vidbios.c
  * PURPOSE:         VDM 32-bit Video BIOS Support Library
  * PROGRAMMERS:     Aleksandar Andrejevic <theflash AT sdf DOT lonestar DOT org>
@@ -484,7 +484,7 @@ static CONST COLORREF EgaPalette__HiRes[VGA_MAX_COLORS / 4] =
  */
 #if defined(USE_REACTOS_COLORS)
 
-// Windivs colors
+// classicOS colors
 static CONST COLORREF VgaPalette[VGA_MAX_COLORS] =
 {
     RGB(0x00, 0x00, 0x00), RGB(0x00, 0x00, 0xAA), RGB(0x00, 0xAA, 0x00), RGB(0x00, 0xAA, 0xAA),

@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            lib/rossym/zwfile.c
  * PURPOSE:         File I/O using native functions
  *

@@ -1,7 +1,7 @@
 /*
- * PROJECT:     Windivs Shim helper library
+ * PROJECT:     classicOS Shim helper library
  * LICENSE:     GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
- * PURPOSE:     Windivs Shim Engine common functions / structures
+ * PURPOSE:     classicOS Shim Engine common functions / structures
  * COPYRIGHT:   Copyright 2016-2019 Mark Jansen (mark.jansen@reactos.org)
  */
 

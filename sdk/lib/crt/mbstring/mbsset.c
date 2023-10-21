@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs system libraries
+ * PROJECT:     classicOS system libraries
  * FILE:        lib/sdk/crt/mbstring/mbsset.c
  * PURPOSE:     Fills a string with a multibyte character
  * PROGRAMER:   Ariadne

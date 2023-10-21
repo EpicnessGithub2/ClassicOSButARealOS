@@ -1,7 +1,7 @@
 /*
- * PROJECT:         Windivs devmgr.dll
+ * PROJECT:         classicOS devmgr.dll
  * FILE:            dll/win32/devmgr/hwresource.c
- * PURPOSE:         Windivs Device Manager
+ * PURPOSE:         classicOS Device Manager
  * PROGRAMMER:      Johannes Anderwald <johannes.anderwald@reactos.org>
  * UPDATE HISTORY:
  *      2005/11/24  Created

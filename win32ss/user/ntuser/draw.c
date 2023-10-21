@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Win32k subsystem
+ * PROJECT:          classicOS Win32k subsystem
  * PURPOSE:          Win32ss internal drawing support.
  * FILE:             win32ss/user/ntuser/draw.c
  * PROGRAMER:

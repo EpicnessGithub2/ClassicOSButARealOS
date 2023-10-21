@@ -72,7 +72,7 @@ END
 
 STRINGTABLE
 {
-STID_WINE_HELP, 	"Windivs žinynas"
+STID_WINE_HELP, 	"classicOS žinynas"
 STID_WHERROR, 		"KLAIDA"
 STID_WARNING,  		"ĮSPĖJIMAS"
 STID_INFO,  		"Informacija"

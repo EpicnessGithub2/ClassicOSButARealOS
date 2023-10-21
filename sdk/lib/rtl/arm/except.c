@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs Run-Time Library
+ * PROJECT:           classicOS Run-Time Library
  * PURPOSE:           User-mode exception support for IA-32
  * FILE:              lib/rtl/arm/except.c
  * PROGRAMERS:

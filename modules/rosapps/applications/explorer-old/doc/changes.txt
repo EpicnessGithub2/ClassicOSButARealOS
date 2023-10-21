@@ -105,7 +105,7 @@ If you search for more information, look into the Subversion repository.
 20.02.2005	m. fuchs	updates for Expat and XMLStorage files
 21.02.2005	m. fuchs	move public expat headers into common include folder
 27.02.2005	frik85	Add support for explorer to load the desk.cpl when right clicking on background.
-04.03.2005	fireball	New StartMenu and Windivs icons by Mindflyer
+04.03.2005	fireball	New StartMenu and classicOS icons by Mindflyer
 05.03.2005	m. fuchs	case insensitive startmenu merging
 			m. fuchs	update ROS icon in about dialog and start menu side bar
 14.03.2005	gvg	tinus: Use RegisterShellHookWindow()

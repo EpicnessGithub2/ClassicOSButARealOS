@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Runtime Library
+ * PROJECT:         classicOS Runtime Library
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            lib/rtl/rtlavl.h
  * PURPOSE:         RTL AVL Glue
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES ******************************************************************/

@@ -1,5 +1,5 @@
 /*
- * Windivs Calc (Math functions, GMP/MPFR engine)
+ * classicOS Calc (Math functions, GMP/MPFR engine)
  *
  * Copyright 2007-2017, Carlo Bramini
  *

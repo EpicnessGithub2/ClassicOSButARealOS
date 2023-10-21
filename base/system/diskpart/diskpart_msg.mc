@@ -3710,7 +3710,7 @@ SymbolicName=MSG_COMMAND_FORMAT
 Severity=Informational
 Facility=System
 Language=English
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -3775,7 +3775,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=German
-    Formatiert das angegebene Volume für die Verwendung mit Windivs.
+    Formatiert das angegebene Volume für die Verwendung mit classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -3849,7 +3849,7 @@ Beispiele:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Polish
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -3914,7 +3914,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Portugese
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -3979,7 +3979,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Romanian
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4044,7 +4044,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Russian
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4109,7 +4109,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Albanian
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4174,7 +4174,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Turkish
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4239,7 +4239,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Chinese
-    Formats the specified volume for use with Windivs.
+    Formats the specified volume for use with classicOS.
 
 Syntax:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4304,7 +4304,7 @@ Examples:
     FORMAT RECOMMENDED OVERRIDE
 .
 Language=Taiwanese
-    格式化指定的磁碟區以供 Windivs 使用。
+    格式化指定的磁碟區以供 classicOS 使用。
 
 語法:  FORMAT [[FS=<FS>] [REVISION=<X.XX>] | RECOMMENDED] [LABEL=<"label">]
                 [UNIT=<N>] [QUICK] [COMPRESS] [OVERRIDE] [DUPLICATE] [NOWAIT]
@@ -4612,7 +4612,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4637,7 +4637,7 @@ Syntax:  INACTIVE
         Möglicherweise kann der Computer nicht gestartet werden, wenn es
         keine aktive Partition gibt. Markieren Sie eine System- oder
         Startpartition nur dann als inaktiv, wenn Sie ein erfahrener
-        Benutzer und mit der Windivs-Speicherverwaltung umfassend vertraut
+        Benutzer und mit der classicOS-Speicherverwaltung umfassend vertraut
         sind.
 
 Beispiel:
@@ -4685,7 +4685,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4708,7 +4708,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4731,7 +4731,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4754,7 +4754,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4777,7 +4777,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4800,7 +4800,7 @@ Syntax:  INACTIVE
 
         Your computer might not start without an active partition. Do not mark
         a system or boot partition as inactive unless you are an experienced
-        user with a thorough understanding of Windivs storage management.
+        user with a thorough understanding of classicOS storage management.
 
 Example:
 
@@ -4821,7 +4821,7 @@ Language=Taiwanese
     注意:
 
         如果沒有使用中的磁碟分割，您的電腦將無法啟動。
-        除非您是非常熟悉 Windivs 存放管理的進階使用者，
+        除非您是非常熟悉 classicOS 存放管理的進階使用者，
         否則請勿將系統或開機磁碟分割標示為非使用中。
 
 範例:

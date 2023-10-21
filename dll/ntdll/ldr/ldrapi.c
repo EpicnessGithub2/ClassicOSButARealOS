@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs NT User Mode Library
+ * PROJECT:         classicOS NT User Mode Library
  * FILE:            dll/ntdll/ldr/ldrapi.c
  * PURPOSE:         PE Loader Public APIs
  * PROGRAMMERS:     Alex Ionescu (alex@relsoft.net)
@@ -80,7 +80,7 @@ BOOLEAN
 NTAPI
 LdrAlternateResourcesEnabled(VOID)
 {
-    /* Windivs does not support this */
+    /* classicOS does not support this */
     return FALSE;
 }
 

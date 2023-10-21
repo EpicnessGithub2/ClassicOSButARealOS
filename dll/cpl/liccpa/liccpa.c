@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs License Manager
+ * PROJECT:         classicOS License Manager
  * FILE:            dll/cpl/liccpa/liccpa.c
  * PURPOSE:         License Manager GUI
  *

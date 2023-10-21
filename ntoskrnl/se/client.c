@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Kernel
+ * PROJECT:     classicOS Kernel
  * LICENSE:     GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
  * PURPOSE:     Security client support routines
  * COPYRIGHT:   Copyright Alex Ionescu <alex@relsoft.net>

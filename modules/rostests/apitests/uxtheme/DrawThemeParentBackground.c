@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs api tests
+ * PROJECT:         classicOS api tests
  * LICENSE:         GPL - See COPYING in the top level directory
  * PURPOSE:         Test for DrawThemeParentBackground
  * PROGRAMMERS:     Giannis Adamopoulos

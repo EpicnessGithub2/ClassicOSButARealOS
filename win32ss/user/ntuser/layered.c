@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Win32k subsystem
+ * PROJECT:          classicOS Win32k subsystem
  * PURPOSE:          Layered window support
  * FILE:             win32ss/user/ntuser/layered.c
  * PROGRAMER:

@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs user32.dll
+ * PROJECT:         classicOS user32.dll
  * FILE:            win32ss/user/user32/misc/display.c
  * PURPOSE:         DDE
  * PROGRAMMER:      Casper S. Hornstrup (chorns@users.sourceforge.net)

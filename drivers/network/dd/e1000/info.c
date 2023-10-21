@@ -158,7 +158,7 @@ MiniportQueryInformation(
 
     case OID_GEN_VENDOR_DESCRIPTION:
     {
-        static UCHAR vendorDesc[] = "Windivs Developers";
+        static UCHAR vendorDesc[] = "classicOS Developers";
         copySource = vendorDesc;
         copyLength = sizeof(vendorDesc);
         break;

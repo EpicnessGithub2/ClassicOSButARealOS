@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Application compatibility module
+ * PROJECT:     classicOS Application compatibility module
  * LICENSE:     GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
  * PURPOSE:     Shim matching / data (un)packing
  * COPYRIGHT:   Copyright 2011 André Hentschel
@@ -25,7 +25,7 @@ typedef struct _ShimData
     DWORD dwMagic;
     SDBQUERYRESULT Query;
     WCHAR szLayer[MAX_LAYER_LENGTH];
-    DWORD dwRosProcessCompatVersion;  // Windivs specific
+    DWORD dwRosProcessCompatVersion;  // classicOS specific
 } ShimData;
 
 #define SHIMDATA_MAGIC  0xAC0DEDAB

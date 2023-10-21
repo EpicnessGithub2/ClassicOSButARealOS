@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs TDI driver
+ * PROJECT:         classicOS TDI driver
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            drivers/network/tdi/cte/events.c
  * PURPOSE:         CTE events support

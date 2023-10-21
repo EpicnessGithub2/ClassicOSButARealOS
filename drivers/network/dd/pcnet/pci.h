@@ -1,5 +1,5 @@
 /*
- * Windivs AMD PCNet Driver
+ * classicOS AMD PCNet Driver
  *
  * Copyright (C) 2003 Vizzini <vizzini@plasmic.com>
  *

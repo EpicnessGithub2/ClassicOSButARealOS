@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs system libraries
+ * PROJECT:     classicOS system libraries
  * FILE:        lib/sdk/crt/mbstring/hanzen.c
  * PURPOSE:     Multibyte conversion routines formerly called hantozen and zentohan
  * PROGRAMER:   Ariadne, Taiji Yamada

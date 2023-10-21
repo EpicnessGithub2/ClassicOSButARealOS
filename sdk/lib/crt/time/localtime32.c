@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   LGPL, See LGPL.txt in the top level directory
- * PROJECT:     Windivs CRT library
+ * PROJECT:     classicOS CRT library
  * FILE:        lib/sdk/crt/time/localtime32.c
  * PURPOSE:     Implementation of _localtime32
  * PROGRAMERS:  Timo Kreuzer

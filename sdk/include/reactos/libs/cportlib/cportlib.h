@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs ComPort Library
+ * PROJECT:         classicOS ComPort Library
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            include/reactos/libs/cportlib/cportlib.h
  * PURPOSE:         Header for the ComPort Library
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

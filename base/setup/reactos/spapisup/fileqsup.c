@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs GUI first stage setup application
+ * PROJECT:         classicOS GUI first stage setup application
  * FILE:            base/setup/lib/fileqsup.c
  * PURPOSE:         Interfacing with Setup* API File Queue support functions
  * PROGRAMMERS:     Hermes Belusca-Maito (hermes.belusca@sfr.fr)
@@ -66,7 +66,7 @@ SpFileQueueCopy_NtToWin32(
                            SourcePath,
                            SourceFileName,
     // Undocumented on MSDN is the fact that this parameter is mandatory *IF* one wants to take the TagFile into account!
-                           L"Windivs",
+                           L"classicOS",
     // SourceTagFile -- Special behaviour: use cabinet file present in ArchiveDir path! The API does not check for a ".cab" extension.
                            SourceCabinet,
                            Win32TargetDirectory,

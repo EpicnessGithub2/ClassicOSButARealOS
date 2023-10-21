@@ -1,8 +1,8 @@
 /*
- * PROJECT:     Windivs Print Spooler Service
+ * PROJECT:     classicOS Print Spooler Service
  * LICENSE:     GPL-2.0+ (https://spdx.org/licenses/GPL-2.0+)
  * PURPOSE:     Xcv* functions
- * COPYRIGHT:   Copyright 2020 Windivs
+ * COPYRIGHT:   Copyright 2020 classicOS
  */
 
 #include "precomp.h"

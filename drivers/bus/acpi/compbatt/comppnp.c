@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Composite Battery Driver
+ * PROJECT:         classicOS Composite Battery Driver
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/drivers/bus/acpi/compbatt/comppnp.c
  * PURPOSE:         Plug-and-Play IOCTL/IRP Handling
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Console Configuration DLL
+ * PROJECT:         classicOS Console Configuration DLL
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            dll/cpl/console/console.c
  * PURPOSE:         Initialization

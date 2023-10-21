@@ -1,4 +1,4 @@
-/* ComboBox Control Test for Windivs.
+/* ComboBox Control Test for classicOS.
 
 * This is a test program. Not made to be fast, small
 * easy to mantain, or portable.

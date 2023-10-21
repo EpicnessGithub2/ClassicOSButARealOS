@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs shutdown/logoff utility
+ * PROJECT:         classicOS shutdown/logoff utility
  * FILE:            base/applications/shutdown/gui.c
  * PURPOSE:         Shows a GUI used for managing multiple remote shutdown/restarts
  * PROGRAMMERS:     Lee Schroeder

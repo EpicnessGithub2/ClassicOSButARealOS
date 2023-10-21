@@ -1,5 +1,5 @@
 /*
- *  Windivs Application
+ *  classicOS Application
  *
  *  main.c
  *

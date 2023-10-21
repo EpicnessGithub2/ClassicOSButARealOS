@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs kernel
+ * PROJECT:          classicOS kernel
  * PURPOSE:          GDI alpha blending functions
  * FILE:             win32ss/gdi/eng/alphablend.c
  * PROGRAMER:        Jason Filby

@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Win32k subsystem
+ * PROJECT:         classicOS Win32k subsystem
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            win32ss/user/ntuser/windc.c
  * PURPOSE:         Window DC management
@@ -744,7 +744,7 @@ DceFreeWindowDCE(PWND Window)
                * this should be a TRACE. But this is best left as an ERR
                * because the 'application error' is likely to come from
                * another part of Wine (i.e. it's our fault after all).
-               * We should change this to TRACE when Windivs is more stable
+               * We should change this to TRACE when classicOS is more stable
                * (for 1.0?).
                */
               ERR("[%p] GetDC() without ReleaseDC()!\n", Window->head.h);

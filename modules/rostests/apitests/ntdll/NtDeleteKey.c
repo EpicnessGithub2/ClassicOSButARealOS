@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs API Tests
+ * PROJECT:         classicOS API Tests
  * LICENSE:         GPLv2+ - See COPYING in the top level directory
  * PURPOSE:         Test for NtDeleteKey
  */

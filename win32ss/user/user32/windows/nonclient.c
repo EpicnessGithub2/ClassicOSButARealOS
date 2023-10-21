@@ -1,5 +1,5 @@
 /*
- * Windivs User32 Library
+ * classicOS User32 Library
  * - Window non-client area management
  *
  * Copyright (C) 2003 ReactOS Team

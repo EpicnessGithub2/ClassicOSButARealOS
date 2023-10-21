@@ -1,8 +1,8 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs DVB
+ * PROJECT:         classicOS DVB
  * FILE:            dll/directx/msvidctl/msvidctl.cpp
- * PURPOSE:         Windivs DVB Initialization
+ * PURPOSE:         classicOS DVB Initialization
  *
  * PROGRAMMERS:     Johannes Anderwald (johannes.anderwald@reactos.org)
  */

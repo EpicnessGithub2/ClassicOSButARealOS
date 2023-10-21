@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            ntoskrnl/ke/arm/kiinit.c
  * PURPOSE:         Implements the kernel entry point for ARM machines
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

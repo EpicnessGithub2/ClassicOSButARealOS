@@ -1,5 +1,5 @@
 /*
- *  Windivs kernel
+ *  classicOS kernel
  *  Copyright (C) 2003 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs text-mode setup
+ * PROJECT:         classicOS text-mode setup
  * FILE:            base/setup/usetup/format.c
  * PURPOSE:         Filesystem format support functions
  * PROGRAMMER:      Casper S. Hornstrup (chorns@users.sourceforge.net)

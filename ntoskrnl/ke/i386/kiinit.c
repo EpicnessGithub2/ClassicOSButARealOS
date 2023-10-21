@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            ntoskrnl/ke/i386/kiinit.c
  * PURPOSE:         Kernel Initialization for x86 CPUs

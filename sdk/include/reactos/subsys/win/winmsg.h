@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs User API Server DLL
+ * PROJECT:         classicOS User API Server DLL
  * FILE:            include/reactos/subsys/win/winmsg.h
  * PURPOSE:         Public definitions for communication
  *                  between User-Mode API Clients and Servers

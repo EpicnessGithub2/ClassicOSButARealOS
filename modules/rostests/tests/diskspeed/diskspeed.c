@@ -2,7 +2,7 @@
  * Copyright (C) 2004 ReactOS Team
  *
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs diskspeed.exe
+ * PROJECT:         classicOS diskspeed.exe
  * FILE:            apps/tests/diskspeed/diskspeed.c
  * PURPOSE:         Determines disk transfer rates
  * PROGRAMMER:

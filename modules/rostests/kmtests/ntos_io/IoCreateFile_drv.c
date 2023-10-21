@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs kernel-mode tests
+ * PROJECT:         classicOS kernel-mode tests
  * LICENSE:         LGPLv2.1+ - See COPYING.LIB in the top level directory
  * PURPOSE:         Test driver for reparse point operations
  * PROGRAMMER:      Pierre Schweitzer <pierre@reactos.org>

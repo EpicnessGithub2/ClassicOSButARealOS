@@ -1,6 +1,6 @@
 /*
- * Windivs German (Switzerland) ASCII Keyboard layout
- * Copyright (C) 2005 Windivs
+ * classicOS German (Switzerland) ASCII Keyboard layout
+ * Copyright (C) 2005 classicOS
  * License: LGPL, see: LGPL.txt
  *
  * Thanks to: http://www.barcodeman.com/altek/mule/scandoc.php
@@ -363,10 +363,10 @@ ROSDATA VSC_LPWSTR extended_key_names[] = {
   { 0x51, L"Bild-Nach-Unten" },
   { 0x52, L"Einfg" },
   { 0x53, L"Entf" },
-  { 0x54, L"<Windivs>" },
+  { 0x54, L"<classicOS>" },
   { 0x55, L"Hilfe" },
-  { 0x56, L"Linke <Windivs>" },
-  { 0x5b, L"Rechte <Windivs>" },
+  { 0x56, L"Linke <classicOS>" },
+  { 0x5b, L"Rechte <classicOS>" },
   { 0, NULL },
 };
 

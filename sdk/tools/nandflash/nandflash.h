@@ -3,7 +3,7 @@
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            tools/nandflash/nandflash.h
  * PURPOSE:         Flashes OmapLDR, FreeLDR and a Root FS into a NAND image
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

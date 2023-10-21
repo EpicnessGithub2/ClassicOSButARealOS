@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Named Pipe FileSystem
+ * PROJECT:     classicOS Named Pipe FileSystem
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        drivers/filesystems/npfs/fsctrl.c
  * PURPOSE:     Named Pipe FileSystem I/O Controls
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

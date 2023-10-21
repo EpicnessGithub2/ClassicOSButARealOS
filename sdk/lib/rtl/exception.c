@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Runtime Library
+ * PROJECT:         classicOS Runtime Library
  * PURPOSE:         User-Mode Exception Support
  * FILE:            lib/rtl/exception.c
  * PROGRAMERS:      Alex Ionescu (alex@relsoft.net)

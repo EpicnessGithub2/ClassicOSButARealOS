@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs kernel
+ * PROJECT:           classicOS kernel
  * PURPOSE:           GDI Driver Surace Functions
  * FILE:              win32ss/gdi/eng/surface.c
  * PROGRAMERS:        Jason Filby

@@ -1,8 +1,8 @@
 /*
- * PROJECT:         Windivs Hardware Abstraction Layer (HAL)
+ * PROJECT:         classicOS Hardware Abstraction Layer (HAL)
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         I/O Mapping and x86 Subs
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

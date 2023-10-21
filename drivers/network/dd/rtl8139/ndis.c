@@ -1,5 +1,5 @@
 /*
- * Windivs Realtek 8139 Driver
+ * classicOS Realtek 8139 Driver
  *
  * Copyright (C) 2013 Cameron Gutman
  *

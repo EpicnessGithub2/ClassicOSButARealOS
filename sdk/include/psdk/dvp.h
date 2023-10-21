@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:            This file is in the public domain.
- * PROJECT:              Windivs kernel
+ * PROJECT:              classicOS kernel
  * FILE:                 include/psdk/dvp.h
  * PURPOSE:              Directx headers
  * PROGRAMMER:           Magnus Olsen (greatlrd)

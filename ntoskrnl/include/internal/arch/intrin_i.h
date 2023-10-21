@@ -1,5 +1,5 @@
 /*
- *  Windivs kernel
+ *  classicOS kernel
  *  Copyright (C) 1998, 1999, 2000, 2001 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify

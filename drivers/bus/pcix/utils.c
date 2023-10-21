@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs PCI Bus Driver
+ * PROJECT:         classicOS PCI Bus Driver
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            drivers/bus/pci/utils.c
  * PURPOSE:         Utility/Helper Support Code
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/
@@ -153,7 +153,7 @@ PciIsDatacenter(VOID)
     else
     {
         /* This scenario shouldn't happen yet, since SetupDD isn't used */
-        UNIMPLEMENTED_FATAL("Windivs doesn't use SetupDD for its installation program. Therefore this scenario must not happen!\n");
+        UNIMPLEMENTED_FATAL("classicOS doesn't use SetupDD for its installation program. Therefore this scenario must not happen!\n");
     }
 
     /* Return if this is Datacenter or not */
@@ -612,7 +612,7 @@ PciGetHackFlags(IN USHORT VendorId,
     ULONG LastWeight, MatchWeight;
     ULONG EntryFlags;
 
-    /* Windivs SetupLDR Hack */
+    /* classicOS SetupLDR Hack */
     if (!PciHackTable) return 0;
 
     /* Initialize the variables before looping */

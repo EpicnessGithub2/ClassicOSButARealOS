@@ -73,7 +73,7 @@ END
 
 STRINGTABLE
 {
-STID_WINE_HELP, 	"Windivs Pomoć"
+STID_WINE_HELP, 	"classicOS Pomoć"
 STID_WHERROR, 		"GREŠKA"
 STID_WARNING,  		"UPOZORENJE"
 STID_INFO,  		"Informacija"

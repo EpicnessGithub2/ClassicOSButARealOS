@@ -1,7 +1,7 @@
 /*
  * environ.c
  *
- * Windivs MSVCRT.DLL Compatibility Library
+ * classicOS MSVCRT.DLL Compatibility Library
  */
 
 #include <precomp.h>

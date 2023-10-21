@@ -1,6 +1,6 @@
 /*
- * Windivs Finnish keyboard layout (Based on Swedish keyboard layout)
- * Copyright (C) 2007 Windivs
+ * classicOS Finnish keyboard layout (Based on Swedish keyboard layout)
+ * Copyright (C) 2007 classicOS
  * License: LGPL, see: LGPL.txt
  *
  */
@@ -349,10 +349,10 @@ ROSDATA VSC_LPWSTR extended_key_names[] = {
   { 0x51, L"PAGE DOWN" },
   { 0x52, L"INS" },
   { 0x53, L"DEL" },
-  { 0x54, L"<Windivs>" },
+  { 0x54, L"<classicOS>" },
   { 0x56, L"HELP" },
-  { 0x5b, L"VASEN <Windivs>" },
-  { 0x5c, L"OIKEA <Windivs>" },
+  { 0x5b, L"VASEN <classicOS>" },
+  { 0x5c, L"OIKEA <classicOS>" },
   { 0x5d, L"Program" },
   { 0, NULL }
 };

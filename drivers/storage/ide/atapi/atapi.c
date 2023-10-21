@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Storage Stack
+ * PROJECT:         classicOS Storage Stack
  * LICENSE:         DDK - see license.txt in the root dir
  * FILE:            drivers/storage/atapi/atapi.c
  * PURPOSE:         ATAPI IDE miniport driver

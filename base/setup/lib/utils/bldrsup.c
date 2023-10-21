@@ -1,8 +1,8 @@
 /*
- * PROJECT:     Windivs Setup Library
+ * PROJECT:     classicOS Setup Library
  * LICENSE:     GPL-2.0+ (https://spdx.org/licenses/GPL-2.0+)
  * PURPOSE:     Boot Stores Management functionality, with support for
- *              NT 5.x family (MS Windows <= 2003, and Windivs) bootloaders.
+ *              NT 5.x family (MS Windows <= 2003, and classicOS) bootloaders.
  * COPYRIGHT:   Copyright 2017-2018 Hermes Belusca-Maito
  */
 
@@ -237,7 +237,7 @@ CreateCommonFreeLdrSections(
 
     /* TitleText */
     IniCacheInsertKey(IniSection, NULL, INSERT_LAST,
-                      L"TitleText", L"Windivs Boot Manager");
+                      L"TitleText", L"classicOS Boot Manager");
 
     /* MinimalUI */
     IniCacheInsertKey(IniSection, NULL, INSERT_LAST,
@@ -1251,7 +1251,7 @@ FreeLdrEnumerateBootEntries(
         Status = IniCacheGetKey(OsIniSection, L"BootType", &KeyData);
         if (!NT_SUCCESS(Status) || (KeyData == NULL))
         {
-            /* Certainly not a Windivs installation */
+            /* Certainly not a classicOS installation */
             DPRINT1("No BootType value present!\n");
             goto DoEnum;
         }

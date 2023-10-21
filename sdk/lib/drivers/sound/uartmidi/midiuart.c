@@ -1,5 +1,5 @@
 /*
-    Windivs Sound System
+    classicOS Sound System
     MIDI UART support
 
     Author:

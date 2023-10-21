@@ -1,5 +1,5 @@
 /*
- *  Windivs applications
+ *  classicOS applications
  *  Copyright (C) 2001, 2002 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs Userinit Logon Application
+ * PROJECT:     classicOS Userinit Logon Application
  * FILE:        base/system/userinit/userinit.c
  * PROGRAMMERS: Thomas Weidenmueller (w3seek@users.sourceforge.net)
  *              Herv� Poussineau (hpoussin@reactos.org)
@@ -597,7 +597,7 @@ StartInstaller(IN LPCTSTR lpInstallerName)
 
     /*
      * We failed. Try to find the installer from either the current
-     * Windivs installation directory, or from our current directory.
+     * classicOS installation directory, or from our current directory.
      */
     *Installer = UNICODE_NULL;
     /* Alternatively one can use SharedUserData->NtSystemRoot */

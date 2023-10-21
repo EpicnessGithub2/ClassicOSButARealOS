@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs system libraries
+ * PROJECT:           classicOS system libraries
  * FILE:              lib/rtl/rxact.c
  * PURPOSE:           Registry Transaction API
  * PROGRAMMERS:       Timo Kreuzer (timo.kreuzer@reactos.org)

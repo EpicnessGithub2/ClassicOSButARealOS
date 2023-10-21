@@ -1,5 +1,5 @@
 /*
- * Windivs Explorer
+ * classicOS Explorer
  *
  * Copyright 2013 - Edijs Kolesnikovics
  *

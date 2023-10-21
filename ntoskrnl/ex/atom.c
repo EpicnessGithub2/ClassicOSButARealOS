@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * COPYRIGHT:       GPL - See COPYING in the top level directory
  * FILE:            ntoskrnl/ex/atom.c
  * PURPOSE:         Executive Atom Functions

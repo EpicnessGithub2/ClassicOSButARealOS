@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Serial mouse driver
+ * PROJECT:     classicOS Serial mouse driver
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        drivers/input/sermouse/fdo.c
  * PURPOSE:     Miscellaneous operations

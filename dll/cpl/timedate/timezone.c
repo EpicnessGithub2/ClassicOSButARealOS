@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Timedate Control Panel
+ * PROJECT:     classicOS Timedate Control Panel
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        dll/cpl/timedate/timezone.c
  * PURPOSE:     Time Zone property page

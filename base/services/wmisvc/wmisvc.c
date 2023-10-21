@@ -1,5 +1,5 @@
 /*
- *  Windivs Services
+ *  classicOS Services
  *  Copyright (C) 2015 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Services
+ * PROJECT:          classicOS Services
  * FILE:             base/services/wmisvc/wmisvc.c
  * PURPOSE:          WMI service
  * PROGRAMMER:       Pierre Schweitzer

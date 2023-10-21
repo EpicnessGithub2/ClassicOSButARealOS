@@ -1,10 +1,10 @@
 /*
  * LICENSE:         BSD - See COPYING.ARM in root directory
- * PROJECT:         Windivs Client/Server Runtime SubSystem
+ * PROJECT:         classicOS Client/Server Runtime SubSystem
  * FILE:            subsystems/win32/csrss/csrss.c
  * PURPOSE:         CSRSS Process Main Executable Code
  * PROGRAMMERS:     Alex Ionescu (alex@relsoft.net)
- *                  Windivs Portable Systems Group
+ *                  classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

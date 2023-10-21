@@ -59,7 +59,7 @@ fbtusb.sys
 
 [Strings]
 ; Non-localizable
-ReactOS = "Windivs Developers"
+ReactOS = "classicOS Developers"
 
 ; Localizable
 BTUSB.DeviceDesc="Generic USB Bluetooth Radio"

@@ -1,8 +1,8 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Display Control Panel
+ * PROJECT:         classicOS Display Control Panel
  * FILE:            dll/cpl/desk/desk.c
- * PURPOSE:         Windivs Display Control Panel
+ * PURPOSE:         classicOS Display Control Panel
  *
  * PROGRAMMERS:     Trevor McCort (lycan359@gmail.com)
  */

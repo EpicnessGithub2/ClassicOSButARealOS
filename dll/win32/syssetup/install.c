@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs system libraries
+ * PROJECT:           classicOS system libraries
  * PURPOSE:           System setup
  * FILE:              dll/win32/syssetup/install.c
  * PROGRAMER:         Eric Kohl
@@ -64,7 +64,7 @@ FatalError(char *pszFmt,...)
     strcat(szBuffer, "\nRebooting now!");
     MessageBoxA(NULL,
                 szBuffer,
-                "Windivs Setup",
+                "classicOS Setup",
                 MB_OK);
 }
 
@@ -1005,7 +1005,7 @@ error:
     MessageBoxW(
         NULL,
         L"Failed to load LiveCD! You can shutdown your computer, or press ENTER to reboot.",
-        L"Windivs LiveCD",
+        L"classicOS LiveCD",
         MB_OK);
     return 0;
 }
@@ -1398,7 +1398,7 @@ InstallReactOS(VOID)
     BOOL ret;
 
     InitializeSetupActionLog(FALSE);
-    LogItem(NULL, L"Installing Windivs");
+    LogItem(NULL, L"Installing classicOS");
 
     CreateTempDir(L"TEMP");
     CreateTempDir(L"TMP");
@@ -1525,7 +1525,7 @@ InstallReactOS(VOID)
         CloseHandle(hHotkeyThread);
     }
 
-    LogItem(NULL, L"Installing Windivs done");
+    LogItem(NULL, L"Installing classicOS done");
     TerminateSetupActionLog();
 
     if (AdminInfo.Name != NULL)

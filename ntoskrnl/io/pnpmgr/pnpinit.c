@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            ntoskrnl/io/pnpmgr/pnpinit.c
  * PURPOSE:         PnP Initialization Code
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/
@@ -40,7 +40,7 @@ INTERFACE_TYPE
 NTAPI
 IopDetermineDefaultInterfaceType(VOID)
 {
-    /* FIXME: Windivs doesn't support MicroChannel yet */
+    /* FIXME: classicOS doesn't support MicroChannel yet */
     return Isa;
 }
 

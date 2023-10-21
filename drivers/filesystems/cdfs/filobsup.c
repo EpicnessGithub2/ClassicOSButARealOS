@@ -112,7 +112,7 @@ Return Value:
 #ifdef _MSC_VER
 #pragma warning( suppress: 4213 )
 #endif
-    SetFlag( (*(PULONG_PTR)&FileObject->FsContext2), TypeOfOpen ); /* Windivs Change: GCC "invalid lvalue in assignment" */
+    SetFlag( (*(PULONG_PTR)&FileObject->FsContext2), TypeOfOpen ); /* classicOS Change: GCC "invalid lvalue in assignment" */
 
     //
     //  Set the Vpb field in the file object.
@@ -191,7 +191,7 @@ Return Value:
 #ifdef _MSC_VER
 #pragma warning( suppress: 4213 )
 #endif
-        ClearFlag( (*(PULONG_PTR)Ccb), TYPE_OF_OPEN_MASK ); /* Windivs Change: GCC "invalid lvalue in assignment" */
+        ClearFlag( (*(PULONG_PTR)Ccb), TYPE_OF_OPEN_MASK ); /* classicOS Change: GCC "invalid lvalue in assignment" */
     }
 
     //

@@ -20,7 +20,7 @@ BEGIN
     IDS_SCROLLUP "גלול מעלה"
     IDS_SCROLLDOWN "גלול מטה"
 */
-    IDS_TERMINAL_TITLE "Windivs Console"
+    IDS_TERMINAL_TITLE "classicOS Console"
 END
 
 STRINGTABLE

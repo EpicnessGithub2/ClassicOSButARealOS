@@ -1,7 +1,7 @@
 /*
- * PROJECT:     Windivs Clipboard Viewer
+ * PROJECT:     classicOS Clipboard Viewer
  * LICENSE:     GPL-2.0+ (https://spdx.org/licenses/GPL-2.0+)
- * PURPOSE:     Provides a view of the contents of the Windivs clipboard.
+ * PURPOSE:     Provides a view of the contents of the classicOS clipboard.
  * COPYRIGHT:   Copyright 2015-2018 Ricardo Hanke
  *              Copyright 2015-2018 Hermes Belusca-Maito
  */

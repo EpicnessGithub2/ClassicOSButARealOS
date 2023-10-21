@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs DNS Shared Library
+ * PROJECT:     classicOS DNS Shared Library
  * FILE:        lib/dnslib/string.c
  * PURPOSE:     functions for string manipulation and conversion.
  */

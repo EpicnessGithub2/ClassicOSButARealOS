@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs system libraries
+ * PROJECT:     classicOS system libraries
  * FILE:        lib/sdk/crt/stdlib/senv.c
  * PURPOSE:     Unknown
  * PROGRAMER:   Unknown

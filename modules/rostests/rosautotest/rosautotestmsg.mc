@@ -16,13 +16,13 @@ Severity=Informational
 Facility=Application
 SymbolicName=MSG_TESTS_STARTED
 Language=English
-Windivs Automatic Testing Utility is started.
+classicOS Automatic Testing Utility is started.
 .
 Language=Polish
-Uruchomiono narzędzie automatycznych testów systemu Windivs.
+Uruchomiono narzędzie automatycznych testów systemu classicOS.
 .
 Language=Romanian
-Utilitarul de testare automată Windivs a fost pornit.
+Utilitarul de testare automată classicOS a fost pornit.
 .
 
 MessageId=2
@@ -30,12 +30,12 @@ Severity=Success
 Facility=Application
 SymbolicName=MSG_TESTS_SUCCESSFUL
 Language=English
-Windivs Automatic Testing Utility is successful.
+classicOS Automatic Testing Utility is successful.
 .
 Language=Polish
-Narzędzie automatycznych testów systemu Windivs pomyślnie zakończyło działanie.
+Narzędzie automatycznych testów systemu classicOS pomyślnie zakończyło działanie.
 .
 Language=Romanian
-Utilitarul de testare automată Windivs a avut succes.
+Utilitarul de testare automată classicOS a avut succes.
 .
 

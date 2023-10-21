@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Framebuffer Display Driver
+ * PROJECT:         classicOS Framebuffer Display Driver
  * LICENSE:         Microsoft NT4 DDK Sample Code License
  * FILE:            win32ss/drivers/displays/vga_new/palette.c
  * PURPOSE:         Palette Support

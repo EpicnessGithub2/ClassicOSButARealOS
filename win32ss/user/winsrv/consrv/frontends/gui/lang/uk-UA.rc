@@ -22,7 +22,7 @@ BEGIN
     IDS_SCROLLUP "Прокрутити догори"
     IDS_SCROLLDOWN "Прокрутити донизу"
 */
-    IDS_TERMINAL_TITLE "Windivs Console"
+    IDS_TERMINAL_TITLE "classicOS Console"
 END
 
 STRINGTABLE

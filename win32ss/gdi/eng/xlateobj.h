@@ -1,6 +1,6 @@
  /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs kernel
+ * PROJECT:           classicOS kernel
  * PURPOSE:           XLATEOBJ structures and functions
  * FILE:              win32ss/gdi/eng/xlateobj.h
  * PROGRAMER:         Timo Kreuzer

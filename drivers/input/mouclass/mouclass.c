@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Mouse class driver
+ * PROJECT:         classicOS Mouse class driver
  * FILE:            drivers/mouclass/mouclass.c
  * PURPOSE:         Mouse class driver
  *

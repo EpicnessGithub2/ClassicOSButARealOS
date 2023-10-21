@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs PCI Bus Driver
+ * PROJECT:         classicOS PCI Bus Driver
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            drivers/bus/pci/intrface/busintrf.c
  * PURPOSE:         Bus Interface
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

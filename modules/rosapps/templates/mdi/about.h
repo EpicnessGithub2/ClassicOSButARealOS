@@ -1,5 +1,5 @@
 /*
- *  Windivs About Dialog Box
+ *  classicOS About Dialog Box
  *
  *  about.h
  *

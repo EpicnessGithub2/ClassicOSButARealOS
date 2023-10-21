@@ -1,7 +1,7 @@
 /*
- * PROJECT:     Windivs System Control Panel
+ * PROJECT:     classicOS System Control Panel
  * LICENSE:     GPL-2.0+ (https://spdx.org/licenses/GPL-2.0+)
- * PURPOSE:     Windivs System Control Panel
+ * PURPOSE:     classicOS System Control Panel
  * COPYRIGHT:   Copyright 2004 Gero Kuehn (reactos.filter@gkware.com)
  *              Copyright 2008 Colin Finck (colin@reactos.org)
  *              Copyright 2014 Herm�s B�lusca-Ma�to (hermes.belusca-maito@reactos.org)

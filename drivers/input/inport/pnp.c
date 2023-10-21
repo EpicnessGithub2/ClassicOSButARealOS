@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs InPort (Bus) Mouse Driver
+ * PROJECT:     classicOS InPort (Bus) Mouse Driver
  * LICENSE:     GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
  * PURPOSE:     Plug and Play requests handling
  * COPYRIGHT:   Copyright 2020 Dmitry Borisov (di.sean@protonmail.com)

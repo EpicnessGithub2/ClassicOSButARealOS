@@ -1,5 +1,5 @@
 /*
- *  Windivs regedit
+ *  classicOS regedit
  *
  *  regcmds.c
  *

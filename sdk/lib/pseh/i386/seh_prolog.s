@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       GNU GPL, see COPYING in the top level directory
- * PROJECT:         Windivs CRT
+ * PROJECT:         classicOS CRT
  * FILE:            lib/crt/misc/i386/seh_prolog.S
  * PURPOSE:         SEH Support for MSVC
  * PROGRAMMERS:     Timo Kreuzer

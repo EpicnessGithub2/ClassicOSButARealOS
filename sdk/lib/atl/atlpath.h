@@ -1,4 +1,4 @@
-// PROJECT:        Windivs ATL CPathT
+// PROJECT:        classicOS ATL CPathT
 // LICENSE:        Public Domain
 // PURPOSE:        Provides compatibility to Microsoft ATL
 // PROGRAMMERS:    Benedikt Freisen

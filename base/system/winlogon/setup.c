@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Winlogon
+ * PROJECT:         classicOS Winlogon
  * FILE:            base/system/winlogon/setup.c
  * PURPOSE:         Setup support functions
  * PROGRAMMERS:     Eric Kohl

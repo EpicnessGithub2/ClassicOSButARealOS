@@ -6,7 +6,7 @@
  * Copyright 2006 Robert Reif
  * Copyright 2006 Hervé Poussineau
  *
- * PROJECT:         Windivs system libraries
+ * PROJECT:         classicOS system libraries
  * FILE:            dll/win32/advapi32/wine/security.c
  */
 

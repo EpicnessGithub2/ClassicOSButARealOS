@@ -1,8 +1,8 @@
 /*
- * PROJECT:         Windivs Hardware Abstraction Layer (HAL)
+ * PROJECT:         classicOS Hardware Abstraction Layer (HAL)
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         BIOS Access Routines
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  *                  Alex Ionescu (alex.ionescu@reactos.org)
  */
 

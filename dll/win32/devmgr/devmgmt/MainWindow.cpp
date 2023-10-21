@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Device Manager
+ * PROJECT:     classicOS Device Manager
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        dll/win32/devmgr/devmgmt/MainWindow.cpp
  * PURPOSE:     Implements the main container window for the device view
@@ -656,7 +656,7 @@ CDeviceManager::OnCommand(_In_ WPARAM wParam,
             HICON hIcon;
 
             if (!szAppName.LoadStringW(g_hThisInstance, IDS_APPNAME))
-                szAppName = L"Windivs Device Manager";
+                szAppName = L"classicOS Device Manager";
             if (!szAppAuthors.LoadStringW(g_hThisInstance, IDS_APP_AUTHORS))
                 szAppAuthors = L"";
             hIcon = LoadIconW(g_hThisInstance, MAKEINTRESOURCEW(IDI_MAIN_ICON));

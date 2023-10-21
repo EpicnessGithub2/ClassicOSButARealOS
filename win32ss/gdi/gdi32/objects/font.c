@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs system libraries
+ * PROJECT:         classicOS system libraries
  * FILE:            win32ss/gdi/gdi32/objects/font.c
  * PURPOSE:
  * PROGRAMMER:

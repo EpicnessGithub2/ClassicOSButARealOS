@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Boot Loader
+ * PROJECT:         classicOS Boot Loader
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/freeldr/freeldr/arch/arm/winldr.c
  * PURPOSE:         ARM Kernel Loader
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES ***************************************************************/

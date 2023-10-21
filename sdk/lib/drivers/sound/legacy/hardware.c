@@ -1,5 +1,5 @@
 /*
-    Windivs Sound System
+    classicOS Sound System
     Hardware interaction helper
 
     Author:

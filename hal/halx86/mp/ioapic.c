@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:             See COPYING in the top level directory
- * PROJECT:               Windivs kernel
+ * PROJECT:               classicOS kernel
  * FILE:                  hal/halx86/mp/ioapic.c
  * PURPOSE:
  * PROGRAMMER:

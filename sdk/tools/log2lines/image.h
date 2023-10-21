@@ -1,5 +1,5 @@
 /*
- * Windivs log2lines
+ * classicOS log2lines
  * Written by Jan Roeloffzen
  *
  * - Image functions for symbol info

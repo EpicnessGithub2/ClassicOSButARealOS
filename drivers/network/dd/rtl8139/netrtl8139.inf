@@ -62,7 +62,7 @@ LoadOrderGroup = NDIS
 
 [Strings]
 ; Non-localizable
-ReactOS = "Windivs Developers"
+ReactOS = "classicOS Developers"
 
 RealtekMfg = "Realtek"
 AcctonMfg = "Accton"

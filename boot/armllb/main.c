@@ -26,7 +26,7 @@ LlbStartup(IN ULONG Reserved,
     LlbVideoClearScreen(FALSE);
 
     /* Print header */
-    printf("\nWindivs ARM Low-Level Boot Loader [" __DATE__ " "__TIME__ "]\n");
+    printf("\nclassicOS ARM Low-Level Boot Loader [" __DATE__ " "__TIME__ "]\n");
 
     /* Boot the OS Loader */
     LlbBoot();

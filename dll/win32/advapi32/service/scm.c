@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs system libraries
+ * PROJECT:         classicOS system libraries
  * FILE:            lib/advapi32/service/scm.c
  * PURPOSE:         Service control manager functions
  * PROGRAMMER:      Emanuele Aliberti

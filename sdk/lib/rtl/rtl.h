@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs System Libraries
+ * PROJECT:         classicOS System Libraries
  * FILE:            lib/rtl/rtl.h
  * PURPOSE:         Run-Time Libary Header
  * PROGRAMMER:      Alex Ionescu

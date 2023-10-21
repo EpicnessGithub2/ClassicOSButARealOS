@@ -695,7 +695,7 @@ IntLoadRegistryParameters(VOID)
 
     ExFreePoolWithTag(KeyInfo, TAG_VIDEO_PORT);
 
-    /* FIXME: Old Windivs-compatibility... */
+    /* FIXME: Old classicOS-compatibility... */
     if (VpBaseVideo) VpNoVesa = TRUE;
 
     if (VpNoVesa)

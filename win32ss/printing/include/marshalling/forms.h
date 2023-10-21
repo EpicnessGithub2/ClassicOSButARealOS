@@ -1,8 +1,8 @@
 /*
- * PROJECT:     Windivs Printing Stack Marshalling Functions
+ * PROJECT:     classicOS Printing Stack Marshalling Functions
  * LICENSE:     GPL-2.0+ (https://spdx.org/licenses/GPL-2.0+)
  * PURPOSE:     Marshalling definitions for FORM_INFO_*
- * COPYRIGHT:   Copyright 1998-2020 Windivs
+ * COPYRIGHT:   Copyright 1998-2020 classicOS
  */
 
 static const MARSHALLING FormInfo1Marshalling = {

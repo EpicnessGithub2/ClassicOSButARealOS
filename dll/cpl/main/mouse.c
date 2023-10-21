@@ -1,5 +1,5 @@
 /*
- *  Windivs
+ *  classicOS
  *  Copyright (C) 2004, 2007 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  *  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 /*
- * PROJECT:         Windivs Main Control Panel
+ * PROJECT:         classicOS Main Control Panel
  * FILE:            dll/cpl/main/mouse.c
  * PURPOSE:         Mouse Control Panel
  * PROGRAMMER:      Eric Kohl

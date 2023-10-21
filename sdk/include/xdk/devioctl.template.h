@@ -3,7 +3,7 @@
  *
  * IOCTL definitions
  *
- * This file is part of the Windivs PSDK package.
+ * This file is part of the classicOS PSDK package.
  *
  * Contributors:
  *   Amine Khaldi

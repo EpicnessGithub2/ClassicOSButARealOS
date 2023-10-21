@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs PSDK
+ * PROJECT:     classicOS PSDK
  * LICENSE:     MIT (https://spdx.org/licenses/MIT)
  * PURPOSE:     Standard Annotation Language (SAL) definitions
  * COPYRIGHT:   2021 - Jérôme Gardou

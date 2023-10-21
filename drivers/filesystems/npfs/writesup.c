@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Named Pipe FileSystem
+ * PROJECT:     classicOS Named Pipe FileSystem
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        drivers/filesystems/npfs/writesup.c
  * PURPOSE:     Pipes Writing Support
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

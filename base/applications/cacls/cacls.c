@@ -1,5 +1,5 @@
 /*
- * Windivs Control ACLs Program
+ * classicOS Control ACLs Program
  * Copyright (C) 2006 Thomas Weidenmueller
  *
  * This library is free software; you can redistribute it and/or

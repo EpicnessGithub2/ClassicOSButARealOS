@@ -1,6 +1,6 @@
 /**
  * Test case for PostThreadMessage
- * (C) 2003 Windivs
+ * (C) 2003 classicOS
  * License: LGPL
  * See: LGPL.txt in top directory.
  * Author: arty
