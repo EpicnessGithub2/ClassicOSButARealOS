@@ -8,14 +8,14 @@ static MUI_ENTRY ptPTSetupInitPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Por favor aguarde enquanto o Instalador do Windivs inicializa",
+        "Por favor aguarde enquanto o Instalador do classicOS inicializa",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -46,7 +46,7 @@ static MUI_ENTRY ptPTLanguagePageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -98,21 +98,21 @@ static MUI_ENTRY ptPTWelcomePageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Bem-vindo ao assist\210nte de instala\207\306o do Windivs.",
+        "Bem-vindo ao assist\210nte de instala\207\306o do classicOS.",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Esta fase da instala\207\306o prepara o Windivs para ser",
+        "Esta fase da instala\207\306o prepara o classicOS para ser",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -126,14 +126,14 @@ static MUI_ENTRY ptPTWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Pressione ENTER para instalar ou actualizar o Windivs.",
+        "\x07  Pressione ENTER para instalar ou actualizar o classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Para reparar uma instala\207\306o do Windivs, pressione R.",
+        "\x07  Para reparar uma instala\207\306o do classicOS, pressione R.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -147,21 +147,21 @@ static MUI_ENTRY ptPTWelcomePageEntries[] =
     {
         8,
         21,
-        "\x07  Para sair sem instalar o Windivs, pressione F3.",
+        "\x07  Para sair sem instalar o classicOS, pressione F3.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Para mais informa\207\344es sobre o Windivs, visite o s\241tio:",
+        "Para mais informa\207\344es sobre o classicOS, visite o s\241tio:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -185,28 +185,28 @@ static MUI_ENTRY ptPTIntroPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Vers\306o Status",
+        "classicOS Vers\306o Status",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -227,7 +227,7 @@ static MUI_ENTRY ptPTIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -241,14 +241,14 @@ static MUI_ENTRY ptPTIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Pressione ENTER para continuar a instala\207\306o do Windivs.",
+        "\x07  Pressione ENTER para continuar a instala\207\306o do classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Pressione F3 para terminar sem instalar o Windivs.",
+        "\x07  Pressione F3 para terminar sem instalar o classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -272,7 +272,7 @@ static MUI_ENTRY ptPTLicensePageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -286,7 +286,7 @@ static MUI_ENTRY ptPTLicensePageEntries[] =
     {
         8,
         8,
-        "O Windivs est\240 licenciado sob os termos da licen\207a",
+        "O classicOS est\240 licenciado sob os termos da licen\207a",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -307,7 +307,7 @@ static MUI_ENTRY ptPTLicensePageEntries[] =
     {
         8,
         11,
-        "Todo o software que faz parte do sistema Windivs \202 portanto,",
+        "Todo o software que faz parte do sistema classicOS \202 portanto,",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -342,7 +342,7 @@ static MUI_ENTRY ptPTLicensePageEntries[] =
     {
         8,
         17,
-        "A licen\207a do Windivs abrange apenas a distribui\207\306o a terceiros.",
+        "A licen\207a do classicOS abrange apenas a distribui\207\306o a terceiros.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -356,7 +356,7 @@ static MUI_ENTRY ptPTLicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public License com o Windivs por favor visite",
+        "GNU General Public License com o classicOS por favor visite",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -415,7 +415,7 @@ static MUI_ENTRY ptPTDevicePageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -515,14 +515,14 @@ static MUI_ENTRY ptPTRepairPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "O instalador do Windivs est\240 em fase inicial de desenvolvimento e",
+        "O instalador do classicOS est\240 em fase inicial de desenvolvimento e",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -588,21 +588,21 @@ static MUI_ENTRY ptPTUpgradePageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Com o Instalador do Windivs pode actualizar uma das instala\207\344es",
+        "Com o Instalador do classicOS pode actualizar uma das instala\207\344es",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "dispon\241veis listadas abaixo, ou, se tem uma instala\207\306o do Windivs",
+        "dispon\241veis listadas abaixo, ou, se tem uma instala\207\306o do classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -644,7 +644,7 @@ static MUI_ENTRY ptPTUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Pressione F3 para terminar sem instalar o Windivs.",
+        "\x07  Pressione F3 para terminar sem instalar o classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -668,7 +668,7 @@ static MUI_ENTRY ptPTComputerPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -734,7 +734,7 @@ static MUI_ENTRY ptPTFlushPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -786,14 +786,14 @@ static MUI_ENTRY ptPTQuitPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "O Windivs n\306o foi totalmente instalado neste computador.",
+        "O classicOS n\306o foi totalmente instalado neste computador.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -838,7 +838,7 @@ static MUI_ENTRY ptPTDisplayPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -897,14 +897,14 @@ static MUI_ENTRY ptPTSuccessPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Os componentes b\240sicos do Windivs foram instalados com sucesso.",
+        "Os componentes b\240sicos do classicOS foram instalados com sucesso.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -949,7 +949,7 @@ static MUI_ENTRY ptPTBootPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1002,7 +1002,7 @@ static MUI_ENTRY ptPTSelectPartitionEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1037,7 +1037,7 @@ static MUI_ENTRY ptPTSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Para configurar o Windivs no item seleccionado, pressione ENTER.",
+        "\x07  Para configurar o classicOS no item seleccionado, pressione ENTER.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1090,7 +1090,7 @@ static MUI_ENTRY ptPTChangeSystemPartition[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1111,14 +1111,14 @@ static MUI_ENTRY ptPTChangeSystemPartition[] =
     {
         6,
         16,
-        "formato n\306o suportado pelo Windivs.",
+        "formato n\306o suportado pelo classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "Para instalar o Windivs com sucesso, o instalador deve alterar",
+        "Para instalar o classicOS com sucesso, o instalador deve alterar",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1188,7 +1188,7 @@ static MUI_ENTRY ptPTChangeSystemPartition[] =
     {
         6,
         35,
-        "ap\242s a instala\207\306o do Windivs ser concluida.",
+        "ap\242s a instala\207\306o do classicOS ser concluida.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1212,7 +1212,7 @@ static MUI_ENTRY ptPTConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1240,7 +1240,7 @@ static MUI_ENTRY ptPTConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         12,
-        "(Windivs) ou outro e programas fornecidos pelo fabricante do hardware.",
+        "(classicOS) ou outro e programas fornecidos pelo fabricante do hardware.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1268,7 +1268,7 @@ static MUI_ENTRY ptPTConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "computador pelo disco r\241gido at\202 concluir a instala\207\306o do Windivs.",
+        "computador pelo disco r\241gido at\202 concluir a instala\207\306o do classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1320,7 +1320,7 @@ static MUI_ENTRY ptPTFormatPartitionEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1358,7 +1358,7 @@ static MUI_ENTRY ptPTCheckFSEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1389,7 +1389,7 @@ static MUI_ENTRY ptPTInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1403,7 +1403,7 @@ static MUI_ENTRY ptPTInstallDirectoryEntries[] =
     {
         6,
         9,
-        "Seleccione o direct\242rio onde deseja que o Windivs seja instalado:",
+        "Seleccione o direct\242rio onde deseja que o classicOS seja instalado:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1417,7 +1417,7 @@ static MUI_ENTRY ptPTInstallDirectoryEntries[] =
     {
         6,
         15,
-        "o texto e escreva o nome do direct\242rio onde deseja que o Windivs",
+        "o texto e escreva o nome do direct\242rio onde deseja que o classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1448,7 +1448,7 @@ static MUI_ENTRY ptPTFileCopyEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1462,7 +1462,7 @@ static MUI_ENTRY ptPTFileCopyEntries[] =
     {
         0,
         13,
-        "arquivos do Windivs para a pasta de instala\207\306o.",
+        "arquivos do classicOS para a pasta de instala\207\306o.",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1493,7 +1493,7 @@ static MUI_ENTRY ptPTBootLoaderEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1552,7 +1552,7 @@ static MUI_ENTRY ptPTBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1576,7 +1576,7 @@ static MUI_ENTRY ptPTKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1635,7 +1635,7 @@ static MUI_ENTRY ptPTLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1702,7 +1702,7 @@ static MUI_ENTRY ptPTPrepareCopyEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1716,7 +1716,7 @@ static MUI_ENTRY ptPTPrepareCopyEntries[] =
     {
         6,
         9,
-        "do Windivs.",
+        "do classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1741,7 +1741,7 @@ static MUI_ENTRY ptPTSelectFSEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1789,7 +1789,7 @@ static MUI_ENTRY ptPTDeletePartitionEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1848,7 +1848,7 @@ static MUI_ENTRY ptPTRegistryEntries[] =
     {
         4,
         3,
-        " Instala\207\306o do Windivs 2k3 Service Pack 2 ",
+        " Instala\207\306o do classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1883,9 +1883,9 @@ MUI_ERROR ptPTErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "O Windivs n\306o est\240 completamente instalado no computador.\n"
+        "O classicOS n\306o est\240 completamente instalado no computador.\n"
         "Se sair da instala\207\306o agora, precisar\240 executa-la\n"
-        "novamente para instalar o Windivs.\n"
+        "novamente para instalar o classicOS.\n"
         "\n"
         "  \x07  Para continuar a instala\207\306o, pressione ENTER.\n"
         "  \x07  Para sair da instala\207\306o, pressione F3.",
@@ -2087,7 +2087,7 @@ MUI_ERROR ptPTErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "A parti\207\306o selecionada n\306o \202 grande o suficiente para instalar o Windivs.\n"
+        "A parti\207\306o selecionada n\306o \202 grande o suficiente para instalar o classicOS.\n"
         "A parti\207\306o de instala\207\306o deve ter um tamanho de pelo menos %lu MB.\n"
         "\n"
         "  * Pressione qualquer tecla para continuar.",
@@ -2271,13 +2271,13 @@ MUI_STRING ptPTStrings[] =
     {STRING_PARTFORMAT,
     "Esta parti\207\306o ser\240 formatada logo em seguida."},
     {STRING_NONFORMATTEDPART,
-    "Solicitou instalar o Windivs numa parti\207\306o nova ou sem formato."},
+    "Solicitou instalar o classicOS numa parti\207\306o nova ou sem formato."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "A parti\207\306o ainda n\306o est\240 formatada."},
     {STRING_NONFORMATTEDOTHERPART,
     "A nova parti\207\306o ainda n\306o est\240 formatada."},
     {STRING_INSTALLONPART,
-    "O instalador instala o Windivs na parti\207\306o"},
+    "O instalador instala o classicOS na parti\207\306o"},
     {STRING_CONTINUE,
     "ENTER=Continuar"},
     {STRING_QUITCONTINUE,

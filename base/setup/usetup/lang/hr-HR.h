@@ -8,7 +8,7 @@ static MUI_ENTRY hrHRSetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -46,7 +46,7 @@ static MUI_ENTRY hrHRLanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -98,21 +98,21 @@ static MUI_ENTRY hrHRWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Dobrodo\347li u Windivs instalaciju",
+        "Dobrodo\347li u classicOS instalaciju",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Ovaj dio instalacije kopira Windivs na va\347e",
+        "Ovaj dio instalacije kopira classicOS na va\347e",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -126,43 +126,43 @@ static MUI_ENTRY hrHRWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Pritisnite ENTER za instalaciju ili nadogradnju Windivs-a.",
+        "\x07  Pritisnite ENTER za instalaciju ili nadogradnju classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-     // "\x07  Pritisnite R za popravak Windivs instalacije koriste�i Recovery Console.",
-        "\x07  Pritisnite R za popravak Windivs instalacije.",
+     // "\x07  Pritisnite R za popravak classicOS instalacije koriste�i Recovery Console.",
+        "\x07  Pritisnite R za popravak classicOS instalacije.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Pritisnite L da vidite Windivs licencni ugovor.",
+        "\x07  Pritisnite L da vidite classicOS licencni ugovor.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Pritisnite F3 da biste iza\347li bez instalacije Windivs-a.",
+        "\x07  Pritisnite F3 da biste iza\347li bez instalacije classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Za vi\347e informacija o Windivs-a, posjetite:",
+        "Za vi\347e informacija o classicOS-a, posjetite:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -186,28 +186,28 @@ static MUI_ENTRY hrHRIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Status Verzije",
+        "classicOS Status Verzije",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -228,7 +228,7 @@ static MUI_ENTRY hrHRIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -242,21 +242,21 @@ static MUI_ENTRY hrHRIntroPageEntries[] =
     {
         6,
         17,
-        "ra\237unalu da biste pokrenuli Windivs na fizi\237kom ra\237unalu.",
+        "ra\237unalu da biste pokrenuli classicOS na fizi\237kom ra\237unalu.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         20,
-        "\x07  Pritisnite ENTER da biste nastavili Windivs instalaciju.",
+        "\x07  Pritisnite ENTER da biste nastavili classicOS instalaciju.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         22,
-        "\x07  Pritisnite F3 da biste iza\347li bez instalacije Windivs-a.",
+        "\x07  Pritisnite F3 da biste iza\347li bez instalacije classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -280,7 +280,7 @@ static MUI_ENTRY hrHRLicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -294,7 +294,7 @@ static MUI_ENTRY hrHRLicensePageEntries[] =
     {
         8,
         8,
-        "Windivs je pod licencom",
+        "classicOS je pod licencom",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -315,7 +315,7 @@ static MUI_ENTRY hrHRLicensePageEntries[] =
     {
         8,
         11,
-        "Sav software je dio Windivs sustava",
+        "Sav software je dio classicOS sustava",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -350,7 +350,7 @@ static MUI_ENTRY hrHRLicensePageEntries[] =
     {
         8,
         17,
-        "Windivs-a pokriva distribuciju samo tre\206im stranama.",
+        "classicOS-a pokriva distribuciju samo tre\206im stranama.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -364,7 +364,7 @@ static MUI_ENTRY hrHRLicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public licence s Windivs molimo posjetite",
+        "GNU General Public licence s classicOS molimo posjetite",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -423,7 +423,7 @@ static MUI_ENTRY hrHRDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -530,14 +530,14 @@ static MUI_ENTRY hrHRRepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs instalacija je u ranoj fazi razvijanja. Jo\347 nema",
+        "classicOS instalacija je u ranoj fazi razvijanja. Jo\347 nema",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -603,21 +603,21 @@ static MUI_ENTRY hrHRUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs instalacija mo\247e a\247urirati jednu postoje\206u Windivs instalaciju",
+        "classicOS instalacija mo\247e a\247urirati jednu postoje\206u classicOS instalaciju",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "napisanu ispod, ili, ako je Windivs instalacija je o\347te\206ena,",
+        "napisanu ispod, ili, ako je classicOS instalacija je o\347te\206ena,",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -659,7 +659,7 @@ static MUI_ENTRY hrHRUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Pritisnite F3 da biste iza\347li bez instalacije Windivs-a.",
+        "\x07  Pritisnite F3 da biste iza\347li bez instalacije classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -683,7 +683,7 @@ static MUI_ENTRY hrHRComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -742,7 +742,7 @@ static MUI_ENTRY hrHRFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -787,14 +787,14 @@ static MUI_ENTRY hrHRQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs nije potpuno instaliran.",
+        "classicOS nije potpuno instaliran.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -839,7 +839,7 @@ static MUI_ENTRY hrHRDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -898,14 +898,14 @@ static MUI_ENTRY hrHRSuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Osnovni dijelovi Windivs-a su se uspje\347no instalirali.",
+        "Osnovni dijelovi classicOS-a su se uspje\347no instalirali.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -950,7 +950,7 @@ static MUI_ENTRY hrHRBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1003,7 +1003,7 @@ static MUI_ENTRY hrHRSelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1031,7 +1031,7 @@ static MUI_ENTRY hrHRSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Pritisnite ENTER da biste instalirali Windivs na odabranu particiju.",
+        "\x07  Pritisnite ENTER da biste instalirali classicOS na odabranu particiju.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1083,7 +1083,7 @@ static MUI_ENTRY hrHRChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1104,14 +1104,14 @@ static MUI_ENTRY hrHRChangeSystemPartition[] =
     {
         6,
         16,
-        "koristi format koji nije podr\247an od strane Windivs-a.",
+        "koristi format koji nije podr\247an od strane classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "Da bi se provela uspje\347na instalacija Windivs-a, instalacijski program mora promijeniti",
+        "Da bi se provela uspje\347na instalacija classicOS-a, instalacijski program mora promijeniti",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1181,7 +1181,7 @@ static MUI_ENTRY hrHRChangeSystemPartition[] =
     {
         6,
         35,
-        "original nakon \347to se instalacija Windivs-a zavr\347i.",
+        "original nakon \347to se instalacija classicOS-a zavr\347i.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1205,7 +1205,7 @@ static MUI_ENTRY hrHRConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1226,7 +1226,7 @@ static MUI_ENTRY hrHRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programe, programi koji pokre\206u operativa sustav (npr. Windivs) ili drugi",
+        "programe, programi koji pokre\206u operativa sustav (npr. classicOS) ili drugi",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1261,7 +1261,7 @@ static MUI_ENTRY hrHRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        " s trvdog diska u ra\237unalu until dok ne zavr\347ite instalaciju Windivs-a.",
+        " s trvdog diska u ra\237unalu until dok ne zavr\347ite instalaciju classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1313,7 +1313,7 @@ static MUI_ENTRY hrHRFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1358,7 +1358,7 @@ static MUI_ENTRY hrHRCheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1389,21 +1389,21 @@ static MUI_ENTRY hrHRInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalacijski program kopira datoteke Windivs-a na odabranu particju.",
+        "Instalacijski program kopira datoteke classicOS-a na odabranu particju.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Odaberite direktorij gdje \247elite da se Windivs instalira:",
+        "Odaberite direktorij gdje \247elite da se classicOS instalira:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1424,7 +1424,7 @@ static MUI_ENTRY hrHRInstallDirectoryEntries[] =
     {
         6,
         16,
-        "u kojem \247elite da se Windivs instalira.",
+        "u kojem \247elite da se classicOS instalira.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1448,14 +1448,14 @@ static MUI_ENTRY hrHRFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         12,
-        "Pri\237ekajte dok Windivs instalacijski program kopira datoteke u Va\347 Windivs",
+        "Pri\237ekajte dok classicOS instalacijski program kopira datoteke u Va\347 classicOS",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1493,7 +1493,7 @@ static MUI_ENTRY hrHRBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1559,7 +1559,7 @@ static MUI_ENTRY hrHRBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1583,7 +1583,7 @@ static MUI_ENTRY hrHRKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1642,7 +1642,7 @@ static MUI_ENTRY hrHRLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1702,14 +1702,14 @@ static MUI_ENTRY hrHRPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalacijski sustav priprema ra\237unalo na kopiranje datoteke Windivs-a.",
+        "Instalacijski sustav priprema ra\237unalo na kopiranje datoteke classicOS-a.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1734,7 +1734,7 @@ static MUI_ENTRY hrHRSelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1782,7 +1782,7 @@ static MUI_ENTRY hrHRDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1834,7 +1834,7 @@ static MUI_ENTRY hrHRRegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 instalacija ",
+        " classicOS 2k3 Service Pack 2 instalacija ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1869,9 +1869,9 @@ MUI_ERROR hrHRErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs nije u potpunosti instaliran na Va\347em\n"
+        "classicOS nije u potpunosti instaliran na Va\347em\n"
         "ra\237unalu. Ako sada iza\320ete iz Instalacijskog programa, trebati \206ete ponovno\n"
-        "pokrenuti Instalacijski program da biste instalirali Windivs.\n"
+        "pokrenuti Instalacijski program da biste instalirali classicOS.\n"
         "\n"
         "  \x07  Pritisnite ENTER da nasatvite.\n"
         "  \x07  Pritisnite F3 da iza\320ete iz Instalacijskog programa.",
@@ -1879,7 +1879,7 @@ MUI_ERROR hrHRErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Neuspje\347nja gradnja instalacijskih putanja za Windivs instalacijski direktorij!\n"
+        "Neuspje\347nja gradnja instalacijskih putanja za classicOS instalacijski direktorij!\n"
         "ENTER = Ponovno pokreni ra\237unalo"
     },
     {
@@ -1889,7 +1889,7 @@ MUI_ERROR hrHRErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Ponovno pokreni ra\237unalo"
     },
     {
@@ -2088,7 +2088,7 @@ MUI_ERROR hrHRErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Odabrana particija nije dovoljno velika za instalaciju Windivs-a.\n"
+        "Odabrana particija nije dovoljno velika za instalaciju classicOS-a.\n"
         "Instalacijska partcija mora biti velika minimalno %lu MB.\n"
         "\n"
         "  * Pritisnite bilo koju tipku da biste nastavite.",
@@ -2271,13 +2271,13 @@ MUI_STRING hrHRStrings[] =
     {STRING_PARTFORMAT,
     "Ova \206e particija biti sljede\206a formatirana."},
     {STRING_NONFORMATTEDPART,
-    "Odabrali ste instalirati Windivs na novu ili neformatiranu particiju."},
+    "Odabrali ste instalirati classicOS na novu ili neformatiranu particiju."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "Sistemska particija nije jo\347 formatirana."},
     {STRING_NONFORMATTEDOTHERPART,
     "Nova partcija nije jo\347 formatirana."},
     {STRING_INSTALLONPART,
-    "Instalacijski program instalirava Windivs na particiju"},
+    "Instalacijski program instalirava classicOS na particiju"},
     {STRING_CONTINUE,
     "ENTER = Nastavi"},
     {STRING_QUITCONTINUE,

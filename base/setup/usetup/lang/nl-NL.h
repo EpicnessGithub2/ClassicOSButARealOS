@@ -13,14 +13,14 @@ static MUI_ENTRY nlNLSetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Please wait while the Windivs Setup initializes itself",
+        "Please wait while the classicOS Setup initializes itself",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -51,7 +51,7 @@ static MUI_ENTRY nlNLLanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -103,21 +103,21 @@ static MUI_ENTRY nlNLWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Welkom bij Windivs Setup",
+        "Welkom bij classicOS Setup",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Dit deel van de installatie kopieert Windivs naar uw computer",
+        "Dit deel van de installatie kopieert classicOS naar uw computer",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -131,28 +131,28 @@ static MUI_ENTRY nlNLWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Press ENTER to install or upgrade Windivs.",
+        "\x07  Press ENTER to install or upgrade classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Druk op R om Windivs te repareren.",
+        "\x07  Druk op R om classicOS te repareren.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Druk op L om de Windivs licentieovereenkomst te bekijken.",
+        "\x07  Druk op L om de classicOS licentieovereenkomst te bekijken.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Druk op F3 als u Setup wilt afsluiten zonder Windivs te",
+        "\x07  Druk op F3 als u Setup wilt afsluiten zonder classicOS te",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -166,14 +166,14 @@ static MUI_ENTRY nlNLWelcomePageEntries[] =
     {
         6,
         24,
-        "Voor meer informatie over Windivs bezoekt u:",
+        "Voor meer informatie over classicOS bezoekt u:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         25,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -197,28 +197,28 @@ static MUI_ENTRY nlNLIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Version Status",
+        "classicOS Version Status",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -239,7 +239,7 @@ static MUI_ENTRY nlNLIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -253,14 +253,14 @@ static MUI_ENTRY nlNLIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Press ENTER to continue Windivs Setup.",
+        "\x07  Press ENTER to continue classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -284,7 +284,7 @@ static MUI_ENTRY nlNLLicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -298,7 +298,7 @@ static MUI_ENTRY nlNLLicensePageEntries[] =
     {
         8,
         8,
-        "The Windivs System is licensed under the terms of the",
+        "The classicOS System is licensed under the terms of the",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -319,7 +319,7 @@ static MUI_ENTRY nlNLLicensePageEntries[] =
     {
         8,
         11,
-        "All software that is part of the Windivs system is",
+        "All software that is part of the classicOS system is",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -354,7 +354,7 @@ static MUI_ENTRY nlNLLicensePageEntries[] =
     {
         8,
         17,
-        "Windivs only covers distribution to third parties.",
+        "classicOS only covers distribution to third parties.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -368,7 +368,7 @@ static MUI_ENTRY nlNLLicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public License with Windivs please visit",
+        "GNU General Public License with classicOS please visit",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -427,7 +427,7 @@ static MUI_ENTRY nlNLDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -527,14 +527,14 @@ static MUI_ENTRY nlNLRepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Setup is nog in een vroege ontwikkelingsfase",
+        "classicOS Setup is nog in een vroege ontwikkelingsfase",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -562,7 +562,7 @@ static MUI_ENTRY nlNLRepairPageEntries[] =
     {
         8,
         15,
-        "\x07  Druk op U om Windivs bij te werken.",
+        "\x07  Druk op U om classicOS bij te werken.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -607,21 +607,21 @@ static MUI_ENTRY nlNLUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "The Windivs Setup can upgrade one of the available Windivs installations",
+        "The classicOS Setup can upgrade one of the available classicOS installations",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "listed below, or, if a Windivs installation is damaged, the Setup program",
+        "listed below, or, if a classicOS installation is damaged, the Setup program",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -663,7 +663,7 @@ static MUI_ENTRY nlNLUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -687,7 +687,7 @@ static MUI_ENTRY nlNLComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -746,7 +746,7 @@ static MUI_ENTRY nlNLFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -791,14 +791,14 @@ static MUI_ENTRY nlNLQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs is niet volledig ge\x8Bnstalleerd.",
+        "classicOS is niet volledig ge\x8Bnstalleerd.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -843,7 +843,7 @@ static MUI_ENTRY nlNLDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -902,14 +902,14 @@ static MUI_ENTRY nlNLSuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "De basisonderdelen van Windivs zijn succesvol ge\x8Bnstalleerd.",
+        "De basisonderdelen van classicOS zijn succesvol ge\x8Bnstalleerd.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -954,7 +954,7 @@ static MUI_ENTRY nlNLBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1007,7 +1007,7 @@ static MUI_ENTRY nlNLSelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1035,7 +1035,7 @@ static MUI_ENTRY nlNLSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Druk op ENTER om Windivs te installeren op de geselecteerde partitie.",
+        "\x07  Druk op ENTER om classicOS te installeren op de geselecteerde partitie.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1088,7 +1088,7 @@ static MUI_ENTRY nlNLChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1109,14 +1109,14 @@ static MUI_ENTRY nlNLChangeSystemPartition[] =
     {
         6,
         16,
-        "uses a format not supported by Windivs.",
+        "uses a format not supported by classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "In order to successfully install Windivs, the Setup program must change",
+        "In order to successfully install classicOS, the Setup program must change",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1186,7 +1186,7 @@ static MUI_ENTRY nlNLChangeSystemPartition[] =
     {
         6,
         35,
-        "to the original one after finishing the installation of Windivs.",
+        "to the original one after finishing the installation of classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1210,7 +1210,7 @@ static MUI_ENTRY nlNLConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1231,7 +1231,7 @@ static MUI_ENTRY nlNLConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programs, programs to start an operating system (like Windivs) or other",
+        "programs, programs to start an operating system (like classicOS) or other",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1266,7 +1266,7 @@ static MUI_ENTRY nlNLConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "computer from the harddisk until you finished the Windivs Setup.",
+        "computer from the harddisk until you finished the classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1318,7 +1318,7 @@ static MUI_ENTRY nlNLFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1356,7 +1356,7 @@ static MUI_ENTRY nlNLCheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1387,21 +1387,21 @@ static MUI_ENTRY nlNLInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Setup installeert Windivs bestanden op de geselecteerde partitie.",
+        "Setup installeert classicOS bestanden op de geselecteerde partitie.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Geef een pad op waar Windivs ge\x8Bnstalleerd moet worden:",
+        "Geef een pad op waar classicOS ge\x8Bnstalleerd moet worden:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1415,7 +1415,7 @@ static MUI_ENTRY nlNLInstallDirectoryEntries[] =
     {
         6,
         15,
-        "karakters te verwijderen en voer dan in waar u Windivs",
+        "karakters te verwijderen en voer dan in waar u classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1446,14 +1446,14 @@ static MUI_ENTRY nlNLFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         12,
-        "Bezig met het kopi\x89ren van bestanden naar uw Windivs installatiemap.",
+        "Bezig met het kopi\x89ren van bestanden naar uw classicOS installatiemap.",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1491,7 +1491,7 @@ static MUI_ENTRY nlNLBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1550,7 +1550,7 @@ static MUI_ENTRY nlNLBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1574,7 +1574,7 @@ static MUI_ENTRY nlNLkeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1633,7 +1633,7 @@ static MUI_ENTRY nlNLLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1693,14 +1693,14 @@ static MUI_ENTRY nlNLPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Setup bereidt uw computer voor op het kopi\x89ren van Windivs bestanden.",
+        "Setup bereidt uw computer voor op het kopi\x89ren van classicOS bestanden.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1725,7 +1725,7 @@ static MUI_ENTRY nlNLSelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1773,7 +1773,7 @@ static MUI_ENTRY nlNLDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1825,7 +1825,7 @@ static MUI_ENTRY nlNLRegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1866,9 +1866,9 @@ MUI_ERROR nlNLErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs is niet geheel ge\x8Bnstalleerd op uw\n"
+        "classicOS is niet geheel ge\x8Bnstalleerd op uw\n"
         "computer. Als u Setup nu afsluit moet u\n"
-        "Setup opnieuw starten om Windivs te installeren.\n"
+        "Setup opnieuw starten om classicOS te installeren.\n"
         "\n"
         "  \x07  Druk op ENTER om door te gaan met Setup.\n"
         "  \x07  Druk op F3 om Setup af te sluiten.",
@@ -1876,7 +1876,7 @@ MUI_ERROR nlNLErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1886,7 +1886,7 @@ MUI_ERROR nlNLErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2089,7 +2089,7 @@ MUI_ERROR nlNLErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "The selected partition is not large enough to install Windivs.\n"
+        "The selected partition is not large enough to install classicOS.\n"
         "The install partition must have a size of at least %lu MB.\n"
         "\n"
         "  * Druk op een toets om door te gaan.",
@@ -2274,13 +2274,13 @@ MUI_STRING nlNLStrings[] =
     {STRING_PARTFORMAT,
     "Deze partitie zal vervolgens geformatteerd worden."},
     {STRING_NONFORMATTEDPART,
-    "U wilt Windivs installeren op een nieuwe of ongeformatteerde partitie."},
+    "U wilt classicOS installeren op een nieuwe of ongeformatteerde partitie."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "The system partition is not formatted yet."},
     {STRING_NONFORMATTEDOTHERPART,
     "The new partition is not formatted yet."},
     {STRING_INSTALLONPART,
-    "Setup installeert Windivs op Partitie"},
+    "Setup installeert classicOS op Partitie"},
     {STRING_CONTINUE,
     "ENTER = Doorgaan"},
     {STRING_QUITCONTINUE,

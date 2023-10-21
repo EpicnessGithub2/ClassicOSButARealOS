@@ -8,14 +8,14 @@ static MUI_ENTRY frFRSetupInitPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Veuillez patienter pendant que le programme d'installation de Windivs",
+        "Veuillez patienter pendant que le programme d'installation de classicOS",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -46,7 +46,7 @@ static MUI_ENTRY frFRLanguagePageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -98,21 +98,21 @@ static MUI_ENTRY frFRWelcomePageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Bienvenue dans l'installation de Windivs",
+        "Bienvenue dans l'installation de classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Cette partie de l'installation copie le Syst\212me d'Exploitation Windivs",
+        "Cette partie de l'installation copie le Syst\212me d'Exploitation classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -126,42 +126,42 @@ static MUI_ENTRY frFRWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Appuyer sur ENTR\220E pour installer ou mettre \205 jour Windivs.",
+        "\x07  Appuyer sur ENTR\220E pour installer ou mettre \205 jour classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Appuyer sur R pour r\202parer Windivs.",
+        "\x07  Appuyer sur R pour r\202parer classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Appuyer sur L pour les Termes et Conditions de Licence Windivs",
+        "\x07  Appuyer sur L pour les Termes et Conditions de Licence classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Appuyer sur F3 pour quitter sans installer Windivs.",
+        "\x07  Appuyer sur F3 pour quitter sans installer classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Pour plus d'informations sur Windivs, veuiller visiter :",
+        "Pour plus d'informations sur classicOS, veuiller visiter :",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -185,28 +185,28 @@ static MUI_ENTRY frFRIntroPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Statut de version de Windivs",
+        "Statut de version de classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -227,7 +227,7 @@ static MUI_ENTRY frFRIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -241,14 +241,14 @@ static MUI_ENTRY frFRIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Appuyez sur ENTR\220E pour continuer l'installation de Windivs.",
+        "\x07  Appuyez sur ENTR\220E pour continuer l'installation de classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Appuyez sur F3 pour quitter sans installer Windivs.",
+        "\x07  Appuyez sur F3 pour quitter sans installer classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -272,7 +272,7 @@ static MUI_ENTRY frFRLicensePageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -286,7 +286,7 @@ static MUI_ENTRY frFRLicensePageEntries[] =
     {
         8,
         8,
-        "Le syst\212me Windivs est distribu\202 sous les termes de",
+        "Le syst\212me classicOS est distribu\202 sous les termes de",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -307,7 +307,7 @@ static MUI_ENTRY frFRLicensePageEntries[] =
     {
         8,
         11,
-        "Tout le logiciel constituant le syst\212me Windivs est",
+        "Tout le logiciel constituant le syst\212me classicOS est",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -342,7 +342,7 @@ static MUI_ENTRY frFRLicensePageEntries[] =
     {
         8,
         17,
-        "La licence de Windivs ne couvre que la distribution",
+        "La licence de classicOS ne couvre que la distribution",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -363,7 +363,7 @@ static MUI_ENTRY frFRLicensePageEntries[] =
     {
         8,
         20,
-        "GNU General Public License avec Windivs veuillez visiter",
+        "GNU General Public License avec classicOS veuillez visiter",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -429,7 +429,7 @@ static MUI_ENTRY frFRDevicePageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -536,14 +536,14 @@ static MUI_ENTRY frFRRepairPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "L'installation de Windivs est en phase de d\202veloppement.",
+        "L'installation de classicOS est en phase de d\202veloppement.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -616,21 +616,21 @@ static MUI_ENTRY frFRUpgradePageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Le programme d'installation de Windivs peut mettre \205 jour l'une des",
+        "Le programme d'installation de classicOS peut mettre \205 jour l'une des",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "installations de Windivs list\202es ci-dessous, ou bien, si l'une d'elles",
+        "installations de classicOS list\202es ci-dessous, ou bien, si l'une d'elles",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -672,7 +672,7 @@ static MUI_ENTRY frFRUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Appuyer sur F3 pour quitter sans installer Windivs.",
+        "\x07  Appuyer sur F3 pour quitter sans installer classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -696,7 +696,7 @@ static MUI_ENTRY frFRComputerPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -755,7 +755,7 @@ static MUI_ENTRY frFRFlushPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -800,14 +800,14 @@ static MUI_ENTRY frFRQuitPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs n'est pas compl\212tement install\202.",
+        "classicOS n'est pas compl\212tement install\202.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -852,7 +852,7 @@ static MUI_ENTRY frFRDisplayPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -911,14 +911,14 @@ static MUI_ENTRY frFRSuccessPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Les composants standards de Windivs ont \202t\202 install\202s avec succ\212s.",
+        "Les composants standards de classicOS ont \202t\202 install\202s avec succ\212s.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -963,7 +963,7 @@ static MUI_ENTRY frFRBootPageEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1016,7 +1016,7 @@ static MUI_ENTRY frFRSelectPartitionEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1044,7 +1044,7 @@ static MUI_ENTRY frFRSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Appuyer sur ENTR\220E pour installer Windivs sur la partition choisie.",
+        "\x07  Appuyer sur ENTR\220E pour installer classicOS sur la partition choisie.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1096,7 +1096,7 @@ static MUI_ENTRY frFRChangeSystemPartition[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1117,14 +1117,14 @@ static MUI_ENTRY frFRChangeSystemPartition[] =
     {
         6,
         16,
-        "emploie un format qui n'est pas support\202 par Windivs.",
+        "emploie un format qui n'est pas support\202 par classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "Afin de pouvoir installer Windivs avec succ\212s, Windivs Setup doit changer",
+        "Afin de pouvoir installer classicOS avec succ\212s, classicOS Setup doit changer",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1194,7 +1194,7 @@ static MUI_ENTRY frFRChangeSystemPartition[] =
     {
         6,
         35,
-        "d'origine apr\212s la fin de l'installation de Windivs.",
+        "d'origine apr\212s la fin de l'installation de classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1218,7 +1218,7 @@ static MUI_ENTRY frFRConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1246,7 +1246,7 @@ static MUI_ENTRY frFRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         12,
-        "d'exploitation (comme Windivs) ou d'autres programmes fournis par le",
+        "d'exploitation (comme classicOS) ou d'autres programmes fournis par le",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1288,7 +1288,7 @@ static MUI_ENTRY frFRConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         19,
-        "finissiez l'installation de Windivs.",
+        "finissiez l'installation de classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1340,7 +1340,7 @@ static MUI_ENTRY frFRFormatPartitionEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1378,7 +1378,7 @@ static MUI_ENTRY frFRCheckFSEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1409,21 +1409,21 @@ static MUI_ENTRY frFRInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Setup installe les fichiers de Windivs sur la partition s\202lectionn\202e.",
+        "Setup installe les fichiers de classicOS sur la partition s\202lectionn\202e.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Choisissez un repertoire o\227 vous voulez que Windivs soit install\202 :",
+        "Choisissez un repertoire o\227 vous voulez que classicOS soit install\202 :",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1444,7 +1444,7 @@ static MUI_ENTRY frFRInstallDirectoryEntries[] =
     {
         6,
         16,
-        "Windivs soit install\202",
+        "classicOS soit install\202",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1468,21 +1468,21 @@ static MUI_ENTRY frFRFileCopyEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         11,
         12,
-        "Patientez pendant que Windivs Setup copie les fichiers",
+        "Patientez pendant que classicOS Setup copie les fichiers",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         15,
         13,
-        "dans le r\202pertoire d'installation de Windivs.",
+        "dans le r\202pertoire d'installation de classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1513,7 +1513,7 @@ static MUI_ENTRY frFRBootLoaderEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1572,7 +1572,7 @@ static MUI_ENTRY frFRBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1596,7 +1596,7 @@ static MUI_ENTRY frFRKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1655,7 +1655,7 @@ static MUI_ENTRY frFRLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1715,14 +1715,14 @@ static MUI_ENTRY frFRPrepareCopyEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Setup pr\202pare votre ordinateur pour copier les fichiers de Windivs.",
+        "Setup pr\202pare votre ordinateur pour copier les fichiers de classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1747,7 +1747,7 @@ static MUI_ENTRY frFRSelectFSEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1795,7 +1795,7 @@ static MUI_ENTRY frFRDeletePartitionEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1847,7 +1847,7 @@ static MUI_ENTRY frFRRegistryEntries[] =
     {
         4,
         3,
-        " Installation de Windivs 2k3 Service Pack 2 ",
+        " Installation de classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1882,9 +1882,9 @@ MUI_ERROR frFRErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs n'est pas compl\212tement install\202 sur votre\n"
+        "classicOS n'est pas compl\212tement install\202 sur votre\n"
         "ordinateur. Si vous quittez Setup maintenant, vous devrez\n"
-        "lancer Setup de nouveau pour installer Windivs.\n"
+        "lancer Setup de nouveau pour installer classicOS.\n"
         "\n"
         "  \x07  Appuyer sur ENTR\220E pour continuer Setup.\n"
         "  \x07  Appuyer sur F3 pour quitter Setup.",
@@ -1892,7 +1892,7 @@ MUI_ERROR frFRErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1902,7 +1902,7 @@ MUI_ERROR frFRErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2101,7 +2101,7 @@ MUI_ERROR frFRErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "The selected partition is not large enough to install Windivs.\n"
+        "The selected partition is not large enough to install classicOS.\n"
         "The install partition must have a size of at least %lu MB.\n"
         "\n"
         "  * Appuyer sur une touche pour continuer.",
@@ -2284,13 +2284,13 @@ MUI_STRING frFRStrings[] =
     {STRING_PARTFORMAT,
     "Cette partition sera ensuite format\202e."},
     {STRING_NONFORMATTEDPART,
-    "Vous avez choisi d'installer Windivs sur une nouvelle partition."},
+    "Vous avez choisi d'installer classicOS sur une nouvelle partition."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "La partition syst\212me n'est pas encore format\202e."},
     {STRING_NONFORMATTEDOTHERPART,
     "La nouvelle partition n'est pas encore format\202e."},
     {STRING_INSTALLONPART,
-    "Setup installe Windivs sur la partition"},
+    "Setup installe classicOS sur la partition"},
     {STRING_CONTINUE,
     "ENTR\220E = Continuer"},
     {STRING_QUITCONTINUE,

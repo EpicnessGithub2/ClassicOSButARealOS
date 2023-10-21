@@ -14,14 +14,14 @@ static MUI_ENTRY csCZSetupInitPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Please wait while the Windivs Setup initializes itself",
+        "Please wait while the classicOS Setup initializes itself",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -52,7 +52,7 @@ static MUI_ENTRY csCZLanguagePageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -104,21 +104,21 @@ static MUI_ENTRY csCZWelcomePageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "V\241tejte v instalaci Windivs",
+        "V\241tejte v instalaci classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Tato \237\240st instalace nakop\241ruje opera\237n\241 syst\202m Windivs do va\347eho",
+        "Tato \237\240st instalace nakop\241ruje opera\237n\241 syst\202m classicOS do va\347eho",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -132,42 +132,42 @@ static MUI_ENTRY csCZWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Press ENTER to install or upgrade Windivs.",
+        "\x07  Press ENTER to install or upgrade classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Stisknut\241m R zah\240j\241te opravu Windivs.",
+        "\x07  Stisknut\241m R zah\240j\241te opravu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Stiskut\241m L zobraz\241te Licen\237n\241 podm\241nky Windivs.",
+        "\x07  Stiskut\241m L zobraz\241te Licen\237n\241 podm\241nky classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Stisknut\241m F3 ukon\237\241te instalaci Windivs.",
+        "\x07  Stisknut\241m F3 ukon\237\241te instalaci classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "V\241ce informac\241 o Windivs naleznete na adrese:",
+        "V\241ce informac\241 o classicOS naleznete na adrese:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -191,28 +191,28 @@ static MUI_ENTRY csCZIntroPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Version Status",
+        "classicOS Version Status",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -233,7 +233,7 @@ static MUI_ENTRY csCZIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -247,14 +247,14 @@ static MUI_ENTRY csCZIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Press ENTER to continue Windivs Setup.",
+        "\x07  Press ENTER to continue classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -278,7 +278,7 @@ static MUI_ENTRY csCZLicensePageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -292,7 +292,7 @@ static MUI_ENTRY csCZLicensePageEntries[] =
     {
         8,
         8,
-        "The Windivs System is licensed under the terms of the",
+        "The classicOS System is licensed under the terms of the",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -313,7 +313,7 @@ static MUI_ENTRY csCZLicensePageEntries[] =
     {
         8,
         11,
-        "All software that is part of the Windivs system is",
+        "All software that is part of the classicOS system is",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -348,7 +348,7 @@ static MUI_ENTRY csCZLicensePageEntries[] =
     {
         8,
         17,
-        "Windivs only covers distribution to third parties.",
+        "classicOS only covers distribution to third parties.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -362,7 +362,7 @@ static MUI_ENTRY csCZLicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public License with Windivs please visit",
+        "GNU General Public License with classicOS please visit",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -421,7 +421,7 @@ static MUI_ENTRY csCZDevicePageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -528,14 +528,14 @@ static MUI_ENTRY csCZRepairPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalace Windivs je v ran\202 v\354vojov\202 f\240zi. Zat\241m nejsou",
+        "Instalace classicOS je v ran\202 v\354vojov\202 f\240zi. Zat\241m nejsou",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -601,21 +601,21 @@ static MUI_ENTRY csCZUpgradePageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "The Windivs Setup can upgrade one of the available Windivs installations",
+        "The classicOS Setup can upgrade one of the available classicOS installations",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "listed below, or, if a Windivs installation is damaged, the Setup program",
+        "listed below, or, if a classicOS installation is damaged, the Setup program",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -657,7 +657,7 @@ static MUI_ENTRY csCZUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -681,7 +681,7 @@ static MUI_ENTRY csCZComputerPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -740,7 +740,7 @@ static MUI_ENTRY csCZFlushPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -785,14 +785,14 @@ static MUI_ENTRY csCZQuitPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs nen\241 kompletn\330 nainstalov\240n.",
+        "classicOS nen\241 kompletn\330 nainstalov\240n.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -837,7 +837,7 @@ static MUI_ENTRY csCZDisplayPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -896,14 +896,14 @@ static MUI_ENTRY csCZSuccessPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Z\240kladn\241 sou\237\240sti Windivs byly \243sp\330\347n\330 nainstalov\240ny.",
+        "Z\240kladn\241 sou\237\240sti classicOS byly \243sp\330\347n\330 nainstalov\240ny.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -948,7 +948,7 @@ static MUI_ENTRY csCZBootPageEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1001,7 +1001,7 @@ static MUI_ENTRY csCZSelectPartitionEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1029,7 +1029,7 @@ static MUI_ENTRY csCZSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Stisknut\241m kl\240vesy ENTER nainstalujete Windivs na zvolen\354 odd\241l.",
+        "\x07  Stisknut\241m kl\240vesy ENTER nainstalujete classicOS na zvolen\354 odd\241l.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1081,7 +1081,7 @@ static MUI_ENTRY csCZChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1102,14 +1102,14 @@ static MUI_ENTRY csCZChangeSystemPartition[] =
     {
         6,
         16,
-        "uses a format not supported by Windivs.",
+        "uses a format not supported by classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "In order to successfully install Windivs, the Setup program must change",
+        "In order to successfully install classicOS, the Setup program must change",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1179,7 +1179,7 @@ static MUI_ENTRY csCZChangeSystemPartition[] =
     {
         6,
         35,
-        "to the original one after finishing the installation of Windivs.",
+        "to the original one after finishing the installation of classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1203,7 +1203,7 @@ static MUI_ENTRY csCZConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1224,7 +1224,7 @@ static MUI_ENTRY csCZConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programs, programs to start an operating system (like Windivs) or other",
+        "programs, programs to start an operating system (like classicOS) or other",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1259,7 +1259,7 @@ static MUI_ENTRY csCZConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "computer from the harddisk until you finished the Windivs Setup.",
+        "computer from the harddisk until you finished the classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1311,7 +1311,7 @@ static MUI_ENTRY csCZFormatPartitionEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1349,7 +1349,7 @@ static MUI_ENTRY csCZCheckFSEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1380,21 +1380,21 @@ static MUI_ENTRY csCZInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalace nyn\241 na zvolen\354 odd\241l nakop\241ruje soubory Windivs.",
+        "Instalace nyn\241 na zvolen\354 odd\241l nakop\241ruje soubory classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Zvolte adres\240\375, kam bude Windivs nainstalov\240n:",
+        "Zvolte adres\240\375, kam bude classicOS nainstalov\240n:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1408,7 +1408,7 @@ static MUI_ENTRY csCZInstallDirectoryEntries[] =
     {
         6,
         15,
-        "vyma\247te text cesty a pot\202 zapi\347te cestu, do kter\202 chcete Windivs",
+        "vyma\247te text cesty a pot\202 zapi\347te cestu, do kter\202 chcete classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1439,7 +1439,7 @@ static MUI_ENTRY csCZFileCopyEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1484,7 +1484,7 @@ static MUI_ENTRY csCZBootLoaderEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1543,7 +1543,7 @@ static MUI_ENTRY csCZBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1567,7 +1567,7 @@ static MUI_ENTRY csCZKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1626,7 +1626,7 @@ static MUI_ENTRY csCZLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1686,14 +1686,14 @@ static MUI_ENTRY csCZPrepareCopyEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalace p\375iprav\241 po\237\241ta\237 na kop\241rov\240n\241 soubor\205 Windivs.",
+        "Instalace p\375iprav\241 po\237\241ta\237 na kop\241rov\240n\241 soubor\205 classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1718,7 +1718,7 @@ static MUI_ENTRY csCZSelectFSEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1766,7 +1766,7 @@ static MUI_ENTRY csCZDeletePartitionEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1818,7 +1818,7 @@ static MUI_ENTRY csCZRegistryEntries[] =
     {
         4,
         3,
-        " Instalace Windivs 2k3 Service Pack 2 ",
+        " Instalace classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1853,9 +1853,9 @@ MUI_ERROR csCZErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs nen\241 ve va\347em po\237\241ta\237i kompletn\330 nainstalov\240n.\n"
+        "classicOS nen\241 ve va\347em po\237\241ta\237i kompletn\330 nainstalov\240n.\n"
         "Pokud nyn\241 instalaci ukon\237\241te, budete ji muset pro\n"
-        "nainstalov\240n\241 Windivs spustit znovu.\n"
+        "nainstalov\240n\241 classicOS spustit znovu.\n"
         "\n"
         "  \x07  Stisknut\241m kl\240vesy ENTER budete pokra\237ovat v instalaci.\n"
         "  \x07  Stisknut\241m F3 ukon\237\241te instalaci.",
@@ -1863,7 +1863,7 @@ MUI_ERROR csCZErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1873,7 +1873,7 @@ MUI_ERROR csCZErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2072,7 +2072,7 @@ MUI_ERROR csCZErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Zvolen\354 odd\241l nen\241 pro instalaci Windivs dostate\237n\330 velk\354.\n"
+        "Zvolen\354 odd\241l nen\241 pro instalaci classicOS dostate\237n\330 velk\354.\n"
         "Instala\237n\241 odd\241l mus\241 m\241t velikost alespo\345 %lu MB.\n"
         "\n"
         "  * Pokra\237ujte stisknut\241m libovoln\202 kl\240vesy.",
@@ -2255,13 +2255,13 @@ MUI_STRING csCZStrings[] =
     {STRING_PARTFORMAT,
     "Tento odd\241l bude zform\240tov\240n."},
     {STRING_NONFORMATTEDPART,
-    "Zvolili jste instalaci Windivs na nov\354 nebo nezform\240tovan\354 odd\241l."},
+    "Zvolili jste instalaci classicOS na nov\354 nebo nezform\240tovan\354 odd\241l."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "The system partition is not formatted yet."},
     {STRING_NONFORMATTEDOTHERPART,
     "The new partition is not formatted yet."},
     {STRING_INSTALLONPART,
-    "Instalace nakop\241ruje Windivs na odd\241l"},
+    "Instalace nakop\241ruje classicOS na odd\241l"},
     {STRING_CONTINUE,
     "ENTER = Pokra\237ovat"},
     {STRING_QUITCONTINUE,

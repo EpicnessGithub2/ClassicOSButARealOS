@@ -3,9 +3,9 @@
 // To revert conversion, please execute "code7bit -r <file>".
 /*
  *      translated by Caemyr (Jan-Feb, Apr, 2008)
- *      Use Windivs forum PM or IRC to contact me
- *      https://Windivs.org/
- *      IRC: irc.freenode.net #Windivs-pl;
+ *      Use classicOS forum PM or IRC to contact me
+ *      https://classicOS.org/
+ *      IRC: irc.freenode.net #classicOS-pl;
  *      Updated by Wojo664 (July, 2014)
  *      Updated by Saibamen (July, 2015)
  *      Updated by Piotr Hetnarowicz (June, 2021)
@@ -18,14 +18,14 @@ static MUI_ENTRY plPLSetupInitPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Poczekaj, a\276 uruchomi si\251 Instalator systemu Windivs",
+        "Poczekaj, a\276 uruchomi si\251 Instalator systemu classicOS",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -56,7 +56,7 @@ static MUI_ENTRY plPLLanguagePageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -108,14 +108,14 @@ static MUI_ENTRY plPLWelcomePageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Witamy w programie instalacyjnym systemu Windivs",
+        "Witamy w programie instalacyjnym systemu classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -136,42 +136,42 @@ static MUI_ENTRY plPLWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Naci\230nij ENTER, aby zainstalowa\206 lub uaktualni\206 system Windivs.",
+        "\x07  Naci\230nij ENTER, aby zainstalowa\206 lub uaktualni\206 system classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Naci\230nij R, aby naprawi\206 istniej\245c\245 instalacj\251 systemu Windivs.",
+        "\x07  Naci\230nij R, aby naprawi\206 istniej\245c\245 instalacj\251 systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Naci\230nij L, aby zapozna\206 si\251 z licencj\245 systemu Windivs",
+        "\x07  Naci\230nij L, aby zapozna\206 si\251 z licencj\245 systemu classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu Windivs.",
+        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Wi\251cej informacji o systemie Windivs mo\276na znale\253\206 na stronie:",
+        "Wi\251cej informacji o systemie classicOS mo\276na znale\253\206 na stronie:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -195,28 +195,28 @@ static MUI_ENTRY plPLIntroPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Stan rozwoju systemu Windivs",
+        "Stan rozwoju systemu classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -237,7 +237,7 @@ static MUI_ENTRY plPLIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -251,14 +251,14 @@ static MUI_ENTRY plPLIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Naci\230nij ENTER, aby zainstalowa\206 system Windivs.",
+        "\x07  Naci\230nij ENTER, aby zainstalowa\206 system classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu Windivs.",
+        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -282,7 +282,7 @@ static MUI_ENTRY plPLLicensePageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -296,7 +296,7 @@ static MUI_ENTRY plPLLicensePageEntries[] =
     {
         8,
         8,
-        "System Windivs jest licencjonowany na warunkach licencji",
+        "System classicOS jest licencjonowany na warunkach licencji",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -317,7 +317,7 @@ static MUI_ENTRY plPLLicensePageEntries[] =
     {
         8,
         11,
-        "oprogramowanie, b\251d\245ce cz\251\230ci\245 systemu Windivs podlega wi\251c",
+        "oprogramowanie, b\251d\245ce cz\251\230ci\245 systemu classicOS podlega wi\251c",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -345,7 +345,7 @@ static MUI_ENTRY plPLLicensePageEntries[] =
     {
         8,
         16,
-        "b\245d\253 mi\251dzynarodowego. Licencja systemu Windivs",
+        "b\245d\253 mi\251dzynarodowego. Licencja systemu classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -366,7 +366,7 @@ static MUI_ENTRY plPLLicensePageEntries[] =
     {
         8,
         19,
-        "GNU GPL wraz z systemem Windivs, prosimy odwiedzi\206 stron\251:",
+        "GNU GPL wraz z systemem classicOS, prosimy odwiedzi\206 stron\251:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -425,7 +425,7 @@ static MUI_ENTRY plPLDevicePageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -532,14 +532,14 @@ static MUI_ENTRY plPLRepairPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalator systemu Windivs wci\245\276 jest we wczesnej fazie rozwoju. Nadal nie",
+        "Instalator systemu classicOS wci\245\276 jest we wczesnej fazie rozwoju. Nadal nie",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -605,21 +605,21 @@ static MUI_ENTRY plPLUpgradePageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2  ",
+        " Instalator classicOS 2k3 Service Pack 2  ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalator mo\276e uaktualni\206 jedn\245 z poni\276szych instalacji systemu Windivs.",
+        "Instalator mo\276e uaktualni\206 jedn\245 z poni\276szych instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Je\230li instalacja systemu Windivs jest uszkodzona, instalator mo\276e",
+        "Je\230li instalacja systemu classicOS jest uszkodzona, instalator mo\276e",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -661,7 +661,7 @@ static MUI_ENTRY plPLUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu Windivs.",
+        "\x07  Naci\230nij F3, aby wyj\230\206 bez instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -685,14 +685,14 @@ static MUI_ENTRY plPLComputerPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Aby zmieni\206 typ komputera, na kt\242rym chcesz zainstalowa\206 system Windivs",
+        "Aby zmieni\206 typ komputera, na kt\242rym chcesz zainstalowa\206 system classicOS",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -744,14 +744,14 @@ static MUI_ENTRY plPLFlushPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "System Windivs sprawdza, czy dane s\245 poprawnie zapisane na dysku.",
+        "System classicOS sprawdza, czy dane s\245 poprawnie zapisane na dysku.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -789,14 +789,14 @@ static MUI_ENTRY plPLQuitPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "System Windivs nie zosta\210 zainstalowany na tym komputerze.",
+        "System classicOS nie zosta\210 zainstalowany na tym komputerze.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -841,7 +841,7 @@ static MUI_ENTRY plPLDisplayPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -900,14 +900,14 @@ static MUI_ENTRY plPLSuccessPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Podstawowe sk\210adniki systemu Windivs zosta\210y zainstalowane.",
+        "Podstawowe sk\210adniki systemu classicOS zosta\210y zainstalowane.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -952,14 +952,14 @@ static MUI_ENTRY plPLBootPageEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Instalator systemu Windivs nie mo\276e zainstalowa\206",
+        "Instalator systemu classicOS nie mo\276e zainstalowa\206",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1005,7 +1005,7 @@ static MUI_ENTRY plPLSelectPartitionEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1033,7 +1033,7 @@ static MUI_ENTRY plPLSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Naci\230nij ENTER, by zainstalowa\206 system Windivs na wybranej partycji.",
+        "\x07  Naci\230nij ENTER, by zainstalowa\206 system classicOS na wybranej partycji.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1085,7 +1085,7 @@ static MUI_ENTRY plPLChangeSystemPartition[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1106,14 +1106,14 @@ static MUI_ENTRY plPLChangeSystemPartition[] =
     {
         6,
         16,
-        "u\276ywa formatu nie obs\210ugiwanego przez system Windivs.",
+        "u\276ywa formatu nie obs\210ugiwanego przez system classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "Aby pomy\230lnie zainstalowa\206 system Windivs, Instalator musi zmieni\206",
+        "Aby pomy\230lnie zainstalowa\206 system classicOS, Instalator musi zmieni\206",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1183,7 +1183,7 @@ static MUI_ENTRY plPLChangeSystemPartition[] =
     {
         6,
         35,
-        "systemowej do poprzednej po zako\344czeniu instalacji systemu Windivs.",
+        "systemowej do poprzednej po zako\344czeniu instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1207,7 +1207,7 @@ static MUI_ENTRY plPLConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1235,7 +1235,7 @@ static MUI_ENTRY plPLConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         12,
-        "Windivs) i inne programy dostarczane przez producent\242w.",
+        "classicOS) i inne programy dostarczane przez producent\242w.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1263,7 +1263,7 @@ static MUI_ENTRY plPLConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "twardego do czasu zako\344czenia instalacji systemu Windivs.",
+        "twardego do czasu zako\344czenia instalacji systemu classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1315,7 +1315,7 @@ static MUI_ENTRY plPLFormatPartitionEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1353,7 +1353,7 @@ static MUI_ENTRY plPLCheckFSEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1384,7 +1384,7 @@ static MUI_ENTRY plPLInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1398,7 +1398,7 @@ static MUI_ENTRY plPLInstallDirectoryEntries[] =
     {
         6,
         9,
-        "katalog, do kt\242rego chcesz zainstalowa\206 system Windivs:",
+        "katalog, do kt\242rego chcesz zainstalowa\206 system classicOS:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1443,14 +1443,14 @@ static MUI_ENTRY plPLFileCopyEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         11,
         12,
-        "Prosz\251 czeka\206, Instalator systemu Windivs kopiuje pliki do wybranego",
+        "Prosz\251 czeka\206, Instalator systemu classicOS kopiuje pliki do wybranego",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1488,7 +1488,7 @@ static MUI_ENTRY plPLBootLoaderEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1547,7 +1547,7 @@ static MUI_ENTRY plPLBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1571,7 +1571,7 @@ static MUI_ENTRY plPLKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1630,7 +1630,7 @@ static MUI_ENTRY plPLLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1690,7 +1690,7 @@ static MUI_ENTRY plPLPrepareCopyEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1722,7 +1722,7 @@ static MUI_ENTRY plPLSelectFSEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1770,7 +1770,7 @@ static MUI_ENTRY plPLDeletePartitionEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1822,7 +1822,7 @@ static MUI_ENTRY plPLRegistryEntries[] =
     {
         4,
         3,
-        " Instalator Windivs 2k3 Service Pack 2 ",
+        " Instalator classicOS 2k3 Service Pack 2 ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1857,9 +1857,9 @@ MUI_ERROR plPLErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "System Windivs nie zosta\210 w pe\210ni zainstalowany na twoim\n"
+        "System classicOS nie zosta\210 w pe\210ni zainstalowany na twoim\n"
         "komputerze. Je\230li wyjdziesz teraz, trzeba b\251dzie\n"
-        "ponownie uruchomi\206 instalatora, by zainstalowa\206 system Windivs.\n"
+        "ponownie uruchomi\206 instalatora, by zainstalowa\206 system classicOS.\n"
         "\n"
         "  \x07  Naci\230nij ENTER, aby kontynuowa\206 instalacj\251.\n"
         "  \x07  Naci\230nij F3, aby wyj\230\206 z instalatora.",
@@ -1867,7 +1867,7 @@ MUI_ERROR plPLErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Nie mo\276na utworzy\206 scie\276ek instalacji dla katalogu instalacji systemu Windivs!\n"
+        "Nie mo\276na utworzy\206 scie\276ek instalacji dla katalogu instalacji systemu classicOS!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1877,7 +1877,7 @@ MUI_ERROR plPLErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "Nie mo\276na zainstalowa\206 systemu Windivs w katalogu \253r\242d\210owym instalacji!\n"
+        "Nie mo\276na zainstalowa\206 systemu classicOS w katalogu \253r\242d\210owym instalacji!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2076,7 +2076,7 @@ MUI_ERROR plPLErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Wybrana partycja nie jest wystarczaj\245co du\276a, aby zainstalowa\206 system Windivs.\n"
+        "Wybrana partycja nie jest wystarczaj\245co du\276a, aby zainstalowa\206 system classicOS.\n"
         "Partycja instalacyjna musi mie\206 rozmiar co najmniej %lu MB.\n"
         "\n"
         "  * Naci\230nij dowolny klawisz, aby kontynuowa\206.",
@@ -2259,7 +2259,7 @@ MUI_STRING plPLStrings[] =
     {STRING_PARTFORMAT,
     "Nast\251puj\245ca partycja zostanie sformatowana."},
     {STRING_NONFORMATTEDPART,
-    "Mo\276esz zainstalowa\206 system Windivs na nowej lub niesformatowanej partycji."},
+    "Mo\276esz zainstalowa\206 system classicOS na nowej lub niesformatowanej partycji."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "Partycja systemowa nie jest jeszcze sformatowana."},
     {STRING_NONFORMATTEDOTHERPART,
