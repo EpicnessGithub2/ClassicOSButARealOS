@@ -1,5 +1,5 @@
 /*
- * PROJECT:    PAINT for ReactOS
+ * PROJECT:    PAINT for Windivs
  * LICENSE:    LGPL-2.0-or-later (https://spdx.org/licenses/LGPL-2.0-or-later)
  * PURPOSE:    Undo and redo functionality
  * COPYRIGHT:  Copyright 2015 Benedikt Freisen <b.freisen@gmx.net>
@@ -31,12 +31,17 @@ public:
     int GetWidth() const;
     int GetHeight() const;
     HBITMAP CopyBitmap();
+    HBITMAP LockBitmap();
+    void UnlockBitmap(HBITMAP hbmLocked);
     void InvertColors();
     void FlipHorizontally();
     void FlipVertically();
     void RotateNTimes90Degrees(int iN);
     void Clamp(POINT& pt) const;
     void NotifyImageChanged();
+    BOOL IsBlackAndWhite();
+    void PushBlackAndWhite();
+    void SelectionClone(BOOL bUndoable = TRUE);
 
 protected:
     HDC m_hDrawingDC; // The device context for this class

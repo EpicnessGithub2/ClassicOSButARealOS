@@ -143,6 +143,10 @@ BEGIN
     "^I", IDM_IMAGEINVERTCOLORS
     "^E", IDM_IMAGEATTRIBUTES
     "N", IDM_IMAGEDELETEIMAGE, CONTROL, SHIFT, VIRTKEY
+    VK_ADD, IDM_CTRL_PLUS, CONTROL, VIRTKEY
+    VK_SUBTRACT, IDM_CTRL_MINUS, CONTROL, VIRTKEY
+    VK_OEM_PLUS, IDM_CTRL_PLUS, CONTROL, VIRTKEY
+    VK_OEM_MINUS, IDM_CTRL_MINUS, CONTROL, VIRTKEY
 END
 
 IDD_MIRRORROTATE DIALOGEX 100, 100, 180, 100
@@ -266,4 +270,6 @@ BEGIN
     IDS_PRINTRES "%d x %d точек/см"
     IDS_CANTPASTE "Не удалось вставить из буфера обмена. Формат данных либо некорректный, либо не поддерживается."
     IDS_SAVEERROR "Не удалось сохранить точечный рисунок в файл:\n\n%s"
+    IDS_CANTSENDMAIL "Не удалось отправить письмо."
+    IDS_LOSECOLOR "В результате этой операции сведения о цвете будут потеряны. Продолжить?"
 END

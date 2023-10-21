@@ -1,5 +1,5 @@
 /*
- * PROJECT:    PAINT for ReactOS
+ * PROJECT:    PAINT for Windivs
  * LICENSE:    LGPL-2.0-or-later (https://spdx.org/licenses/LGPL-2.0-or-later)
  * PURPOSE:    Keep track of selection parameters, notify listeners
  * COPYRIGHT:  Copyright 2015 Benedikt Freisen <b.freisen@gmx.net>
@@ -23,6 +23,7 @@ public:
     CRect m_rc;    // in image pixel coordinates
     POINT m_ptHit; // in image pixel coordinates
     CRect m_rcOld; // in image pixel coordinates
+    INT m_nSelectionBrush = 0;
 
     SelectionModel();
     ~SelectionModel();
@@ -40,6 +41,8 @@ public:
     void DeleteSelection();
 
     HBITMAP CopyBitmap();
+    HBITMAP LockBitmap();
+    void UnlockBitmap(HBITMAP hbmLocked);
     void GetSelectionContents(HDC hDCImage);
     void DrawFramePoly(HDC hDCImage);
     void DrawBackground(HDC hDCImage);
@@ -56,9 +59,11 @@ public:
     void InvertSelection();
 
     void Dragging(HITTEST hit, POINT pt);
-    void ClearMask();
-    void ClearColor();
+    void ClearMaskImage();
+    void ClearColorImage();
     void NotifyContentChanged();
+
+    void StretchSelection(BOOL bShrink);
 
 private:
     SelectionModel(const SelectionModel&);

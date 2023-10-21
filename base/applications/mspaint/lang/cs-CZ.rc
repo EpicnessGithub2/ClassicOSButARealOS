@@ -1,5 +1,5 @@
 /*
- * PROJECT:     PAINT for ReactOS
+ * PROJECT:     PAINT for Windivs
  * LICENSE:     LGPL-2.0-or-later (https://spdx.org/licenses/LGPL-2.0-or-later)
  * PURPOSE:     Czech resource file
  * TRANSLATORS: Copyright 2009-2010 Radek Liška aka Black_Fox <radekliska@gmail.com>
@@ -37,18 +37,18 @@ BEGIN
     END
     POPUP "Úpr&avy"
     BEGIN
-        MENUITEM "Zpět\tCtrl+Z", IDM_EDITUNDO
-        MENUITEM "Znovu\tCtrl+Y", IDM_EDITREDO
+        MENUITEM "&Zpět\tCtrl+Z", IDM_EDITUNDO
+        MENUITEM "Z&novu\tCtrl+Y", IDM_EDITREDO
         MENUITEM SEPARATOR
-        MENUITEM "Vyjmout\tCtrl+X", IDM_EDITCUT
-        MENUITEM "Kopírovat\tCtrl+C", IDM_EDITCOPY
-        MENUITEM "Vložit\tCtrl+V", IDM_EDITPASTE
-        MENUITEM "Vymazat výběr\tDel", IDM_EDITDELETESELECTION
-        MENUITEM "Invertovat výběr", IDM_EDITINVERTSELECTION
+        MENUITEM "Vyjmou&t\tCtrl+X", IDM_EDITCUT
+        MENUITEM "&Kopírovat\tCtrl+C", IDM_EDITCOPY
+        MENUITEM "&Vložit\tCtrl+V", IDM_EDITPASTE
+        MENUITEM "Vy&mazat výběr\tDel", IDM_EDITDELETESELECTION
+        MENUITEM "&Invertovat výběr", IDM_EDITINVERTSELECTION
         MENUITEM "Vybrat v&še\tCtrl+A", IDM_EDITSELECTALL
         MENUITEM SEPARATOR
-        MENUITEM "Kopírovat do...", IDM_EDITCOPYTO
-        MENUITEM "Vložit z...", IDM_EDITPASTEFROM
+        MENUITEM "Kopírovat &do...", IDM_EDITCOPYTO
+        MENUITEM "V&ložit z...", IDM_EDITPASTEFROM
     END
     POPUP "&Zobrazit"
     BEGIN
@@ -77,13 +77,13 @@ BEGIN
     END
     POPUP "&Obrázek"
     BEGIN
-        MENUITEM "Překlopit nebo otočit...\tCtrl+R", IDM_IMAGEROTATEMIRROR
-        MENUITEM "Stretch/Skew...\tCtrl+W", IDM_IMAGESTRETCHSKEW
-        MENUITEM "Oříznout", IDM_IMAGECROP
-        MENUITEM "Inverovat barvy\tCtrl+I", IDM_IMAGEINVERTCOLORS
-        MENUITEM "Atributy...\tCtrl+E", IDM_IMAGEATTRIBUTES
-        MENUITEM "Vymazat obrázek", IDM_IMAGEDELETEIMAGE
-        MENUITEM "Kreslit neprůhledně", IDM_IMAGEDRAWOPAQUE
+        MENUITEM "&Překlopit nebo otočit...\tCtrl+R", IDM_IMAGEROTATEMIRROR
+        MENUITEM "&Stretch/Skew...\tCtrl+W", IDM_IMAGESTRETCHSKEW
+        MENUITEM "&Oříznout", IDM_IMAGECROP
+        MENUITEM "&Inverovat barvy\tCtrl+I", IDM_IMAGEINVERTCOLORS
+        MENUITEM "&Atributy...\tCtrl+E", IDM_IMAGEATTRIBUTES
+        MENUITEM "Vy&mazat obrázek", IDM_IMAGEDELETEIMAGE
+        MENUITEM "&Kreslit neprůhledně", IDM_IMAGEDRAWOPAQUE
     END
     POPUP "&Barvy"
     BEGIN
@@ -104,18 +104,18 @@ ID_POPUPMENU MENU
 BEGIN
     POPUP "Popup #0"
     BEGIN
-        MENUITEM "C&ut\tCtrl+X", IDM_EDITCUT
-        MENUITEM "Copy\tCtrl+C", IDM_EDITCOPY
-        MENUITEM "&Paste\tCtrl+V", IDM_EDITPASTE
-        MENUITEM "De&lete selection\tDel", IDM_EDITDELETESELECTION
-        MENUITEM "Select &All\tCtrl+A", IDM_EDITSELECTALL
+        MENUITEM "Vyjmou&t\tCtrl+X", IDM_EDITCUT
+        MENUITEM "&Kopírovat\tCtrl+C", IDM_EDITCOPY
+        MENUITEM "&Vložit\tCtrl+V", IDM_EDITPASTE
+        MENUITEM "Vy&mazat výběr\tDel", IDM_EDITDELETESELECTION
+        MENUITEM "Vybrat v&še\tCtrl+A", IDM_EDITSELECTALL
         MENUITEM SEPARATOR
-        MENUITEM "C&opy to...", IDM_EDITCOPYTO
-        MENUITEM "Paste &from...", IDM_EDITPASTEFROM
+        MENUITEM "Kopírovat &do...", IDM_EDITCOPYTO
+        MENUITEM "V&ložit z...", IDM_EDITPASTEFROM
         MENUITEM SEPARATOR
-        MENUITEM "Rotate/&Mirror...\tCtrl+R", IDM_IMAGEROTATEMIRROR
+        MENUITEM "&Překlopit nebo otočit...\tCtrl+R", IDM_IMAGEROTATEMIRROR
         MENUITEM "&Stretch/Skew...\tCtrl+W", IDM_IMAGESTRETCHSKEW
-        MENUITEM "&Invert colors\tCtrl+I", IDM_IMAGEINVERTCOLORS
+        MENUITEM "&Inverovat barvy\tCtrl+I", IDM_IMAGEINVERTCOLORS
     END
 END
 
@@ -140,6 +140,10 @@ BEGIN
     "^I", IDM_IMAGEINVERTCOLORS
     "^E", IDM_IMAGEATTRIBUTES
     "N", IDM_IMAGEDELETEIMAGE, CONTROL, SHIFT, VIRTKEY
+    VK_ADD, IDM_CTRL_PLUS, CONTROL, VIRTKEY
+    VK_SUBTRACT, IDM_CTRL_MINUS, CONTROL, VIRTKEY
+    VK_OEM_PLUS, IDM_CTRL_PLUS, CONTROL, VIRTKEY
+    VK_OEM_MINUS, IDM_CTRL_MINUS, CONTROL, VIRTKEY
 END
 
 IDD_MIRRORROTATE DIALOGEX 100, 100, 180, 100
@@ -227,7 +231,7 @@ STRINGTABLE
 BEGIN
     IDS_PROGRAMNAME "Malování"
     IDS_WINDOWTITLE "%s - Malování"
-    IDS_INFOTITLE "ReactOS Malování"
+    IDS_INFOTITLE "Windivs Malování"
     IDS_INFOTEXT "Dostupné pod licencí GNU Lesser General Public License (LGPL, viz. www.gnu.org)"
     IDS_SAVEPROMPTTEXT "Chcete uložit provedené změny v %s?"
     IDS_DEFAULTFILENAME "Bez názvu"
@@ -262,5 +266,7 @@ BEGIN
     IDS_VERTICAL "Vertical"
     IDS_PRINTRES "%d x %d pixel/cm"
     IDS_CANTPASTE "Failed to paste from the clipboard. The data format is either incorrect or not supported."
-    IDS_SAVEERROR "Failed to save an image as the following file:\n\n%s"
+    IDS_SAVEERROR "Failed to save the bitmap to file:\n\n%s"
+    IDS_CANTSENDMAIL "Failed to send a mail."
+    IDS_LOSECOLOR "The color information will be lost in this operation. Are you sure to proceed?"
 END
