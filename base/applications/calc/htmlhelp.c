@@ -1,5 +1,5 @@
 /*
- * Windivs Calc (HtmlHelp support)
+ * classicOS Calc (HtmlHelp support)
  *
  * Copyright 2007-2017, Carlo Bramini
  *

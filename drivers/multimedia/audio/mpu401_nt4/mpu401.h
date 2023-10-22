@@ -1,7 +1,7 @@
 /*
  *
  * COPYRIGHT:            See COPYING in the top level directory
- * PROJECT:              Windivs kernel
+ * PROJECT:              classicOS kernel
  * FILE:                 services/dd/mpu401/mpu401.h
  * PURPOSE:              MPU-401 MIDI device driver header
  * PROGRAMMER:           Andrew Greenwood

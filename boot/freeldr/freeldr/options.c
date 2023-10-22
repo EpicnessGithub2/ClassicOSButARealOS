@@ -41,7 +41,7 @@ PCSTR OptionsMenuList[] =
 
     NULL,
 
-    "Start Windivs normally",
+    "Start classicOS normally",
 #ifdef HAS_OPTION_MENU_EDIT_CMDLINE
     "Edit Boot Command Line (F10)",
 #endif

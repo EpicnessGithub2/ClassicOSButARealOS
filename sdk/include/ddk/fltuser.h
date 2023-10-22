@@ -1,7 +1,7 @@
 /*
  * fltuser.h
  *
- * This file is part of the Windivs DDK package.
+ * This file is part of the classicOS DDK package.
  *
  * Contributors:
  *   Amine Khaldi (amine.khaldi@reactos.org)

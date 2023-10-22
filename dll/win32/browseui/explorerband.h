@@ -1,5 +1,5 @@
 /*
- * Windivs Explorer
+ * classicOS Explorer
  *
  * Copyright 2016 Sylvain Deverre <deverre dot sylv at gmail dot com>
  * Copyright 2020 Katayama Hirofumi MZ <katayama.hirofumi.mz@gmail.com>

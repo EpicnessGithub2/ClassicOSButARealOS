@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs api tests
+ * PROJECT:         classicOS api tests
  * LICENSE:         GPL - See COPYING in the top level directory
  * PURPOSE:         Test for AddFontMemResourceEx
  * PROGRAMMERS:     Mark Jansen
@@ -277,7 +277,7 @@ static void test_font_caps(HDC hdc, int test_index)
 }
 
 
-/* Not working as of 2017-04-08 on Windivs */
+/* Not working as of 2017-04-08 on classicOS */
 static BOOL is_font_available(HDC hdc, const char* fontName)
 {
     char name[64];

@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            hal/halarm/generic/halinit.c
  * PURPOSE:         HAL Entrypoint and Initialization
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

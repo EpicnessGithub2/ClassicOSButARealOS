@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs Win32k subsystem
+ * PROJECT:           classicOS Win32k subsystem
  * PURPOSE:           GDI Palette Functions
  * FILE:              win32ss/gdi/ntgdi/palette.c
  * PROGRAMERS:        Jason Filby

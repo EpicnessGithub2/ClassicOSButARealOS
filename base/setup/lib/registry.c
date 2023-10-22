@@ -1,5 +1,5 @@
 /*
- *  Windivs kernel
+ *  classicOS kernel
  *  Copyright (C) 2003 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Setup Library
+ * PROJECT:         classicOS Setup Library
  * FILE:            base/setup/lib/registry.c
  * PURPOSE:         Registry creation functions
  * PROGRAMMERS:     ...
@@ -780,7 +780,7 @@ RegInitializeRegistry(
                          0,
                          NULL,
                     // FIXME: Using REG_OPTION_VOLATILE works OK on Windows,
-                    // but I need to check whether it works OK on Windivs too.
+                    // but I need to check whether it works OK on classicOS too.
                          REG_OPTION_NON_VOLATILE, // REG_OPTION_VOLATILE,
                          &Disposition);
     if (!NT_SUCCESS(Status))
@@ -804,7 +804,7 @@ RegInitializeRegistry(
                          0,
                          NULL,
                     // FIXME: Using REG_OPTION_VOLATILE works OK on Windows,
-                    // but I need to check whether it works OK on Windivs too.
+                    // but I need to check whether it works OK on classicOS too.
                          REG_OPTION_NON_VOLATILE, // REG_OPTION_VOLATILE,
                          &Disposition);
     if (!NT_SUCCESS(Status))
@@ -863,7 +863,7 @@ RegInitializeRegistry(
                                  0,
                                  NULL,
                             // FIXME: Using REG_OPTION_VOLATILE works OK on Windows,
-                            // but I need to check whether it works OK on Windivs too.
+                            // but I need to check whether it works OK on classicOS too.
                                  REG_OPTION_NON_VOLATILE, // REG_OPTION_VOLATILE,
                                  &Disposition);
             if (!NT_SUCCESS(Status))

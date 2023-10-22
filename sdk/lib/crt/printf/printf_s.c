@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       GNU GPL, see COPYING in the top level directory
- * PROJECT:         Windivs crt library
+ * PROJECT:         classicOS crt library
  * FILE:            lib/sdk/crt/printf/printf_s.c
  * PURPOSE:         Implementation of printf_s
  * PROGRAMMER:      Samuel Serapi�n

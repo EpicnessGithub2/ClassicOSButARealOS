@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Version Program
+ * PROJECT:         classicOS Version Program
  * FILE:            base/applications/winver/winver.c
  */
 
@@ -25,5 +25,5 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPWSTR lpCmdLi
     iccx.dwICC = ICC_STANDARD_CLASSES | ICC_WIN95_CLASSES;
     InitCommonControlsEx(&iccx);
 
-    return ShellAboutW(NULL, L"Windivs", NULL, NULL);
+    return ShellAboutW(NULL, L"classicOS", NULL, NULL);
 }

@@ -1,4 +1,4 @@
-Solitaire for Windivs
+Solitaire for classicOS
 
 /*****************************************
 A complete working example of the CardLib

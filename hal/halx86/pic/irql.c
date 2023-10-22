@@ -1,8 +1,8 @@
 /*
- * PROJECT:         Windivs Hardware Abstraction Layer
+ * PROJECT:         classicOS Hardware Abstraction Layer
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         IRQL mapping
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

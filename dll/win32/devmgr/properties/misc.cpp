@@ -1,5 +1,5 @@
 /*
- * Windivs Device Manager Applet
+ * classicOS Device Manager Applet
  * Copyright (C) 2004 - 2005 ReactOS Team
  *
  * This library is free software; you can redistribute it and/or
@@ -17,9 +17,9 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  */
 /*
- * PROJECT:         Windivs devmgr.dll
+ * PROJECT:         classicOS devmgr.dll
  * FILE:            lib/devmgr/misc.c
- * PURPOSE:         Windivs Device Manager
+ * PURPOSE:         classicOS Device Manager
  * PROGRAMMER:      Thomas Weidenmueller <w3seek@reactos.com>
  * UPDATE HISTORY:
  *      2005/11/24  Created

@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs ACPI-Compliant Control Method Battery
+ * PROJECT:         classicOS ACPI-Compliant Control Method Battery
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            boot/drivers/bus/acpi/cmbatt/cmbwmi.c
  * PURPOSE:         WMI Interface
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

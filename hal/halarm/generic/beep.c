@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            hal/halarm/generic/beep.c
  * PURPOSE:         Speaker support (beeping)
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES ******************************************************************/

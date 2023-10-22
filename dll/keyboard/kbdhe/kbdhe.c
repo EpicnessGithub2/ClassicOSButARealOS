@@ -1,6 +1,6 @@
 /*
- * Windivs Greek ASCII Keyboard layout
- * Copyright (C) 2005 Windivs
+ * classicOS Greek ASCII Keyboard layout
+ * Copyright (C) 2005 classicOS
  * License: LGPL, see: LGPL.txt
  * author: Apostolos Alexiadis (Dj Apal�)
  *
@@ -374,7 +374,7 @@ ROSDATA VSC_LPWSTR extended_key_names[] = {
   { 0x51, L"Page Down" },
   { 0x52, L"Insert" },
   { 0x53, L"Delete" },
-  { 0x54, L"<Windivs>" },
+  { 0x54, L"<classicOS>" },
   { 0x55, L"Help" },
   { 0x56, L"Left Windows" },
   { 0x5b, L"Right Windows" },

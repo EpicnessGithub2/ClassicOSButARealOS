@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Floppy Driver
+ * PROJECT:         classicOS Floppy Driver
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            drivers/storage/floppy/floppy.rc
  * PURPOSE:         Resource definition file

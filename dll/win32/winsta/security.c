@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs winsta.dll
+ * PROJECT:         classicOS winsta.dll
  * FILE:            lib/winsta/security.c
  * PURPOSE:         WinStation
  * PROGRAMMER:      Samuel Serapi?n

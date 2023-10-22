@@ -1,5 +1,5 @@
 /*
-    Windivs Kernel Streaming
+    classicOS Kernel Streaming
     Port Class
 
     This file is in the public domain.

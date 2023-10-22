@@ -1745,7 +1745,7 @@ static VOID FixupServiceBinaryPath(
     ServiceLength = strlenW(*ServiceBinary);
 
     /* Check and fix two things:
-       1. Get rid of C:\Windivs and use relative
+       1. Get rid of C:\classicOS and use relative
           path instead.
        2. Add %SystemRoot% for Win32 services */
 
@@ -1754,7 +1754,7 @@ static VOID FixupServiceBinaryPath(
 
     if (!wcsnicmp(*ServiceBinary, ReactOSDir, RosDirLength))
     {
-        /* Yes, the first part is the C:\Windivs\, just skip it */
+        /* Yes, the first part is the C:\classicOS\, just skip it */
         MoveMemory(*ServiceBinary, *ServiceBinary + RosDirLength + 1,
             (ServiceLength - RosDirLength) * sizeof(WCHAR));
 

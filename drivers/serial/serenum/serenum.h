@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Serial enumerator driver
+ * PROJECT:         classicOS Serial enumerator driver
  * FILE:            drivers/bus/serenum/serenum.h
  * PURPOSE:         Serial enumerator driver header
  *

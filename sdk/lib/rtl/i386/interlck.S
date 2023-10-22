@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs system libraries
+ * PROJECT:         classicOS system libraries
  * FILE:            lib/rtl/i386/interlck.S
  * PURPOSE:         Rtl Interlocked Functions for x86
  * PROGRAMMERS:     Timo Kreuzer

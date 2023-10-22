@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs cabinet manager
+ * PROJECT:     classicOS cabinet manager
  * FILE:        tools/cabman/cabinet.h
  * PURPOSE:     Cabinet definitions
  */

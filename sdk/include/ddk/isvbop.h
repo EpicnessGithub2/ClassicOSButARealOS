@@ -3,7 +3,7 @@
  *
  * Windows NT Device Driver Kit
  *
- * This file is part of the Windivs DDK package.
+ * This file is part of the classicOS DDK package.
  *
  * Contributors:
  *   Hermes Belusca-Maito (hermes.belusca@sfr.fr)

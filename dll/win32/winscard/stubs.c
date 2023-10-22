@@ -1,7 +1,7 @@
 /*
- * PROJECT:         Windivs SmartCard API
+ * PROJECT:         classicOS SmartCard API
  * FILE:            dll/win32/winscard/stubs.c
- * PURPOSE:         Windivs SmartCard API
+ * PURPOSE:         classicOS SmartCard API
  * PROGRAMMER:      Thomas Weidenmueller <w3seek@reactos.com>
  *
  * UPDATE HISTORY:

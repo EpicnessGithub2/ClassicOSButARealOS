@@ -11,7 +11,7 @@
  *	PCI to PCI Bridge Specification
  *	PCI System Design Guide
  *
- *  Ported from linux pci.h to Windivs by:
+ *  Ported from linux pci.h to classicOS by:
  *    Casper S. Hornstrup (chorns@users.sourceforge.net)
  */
 

@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            hal/halx86/acpi/halpnpdd.c
  * PURPOSE:         HAL Plug and Play Device Driver
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

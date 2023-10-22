@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Services
+ * PROJECT:     classicOS Services
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        base/applications/mscutils/servman/misc.c
  * PURPOSE:     miscellaneous functions

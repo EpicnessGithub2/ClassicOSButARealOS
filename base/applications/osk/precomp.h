@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs On-Screen Keyboard
+ * PROJECT:         classicOS On-Screen Keyboard
  * LICENSE:         GPL - See COPYING in the top level directory
  * PURPOSE:         Pre-compiled header
  * COPYRIGHT:       Denis ROBERT

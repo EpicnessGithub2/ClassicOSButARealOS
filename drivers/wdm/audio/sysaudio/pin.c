@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Kernel Streaming
+ * PROJECT:         classicOS Kernel Streaming
  * FILE:            drivers/wdm/audio/sysaudio/deviface.c
  * PURPOSE:         System Audio graph builder
  * PROGRAMMER:      Johannes Anderwald

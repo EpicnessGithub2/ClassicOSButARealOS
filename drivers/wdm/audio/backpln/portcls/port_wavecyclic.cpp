@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Kernel Streaming
+ * PROJECT:         classicOS Kernel Streaming
  * FILE:            drivers/wdm/audio/backpln/portcls/port_wavecyclic.cpp
  * PURPOSE:         WaveCyclic Port Driver
  * PROGRAMMER:      Johannes Anderwald

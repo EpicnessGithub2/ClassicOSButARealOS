@@ -1,5 +1,5 @@
 /*
-    Windivs Kernel-Mode COM
+    classicOS Kernel-Mode COM
     IUnknown implementations
 
     LICENSE

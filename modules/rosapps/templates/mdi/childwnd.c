@@ -1,5 +1,5 @@
 /*
- *  Windivs Application MDI Child Window
+ *  classicOS Application MDI Child Window
  *
  *  childwnd.c
  *

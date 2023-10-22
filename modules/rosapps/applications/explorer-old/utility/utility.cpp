@@ -260,8 +260,8 @@ String get_windows_version_str()
 
 	switch(osvi.dwPlatformId) {
 	  case VER_PLATFORM_WIN32_NT:
-#ifdef __REACTOS__	// This work around can be removed if Windivs gets a unique version number.
-		str = TEXT("Windivs");
+#ifdef __REACTOS__	// This work around can be removed if classicOS gets a unique version number.
+		str = TEXT("classicOS");
 #else
 		if (osvi.dwMajorVersion <= 4)
 			str = TEXT("Microsoft Windows NT");

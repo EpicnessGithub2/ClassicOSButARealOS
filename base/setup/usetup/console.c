@@ -1,5 +1,5 @@
 /*
- *  Windivs kernel
+ *  classicOS kernel
  *  Copyright (C) 2002 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs text-mode setup
+ * PROJECT:         classicOS text-mode setup
  * FILE:            base/setup/usetup/console.c
  * PURPOSE:         Console support functions
  * PROGRAMMER:

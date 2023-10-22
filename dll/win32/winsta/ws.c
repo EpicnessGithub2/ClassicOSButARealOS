@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs winsta.dll
+ * PROJECT:         classicOS winsta.dll
  * FILE:            lib/winsta/ws.c
  * PURPOSE:         WinStation
  * PROGRAMMER:      Samuel Serapión

@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs bin2c
+ * PROJECT:         classicOS bin2c
  * FILE:            tools/bin2c.c
  * PURPOSE:         Converts a binary file into a byte array
  * PROGRAMMER:      Herm�s B�lusca - Ma�to

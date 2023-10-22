@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs api tests
+ * PROJECT:         classicOS api tests
  * LICENSE:         GPL - See COPYING in the top level directory
  * PURPOSE:         Test for CloseWindow
  * PROGRAMMERS:     Katayama Hirofumi MZ <katayama.hirofumi.mz@gmail.com>

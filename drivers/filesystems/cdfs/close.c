@@ -81,7 +81,7 @@ CdRemoveClose (
 IO_WORKITEM_ROUTINE CdCloseWorker;
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 CdCloseWorker (
     _In_ PDEVICE_OBJECT DeviceObject,
     _In_opt_ PVOID Context
@@ -171,7 +171,7 @@ Return Value:
             //  Free the IrpContextLite.
             //
 
-            CdFreeIrpContextLite( *(PVOID*)&IrpContext ); /* Windivs Change: GCC "error: invalid lvalue in unary '&'" */
+            CdFreeIrpContextLite( *(PVOID*)&IrpContext ); /* classicOS Change: GCC "error: invalid lvalue in unary '&'" */
 
             //
             //  Remember we have the IrpContext from the stack.
@@ -653,7 +653,7 @@ Return Value:
 }
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 CdCloseWorker (
     _In_ PDEVICE_OBJECT DeviceObject,
     _In_opt_ PVOID Context

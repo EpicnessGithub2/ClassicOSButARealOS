@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs User Manager Control Panel
+ * PROJECT:         classicOS User Manager Control Panel
  * FILE:            dll/cpl/usrmgr/groupprops.c
  * PURPOSE:         Group property sheet
  *

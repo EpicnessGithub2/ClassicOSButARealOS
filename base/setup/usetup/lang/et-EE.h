@@ -8,14 +8,14 @@ static MUI_ENTRY etEESetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Please wait while the Windivs Setup initializes itself",
+        "Please wait while the classicOS Setup initializes itself",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -46,7 +46,7 @@ static MUI_ENTRY etEELanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -98,21 +98,21 @@ static MUI_ENTRY etEEWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Tere tulemast Windivs'i paigaldusse",
+        "Tere tulemast classicOS'i paigaldusse",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Selles paigaldamise etapis kopeeritakse Windivsi failid arvutisse ja",
+        "Selles paigaldamise etapis kopeeritakse classicOSi failid arvutisse ja",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -126,42 +126,42 @@ static MUI_ENTRY etEEWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Press ENTER to install or upgrade Windivs.",
+        "\x07  Press ENTER to install or upgrade classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Vajuta R, et Windivs'i parandada.",
+        "\x07  Vajuta R, et classicOS'i parandada.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Vajuta L, et n\204ha Windivs'i litsentsi ja kasutamise tingimusi",
+        "\x07  Vajuta L, et n\204ha classicOS'i litsentsi ja kasutamise tingimusi",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Vajuta F3, et v\204ljuda Windivs'i paigaldamata.",
+        "\x07  Vajuta F3, et v\204ljuda classicOS'i paigaldamata.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Windivs'i kohta saab rohkem infot:",
+        "classicOS'i kohta saab rohkem infot:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -185,28 +185,28 @@ static MUI_ENTRY etEEIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs'i versiooni seisund",
+        "classicOS'i versiooni seisund",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -227,7 +227,7 @@ static MUI_ENTRY etEEIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -241,14 +241,14 @@ static MUI_ENTRY etEEIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Vajuta ENTER, et siseneda Windivs'i paigaldusse.",
+        "\x07  Vajuta ENTER, et siseneda classicOS'i paigaldusse.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Vajuta F3, et lahkuda Windivs'i paigaldamata.",
+        "\x07  Vajuta F3, et lahkuda classicOS'i paigaldamata.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -272,7 +272,7 @@ static MUI_ENTRY etEELicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -286,7 +286,7 @@ static MUI_ENTRY etEELicensePageEntries[] =
     {
         8,
         8,
-        "Windivs kasutab GNU \201ldist avalikku litsentsi(GPL),",
+        "classicOS kasutab GNU \201ldist avalikku litsentsi(GPL),",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -307,7 +307,7 @@ static MUI_ENTRY etEELicensePageEntries[] =
     {
         8,
         11,
-        "Kogu Windivs'i s\201steem on seega kaitstud GPL litsentsiga",
+        "Kogu classicOS'i s\201steem on seega kaitstud GPL litsentsiga",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -335,7 +335,7 @@ static MUI_ENTRY etEELicensePageEntries[] =
     {
         8,
         16,
-        "piiranguid kehtiva seadusega s\204testatud piirides. Windivsi",
+        "piiranguid kehtiva seadusega s\204testatud piirides. classicOSi",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -415,7 +415,7 @@ static MUI_ENTRY etEEDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -522,14 +522,14 @@ static MUI_ENTRY etEERepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs'i paigaldusprogramm on varajases arendusfaasis. Praegu ei ole",
+        "classicOS'i paigaldusprogramm on varajases arendusfaasis. Praegu ei ole",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -595,21 +595,21 @@ static MUI_ENTRY etEEUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "The Windivs Setup can upgrade one of the available Windivs installations",
+        "The classicOS Setup can upgrade one of the available classicOS installations",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "listed below, or, if a Windivs installation is damaged, the Setup program",
+        "listed below, or, if a classicOS installation is damaged, the Setup program",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -651,7 +651,7 @@ static MUI_ENTRY etEEUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -675,7 +675,7 @@ static MUI_ENTRY etEEComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -734,7 +734,7 @@ static MUI_ENTRY etEEFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -779,14 +779,14 @@ static MUI_ENTRY etEEQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs ei ole t\204ielikult paigaldatud.",
+        "classicOS ei ole t\204ielikult paigaldatud.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -831,7 +831,7 @@ static MUI_ENTRY etEEDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -890,14 +890,14 @@ static MUI_ENTRY etEESuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs'i p\344hilised komponendid on edukalt paigaldatud.",
+        "classicOS'i p\344hilised komponendid on edukalt paigaldatud.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -942,7 +942,7 @@ static MUI_ENTRY etEEBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -995,7 +995,7 @@ static MUI_ENTRY etEESelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1023,7 +1023,7 @@ static MUI_ENTRY etEESelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Vajuta ENTER, et paigaldada Windivs valitud partitsioonile.",
+        "\x07  Vajuta ENTER, et paigaldada classicOS valitud partitsioonile.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1076,7 +1076,7 @@ static MUI_ENTRY etEEChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1097,14 +1097,14 @@ static MUI_ENTRY etEEChangeSystemPartition[] =
     {
         6,
         16,
-        "uses a format not supported by Windivs.",
+        "uses a format not supported by classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "In order to successfully install Windivs, the Setup program must change",
+        "In order to successfully install classicOS, the Setup program must change",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1174,7 +1174,7 @@ static MUI_ENTRY etEEChangeSystemPartition[] =
     {
         6,
         35,
-        "to the original one after finishing the installation of Windivs.",
+        "to the original one after finishing the installation of classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1198,7 +1198,7 @@ static MUI_ENTRY etEEConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1219,7 +1219,7 @@ static MUI_ENTRY etEEConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programme, programme millega alustada ops\201steeme (nagu Windivs) v\344i muid",
+        "programme, programme millega alustada ops\201steeme (nagu classicOS) v\344i muid",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1254,7 +1254,7 @@ static MUI_ENTRY etEEConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "arvutit k\344vakettalt kuni l\344petate Windivs'i paigalduse.",
+        "arvutit k\344vakettalt kuni l\344petate classicOS'i paigalduse.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1306,7 +1306,7 @@ static MUI_ENTRY etEEFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1344,7 +1344,7 @@ static MUI_ENTRY etEECheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1375,21 +1375,21 @@ static MUI_ENTRY etEEInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs paigaldatakse valitud partitsioonile.",
+        "classicOS paigaldatakse valitud partitsioonile.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "Vali kaust, kuhu Windivs paigaldada:",
+        "Vali kaust, kuhu classicOS paigaldada:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1403,7 +1403,7 @@ static MUI_ENTRY etEEInstallDirectoryEntries[] =
     {
         6,
         15,
-        "tr\201ki asemele kaust, kuhu Windivs installeerida.",
+        "tr\201ki asemele kaust, kuhu classicOS installeerida.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1434,14 +1434,14 @@ static MUI_ENTRY etEEFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         12,
-        "Palun oota, kuni Windivs paigaldatakse sihtkausta.",
+        "Palun oota, kuni classicOS paigaldatakse sihtkausta.",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1479,7 +1479,7 @@ static MUI_ENTRY etEEBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1538,7 +1538,7 @@ static MUI_ENTRY etEEBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1562,7 +1562,7 @@ static MUI_ENTRY etEEKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1621,7 +1621,7 @@ static MUI_ENTRY etEELayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1681,14 +1681,14 @@ static MUI_ENTRY etEEPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Arvutit valmistatakse ette Windivsi failide kopeerimiseks.",
+        "Arvutit valmistatakse ette classicOSi failide kopeerimiseks.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1713,7 +1713,7 @@ static MUI_ENTRY etEESelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1761,7 +1761,7 @@ static MUI_ENTRY etEEDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1813,7 +1813,7 @@ static MUI_ENTRY etEERegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 paigaldus ",
+        " classicOS 2k3 Service Pack 2 paigaldus ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1848,9 +1848,9 @@ MUI_ERROR etEEErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs ei ole t\204ielikult paigaldatud.\n"
+        "classicOS ei ole t\204ielikult paigaldatud.\n"
         "Kui paigaldamine praegu katkestada, siis tuleb\n"
-        "Windivs'i paigaldamiseks paigaldusprogramm uuesti k\204ivitada.\n"
+        "classicOS'i paigaldamiseks paigaldusprogramm uuesti k\204ivitada.\n"
         "\n"
         "  \x07  Vajuta ENTER paigalduse j\204tmaiseks.\n"
         "  \x07  Vajuta F3 paigalduse seiskamiseks.",
@@ -1858,7 +1858,7 @@ MUI_ERROR etEEErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1868,7 +1868,7 @@ MUI_ERROR etEEErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2065,7 +2065,7 @@ MUI_ERROR etEEErrorEntries[] =
     },
     {
         //ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Valitud partitsioon ei ole piisavalt suur Windivs'i paigaldamiseks.\n"
+        "Valitud partitsioon ei ole piisavalt suur classicOS'i paigaldamiseks.\n"
         "Paigalduse partitsioon peab v\204heamlt %lu MB suur olema.\n"
         "\n"
         "  * Vajuta mis tahes klahvi, et j\204tkata.",
@@ -2249,13 +2249,13 @@ MUI_STRING etEEStrings[] =
     {STRING_PARTFORMAT,
     "J\204rgmisena vormindatakse seda partitsiooni."},
     {STRING_NONFORMATTEDPART,
-    "Oled valinud Windivs'i paigaldamise uuele v\344i vormindamata partitsioonile."},
+    "Oled valinud classicOS'i paigaldamise uuele v\344i vormindamata partitsioonile."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "S\201steemipartitsioon on veel vormindamata."},
     {STRING_NONFORMATTEDOTHERPART,
     "Uus partitsioon on veel vormindamata."},
     {STRING_INSTALLONPART,
-    "Windivs paigaldatakse partitsioonile"},
+    "classicOS paigaldatakse partitsioonile"},
     {STRING_CONTINUE,
     "ENTER = J\204tka"},
     {STRING_QUITCONTINUE,

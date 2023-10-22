@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            hal/halarm/generic/bus.c
  * PURPOSE:         Bus Support Routines
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

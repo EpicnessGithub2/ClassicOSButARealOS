@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:            See COPYING in the top level directory
- * PROJECT:              Windivs DirectX
+ * PROJECT:              classicOS DirectX
  * FILE:                 dll/directx/ddraw/Color/color_stubs.c
  * PURPOSE:              IDirectDrawColorControl Implementation
  * PROGRAMMER:           Maarten Bosma

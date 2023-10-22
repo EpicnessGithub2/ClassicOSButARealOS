@@ -1,5 +1,5 @@
 /*
- * Windivs Explorer
+ * classicOS Explorer
  *
  * Copyright 2009 Andrew Hill <ash77@reactos.org>
  *

@@ -22,7 +22,7 @@ BEGIN
     IDS_SCROLLUP "Derulează în sus"
     IDS_SCROLLDOWN "Derulează în jos"
 */
-    IDS_TERMINAL_TITLE "Consola Windivs"
+    IDS_TERMINAL_TITLE "Consola classicOS"
 END
 
 STRINGTABLE

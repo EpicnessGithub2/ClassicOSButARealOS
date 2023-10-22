@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs sysem libraries
+ * PROJECT:           classicOS sysem libraries
  * PURPOSE:           Vectored Exception Handling
  * FILE:              lib/rtl/vectoreh.c
  * PROGRAMERS:        Thomas Weidenmueller

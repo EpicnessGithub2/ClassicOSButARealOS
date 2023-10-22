@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs kernel
+ * PROJECT:          classicOS kernel
  * PURPOSE:          Windows
  * FILE:             win32ss/user/ntuser/winpos.c
  * PROGRAMER:        Casper S. Hornstrup (chorns@users.sourceforge.net)
@@ -460,7 +460,7 @@ done:
 
    if (gpqForeground && (!gpqForeground->spwndActive || Wnd == gpqForeground->spwndActive))
    {
-      /* Windivs can pass WndTo = NULL to co_IntSetForegroundWindow and returns FALSE. */
+      /* classicOS can pass WndTo = NULL to co_IntSetForegroundWindow and returns FALSE. */
       //ERR("WinPosActivateOtherWindow Set FG 0x%p hWnd %p\n",WndTo, WndTo ? WndTo->head.h : 0);
       if (co_IntSetForegroundWindow(WndTo))
       {
@@ -789,7 +789,7 @@ WinPosFindIconPos(PWND Window, POINT *Pos)
    if (UserIsDesktopWindow(pwndParent))
    {
       ERR("FIXME: Parent is Desktop, Min off screen!\n");
-      /* FIXME: Windivs doesn't support iconic minimize to desktop */
+      /* FIXME: classicOS doesn't support iconic minimize to desktop */
       Pos->x = Pos->y = -32000;
       Window->InternalPos.flags |= WPF_MININIT;
       Window->InternalPos.IconPos.x = Pos->x;
@@ -1345,7 +1345,7 @@ co_WinPosDoWinPosChanging(PWND Window,
  *
  * FIXME: hide/show owned popups when owner visibility changes.
  *
- * Windivs: See bug CORE-6129 and CORE-6554.
+ * classicOS: See bug CORE-6129 and CORE-6554.
  *
  */
  ////
@@ -2195,7 +2195,7 @@ co_WinPosSetWindowPos(
                         /*
                          * Check if we have these specific windows style bits set/reset.
                          * FIXME: There may be other combinations of styles that need this handling as well.
-                         * This fixes the Windivs Calculator buttons disappearing in CORE-16827.
+                         * This fixes the classicOS Calculator buttons disappearing in CORE-16827.
                          */
                         if ((Window->style & WS_CLIPSIBLINGS) && !(Window->style & (WS_POPUP | WS_CLIPCHILDREN | WS_SIZEBOX)))
                         {

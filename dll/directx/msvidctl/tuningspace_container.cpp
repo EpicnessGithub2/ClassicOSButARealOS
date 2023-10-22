@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs BDA Proxy
+ * PROJECT:         classicOS BDA Proxy
  * FILE:            dll/directx/msvidctl/tuningspace_container.cpp
  * PURPOSE:         ITuningSpaceContainer interface
  *

@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Kernel Streaming
+ * PROJECT:         classicOS Kernel Streaming
  * FILE:            lib/drivers/sound/mmixer/controls.c
  * PURPOSE:         Mixer Control Iteration Functions
  * PROGRAMMER:      Johannes Anderwald

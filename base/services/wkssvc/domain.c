@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Services
+ * PROJECT:          classicOS Services
  * FILE:             base/services/wkssvc/domain.c
  * PURPOSE:          Workstation service
  * PROGRAMMER:       Eric Kohl

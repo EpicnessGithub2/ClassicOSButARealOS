@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Win32k subsystem
+ * PROJECT:          classicOS Win32k subsystem
  * PURPOSE:          Cursor and icon functions
  * FILE:             win32ss/user/ntuser/cursoricon.c
  * PROGRAMER:        ReactOS Team

@@ -2,10 +2,10 @@
 // code7bit: https://github.com/katahiromz/code7bit
 // To revert conversion, please execute "code7bit -r <file>".
 /*
- * PROJECT:         Windivs Setup
+ * PROJECT:         classicOS Setup
  * FILE:            base/setup/usetup/lang/sv-SE.h
  * PURPOSE:         Swedish resource file
- * Translation:     Jaix Bly plus perhaps GreatLord if blame and translate.Windivs.se is consulted.
+ * Translation:     Jaix Bly plus perhaps GreatLord if blame and translate.classicOS.se is consulted.
  */
 #pragma once
 
@@ -14,14 +14,14 @@ static MUI_ENTRY svSESetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Please wait while the Windivs Setup initializes itself",
+        "Please wait while the classicOS Setup initializes itself",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -52,7 +52,7 @@ static MUI_ENTRY svSELanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -104,21 +104,21 @@ static MUI_ENTRY svSEWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "V\204lkommen till Windivs Setup!",
+        "V\204lkommen till classicOS Setup!",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Denna del av installationen kopierar Windivs till eran",
+        "Denna del av installationen kopierar classicOS till eran",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -132,42 +132,42 @@ static MUI_ENTRY svSEWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Press ENTER to install or upgrade Windivs.",
+        "\x07  Press ENTER to install or upgrade classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Tryck p\206 R f\224r att reparera Windivs.",
+        "\x07  Tryck p\206 R f\224r att reparera classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Tryck p\206 L f\224r att l\204sa licensavtalet till Windivs.",
+        "\x07  Tryck p\206 L f\224r att l\204sa licensavtalet till classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Tryck p\206 F3 f\224r att avbryta installationen av Windivs.",
+        "\x07  Tryck p\206 F3 f\224r att avbryta installationen av classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "F\224r mer information om Windivs, bes\224k:",
+        "F\224r mer information om classicOS, bes\224k:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -191,28 +191,28 @@ static MUI_ENTRY svSEIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Version Status",
+        "classicOS Version Status",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -233,7 +233,7 @@ static MUI_ENTRY svSEIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -247,14 +247,14 @@ static MUI_ENTRY svSEIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Press ENTER to continue Windivs Setup.",
+        "\x07  Press ENTER to continue classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -278,7 +278,7 @@ static MUI_ENTRY svSELicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -292,7 +292,7 @@ static MUI_ENTRY svSELicensePageEntries[] =
     {
         8,
         8,
-        "Windivs \204r licenserad under GNU GPL med delar",
+        "classicOS \204r licenserad under GNU GPL med delar",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -313,7 +313,7 @@ static MUI_ENTRY svSELicensePageEntries[] =
     {
         8,
         11,
-        "All mjukvara som \204r del av Windivs \204r publicerad",
+        "All mjukvara som \204r del av classicOS \204r publicerad",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -348,7 +348,7 @@ static MUI_ENTRY svSELicensePageEntries[] =
     {
         8,
         17,
-        "Windivs t\204cker endast distrubering till tredje part.",
+        "classicOS t\204cker endast distrubering till tredje part.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -362,7 +362,7 @@ static MUI_ENTRY svSELicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public License med Windivs, bes\224k",
+        "GNU General Public License med classicOS, bes\224k",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -421,7 +421,7 @@ static MUI_ENTRY svSEDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -528,14 +528,14 @@ static MUI_ENTRY svSERepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Setup \204r i en tidig utvecklingsfas och saknar d\204rf\224r ett antal",
+        "classicOS Setup \204r i en tidig utvecklingsfas och saknar d\204rf\224r ett antal",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -556,7 +556,7 @@ static MUI_ENTRY svSERepairPageEntries[] =
     {
         8,
         15,
-        "\x07  Tryck p\206 U f\224r att uppdatera Windivs.",
+        "\x07  Tryck p\206 U f\224r att uppdatera classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -601,21 +601,21 @@ static MUI_ENTRY svSEUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "The Windivs Setup can upgrade one of the available Windivs installations",
+        "The classicOS Setup can upgrade one of the available classicOS installations",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "listed below, or, if a Windivs installation is damaged, the Setup program",
+        "listed below, or, if a classicOS installation is damaged, the Setup program",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -657,7 +657,7 @@ static MUI_ENTRY svSEUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -681,7 +681,7 @@ static MUI_ENTRY svSEComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -740,7 +740,7 @@ static MUI_ENTRY svSEFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -785,14 +785,14 @@ static MUI_ENTRY svSEQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Installationen av Windivs har inte slutf\224rts.",
+        "Installationen av classicOS har inte slutf\224rts.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -837,7 +837,7 @@ static MUI_ENTRY svSEDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -896,14 +896,14 @@ static MUI_ENTRY svSESuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs har nu installerats p\206 datorn.",
+        "classicOS har nu installerats p\206 datorn.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -948,7 +948,7 @@ static MUI_ENTRY svSEBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1001,7 +1001,7 @@ static MUI_ENTRY svSESelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1029,7 +1029,7 @@ static MUI_ENTRY svSESelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Tryck ENTER f\224r att installerara Windivs till vald partition.",
+        "\x07  Tryck ENTER f\224r att installerara classicOS till vald partition.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1082,7 +1082,7 @@ static MUI_ENTRY svSEChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1103,14 +1103,14 @@ static MUI_ENTRY svSEChangeSystemPartition[] =
     {
         6,
         16,
-        "uses a format not supported by Windivs.",
+        "uses a format not supported by classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "In order to successfully install Windivs, the Setup program must change",
+        "In order to successfully install classicOS, the Setup program must change",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1180,7 +1180,7 @@ static MUI_ENTRY svSEChangeSystemPartition[] =
     {
         6,
         35,
-        "to the original one after finishing the installation of Windivs.",
+        "to the original one after finishing the installation of classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1204,7 +1204,7 @@ static MUI_ENTRY svSEConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1225,7 +1225,7 @@ static MUI_ENTRY svSEConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programs, programs to start an operating system (like Windivs) or other",
+        "programs, programs to start an operating system (like classicOS) or other",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1260,7 +1260,7 @@ static MUI_ENTRY svSEConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "computer from the harddisk until you finished the Windivs Setup.",
+        "computer from the harddisk until you finished the classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1312,7 +1312,7 @@ static MUI_ENTRY svSEFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1350,7 +1350,7 @@ static MUI_ENTRY svSECheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1381,21 +1381,21 @@ static MUI_ENTRY svSEInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs installeras till vald partition. V\204lj en",
+        "classicOS installeras till vald partition. V\204lj en",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "mapp som du vill installera Windivs till.:",
+        "mapp som du vill installera classicOS till.:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1409,7 +1409,7 @@ static MUI_ENTRY svSEInstallDirectoryEntries[] =
     {
         6,
         15,
-        "bokst\204ver och skriv sedan in mappen dit du vill att Windivs ska bli",
+        "bokst\204ver och skriv sedan in mappen dit du vill att classicOS ska bli",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1440,14 +1440,14 @@ static MUI_ENTRY svSEFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         11,
         12,
-        "Var v\204nlig v\204nta medans Windivs Setup kopieras till din Windivs.",
+        "Var v\204nlig v\204nta medans classicOS Setup kopieras till din classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1485,7 +1485,7 @@ static MUI_ENTRY svSEBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1544,7 +1544,7 @@ static MUI_ENTRY svSEBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1568,7 +1568,7 @@ static MUI_ENTRY svSEKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1627,7 +1627,7 @@ static MUI_ENTRY svSELayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1687,14 +1687,14 @@ static MUI_ENTRY svSEPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Setup f\224rbereder din dator f\224r kopiering av Windivs filer.",
+        "Setup f\224rbereder din dator f\224r kopiering av classicOS filer.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1719,7 +1719,7 @@ static MUI_ENTRY svSESelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1767,7 +1767,7 @@ static MUI_ENTRY svSEDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1819,7 +1819,7 @@ static MUI_ENTRY svSERegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1854,9 +1854,9 @@ MUI_ERROR svSEErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs installerades inte fullst\204ndigt p\206 din\n"
+        "classicOS installerades inte fullst\204ndigt p\206 din\n"
         "dator. Om du avslutar Setup nu, kommer du att beh\224va\n"
-        "k\224ra Setup igen f\224r att installera Windivs.\n"
+        "k\224ra Setup igen f\224r att installera classicOS.\n"
         "\n"
         "  \x07  Tryck ENTER f\224r att forts\204tta Setup.\n"
         "  \x07  Tryck F3 f\224r att avsluta Setup.",
@@ -1864,7 +1864,7 @@ MUI_ERROR svSEErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1874,7 +1874,7 @@ MUI_ERROR svSEErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2073,7 +2073,7 @@ MUI_ERROR svSEErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "The selected partition is not large enough to install Windivs.\n"
+        "The selected partition is not large enough to install classicOS.\n"
         "The install partition must have a size of at least %lu MB.\n"
         "\n"
         "  * Tryck valfri tangent f\224r att forts\204tta.",
@@ -2258,13 +2258,13 @@ MUI_STRING svSEStrings[] =
     {STRING_PARTFORMAT,
     "Denna Partition kommer att bli formaterad h\204rn\204st."},
     {STRING_NONFORMATTEDPART,
-    "Du valde att installera Windivs p\206 en oformaterad partition."},
+    "Du valde att installera classicOS p\206 en oformaterad partition."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "The system partition is not formatted yet."},
     {STRING_NONFORMATTEDOTHERPART,
     "The new partition is not formatted yet."},
     {STRING_INSTALLONPART,
-    "Setup installerar Windivs till Partitionen"},
+    "Setup installerar classicOS till Partitionen"},
     {STRING_CONTINUE,
     "ENTER = Forts\204tt"},
     {STRING_QUITCONTINUE,

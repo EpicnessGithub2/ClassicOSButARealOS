@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs Kernel
+ * PROJECT:         classicOS Kernel
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            ntoskrnl/ke/thrdobj.c
  * PURPOSE:         Implements routines to manage the Kernel Thread Object

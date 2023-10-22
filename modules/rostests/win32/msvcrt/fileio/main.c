@@ -1,5 +1,5 @@
 /*
- *  Windivs test program -
+ *  classicOS test program -
  *
  *  main.c
  *

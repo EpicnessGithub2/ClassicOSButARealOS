@@ -1,8 +1,8 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * PURPOSE:         HAL PIC Management and Control Code
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

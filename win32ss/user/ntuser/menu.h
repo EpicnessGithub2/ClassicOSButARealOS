@@ -68,7 +68,7 @@ typedef struct _SETMENUITEMRECT
 
 
 //
-// Legacy Windivs Menu transfer structures.
+// Legacy classicOS Menu transfer structures.
 //
 typedef struct tagROSMENUINFO
 {

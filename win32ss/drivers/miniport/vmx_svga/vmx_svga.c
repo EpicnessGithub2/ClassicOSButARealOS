@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs Boot Loader
+ * PROJECT:         classicOS Boot Loader
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            win32ss/drivers/miniport/vmx_svga/vmx_svga.c
  * PURPOSE:         VMWARE SVGA-II Card Main Driver File
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

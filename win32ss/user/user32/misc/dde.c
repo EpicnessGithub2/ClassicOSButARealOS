@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs user32.dll
+ * PROJECT:          classicOS user32.dll
  * PURPOSE:          Dynamic Data Exchange
  * FILE:             win32ss/user/user32/misc/dde.c
  * PROGRAMER:

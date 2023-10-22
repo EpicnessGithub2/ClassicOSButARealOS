@@ -1,5 +1,5 @@
 /*
- * Windivs Explorer
+ * classicOS Explorer
  *
  * Copyright 2006 - 2007 Thomas Weidenmueller <w3seek@reactos.org>
  *

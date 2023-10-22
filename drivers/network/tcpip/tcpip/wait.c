@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs TCP/IP protocol driver
+ * PROJECT:     classicOS TCP/IP protocol driver
  * FILE:        tcpip/lock.c
  * PURPOSE:     Waiting and signalling
  * PROGRAMMERS: Art Yerkes

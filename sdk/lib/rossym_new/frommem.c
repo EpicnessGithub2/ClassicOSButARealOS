@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            lib/rossym/frommem.c
  * PURPOSE:         Creating rossym info from an in-memory image
  *

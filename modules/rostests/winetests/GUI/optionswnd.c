@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs API Test GUI
+ * PROJECT:     classicOS API Test GUI
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:
  * PURPOSE:     options dialog implementation

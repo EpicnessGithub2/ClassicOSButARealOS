@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs API tests
+ * PROJECT:         classicOS API tests
  * LICENSE:         LGPLv2.1+ - See COPYING.LIB in the top level directory
  * PURPOSE:         Test for loading/unloading user32.dll
  * PROGRAMMERS:     Thomas Faber <thomas.faber@reactos.org>

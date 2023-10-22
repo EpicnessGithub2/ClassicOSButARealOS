@@ -1,9 +1,9 @@
 ====================
-Windivs Applications
+classicOS Applications
 ====================
 
-This directory contains extra applications for Windivs.
-Make sure you also have a copy of the rest of the Windivs
+This directory contains extra applications for classicOS.
+Make sure you also have a copy of the rest of the classicOS
 source before you attempt to build anything in this module.
 It is to be placed under "modules" subdirectory of a trunk checkout.
 The module requires to be enabled during the "configure" process.

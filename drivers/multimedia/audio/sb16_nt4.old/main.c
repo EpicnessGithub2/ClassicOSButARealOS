@@ -1,5 +1,5 @@
 /*
-    Windivs
+    classicOS
     Sound Blaster driver
 
     Programmers:

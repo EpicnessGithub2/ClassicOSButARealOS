@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs VT100 emulator
+ * PROJECT:     classicOS VT100 emulator
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        drivers/base/green/pnp.c
  * PURPOSE:     IRP_MJ_PNP operations

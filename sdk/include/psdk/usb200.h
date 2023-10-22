@@ -1,7 +1,7 @@
 /*
  * usb200.h
  *
- * This file is part of the Windivs PSDK package.
+ * This file is part of the classicOS PSDK package.
  *
  * Contributors:
  *   Magnus Olsen.

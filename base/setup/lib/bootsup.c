@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Setup Library
+ * PROJECT:         classicOS Setup Library
  * FILE:            base/setup/lib/bootsup.c
  * PURPOSE:         Bootloader support functions
  * PROGRAMMERS:     ...
@@ -71,58 +71,58 @@ CreateFreeLoaderReactOSEntries(
     Options->OsLoadPath = ArcPath;
 
     /* ReactOS */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs");
-    BootEntry->FriendlyName = L"\"Windivs\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS");
+    BootEntry->FriendlyName = L"\"classicOS\"";
     Options->OsLoadOptions  = NULL; // L"";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS"));
 
     /* ReactOS_Debug */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_Debug");
-    BootEntry->FriendlyName = L"\"Windivs (Debug)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_Debug");
+    BootEntry->FriendlyName = L"\"classicOS (Debug)\"";
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=COM1 /BAUDRATE=115200 /SOS";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_Debug"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_Debug"));
 
 #ifdef _WINKD_
     /* ReactOS_VBoxDebug */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_VBoxDebug");
-    BootEntry->FriendlyName = L"\"Windivs (VBox Debug)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_VBoxDebug");
+    BootEntry->FriendlyName = L"\"classicOS (VBox Debug)\"";
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=VBOX /SOS";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_VBoxDebug"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_VBoxDebug"));
 #endif
 #if DBG
 #ifndef _WINKD_
     /* ReactOS_KdSerial */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_KdSerial");
-    BootEntry->FriendlyName = L"\"Windivs (RosDbg)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_KdSerial");
+    BootEntry->FriendlyName = L"\"classicOS (RosDbg)\"";
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=COM1 /BAUDRATE=115200 /SOS /KDSERIAL";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_KdSerial"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_KdSerial"));
 #endif
 
     /* ReactOS_Screen */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_Screen");
-    BootEntry->FriendlyName = L"\"Windivs (Screen)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_Screen");
+    BootEntry->FriendlyName = L"\"classicOS (Screen)\"";
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=SCREEN /SOS";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_Screen"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_Screen"));
 
     /* ReactOS_LogFile */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_LogFile");
-    BootEntry->FriendlyName = L"\"Windivs (Log file)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_LogFile");
+    BootEntry->FriendlyName = L"\"classicOS (Log file)\"";
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=FILE /SOS";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_LogFile"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_LogFile"));
 
     /* ReactOS_Ram */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_Ram");
-    BootEntry->FriendlyName = L"\"Windivs (RAM Disk)\"";
-    Options->OsLoadPath     = L"ramdisk(0)\\Windivs";
-    Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=COM1 /BAUDRATE=115200 /SOS /RDPATH=windivs.img /RDIMAGEOFFSET=32256";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_Ram"));
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_Ram");
+    BootEntry->FriendlyName = L"\"classicOS (RAM Disk)\"";
+    Options->OsLoadPath     = L"ramdisk(0)\\classicOS";
+    Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=COM1 /BAUDRATE=115200 /SOS /RDPATH=classicOS.img /RDIMAGEOFFSET=32256";
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_Ram"));
 
     /* ReactOS_EMS */
-    // BootEntry->BootEntryKey = MAKESTRKEY(L"Windivs_EMS");
-    BootEntry->FriendlyName = L"\"Windivs (Emergency Management Services)\"";
+    // BootEntry->BootEntryKey = MAKESTRKEY(L"classicOS_EMS");
+    BootEntry->FriendlyName = L"\"classicOS (Emergency Management Services)\"";
     Options->OsLoadPath     = ArcPath;
     Options->OsLoadOptions  = L"/DEBUG /DEBUGPORT=COM1 /BAUDRATE=115200 /SOS /redirect=com2 /redirectbaudrate=115200";
-    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"Windivs_EMS"));
+    AddBootStoreEntry(BootStoreHandle, BootEntry, MAKESTRKEY(L"classicOS_EMS"));
 #endif
 
 
@@ -130,15 +130,15 @@ CreateFreeLoaderReactOSEntries(
 #if DBG && !defined(_WINKD_)
     if (IsUnattendedSetup)
     {
-        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"Windivs_KdSerial");
+        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"classicOS_KdSerial");
     }
     else
 #endif
     {
 #if DBG
-        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"Windivs_Debug");
+        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"classicOS_Debug");
 #else
-        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"Windivs");
+        BootOptions.CurrentBootEntryKey = MAKESTRKEY(L"classicOS");
 #endif
     }
 

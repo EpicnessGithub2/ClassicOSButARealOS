@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs Winlogon
+ * PROJECT:         classicOS Winlogon
  * FILE:            base/system/winlogon/rpcserver.c
  * PURPOSE:         RPC server interface for the remote registry calls
  * PROGRAMMERS:     Eric Kohl

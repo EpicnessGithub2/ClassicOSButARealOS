@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs WinSock DLL
+ * PROJECT:     classicOS WinSock DLL
  * FILE:        stubs.c
  * PURPOSE:     Stub functions
  * PROGRAMMERS: Ge van Geldorp (ge@gse.nl)

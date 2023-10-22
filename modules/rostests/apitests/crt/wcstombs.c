@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs api tests
+ * PROJECT:         classicOS api tests
  * LICENSE:         GPL - See COPYING in the top level directory
  * PURPOSE:         Test for wcstombs
  */
@@ -11,8 +11,8 @@
 #include <stdlib.h>
 #include <specstrings.h>
 
-#define LStrROS L"Windivs"
-#define StrROS "Windivs"
+#define LStrROS L"classicOS"
+#define StrROS "classicOS"
 
 START_TEST(wcstombs)
 {

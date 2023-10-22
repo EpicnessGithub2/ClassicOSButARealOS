@@ -1,8 +1,8 @@
 /*
  * COPYRIGHT:        See COPYING in the top level directory
- * PROJECT:          Windivs Shell
+ * PROJECT:          classicOS Shell
  * FILE:             base/services/shsvcs/shsvcs.c
- * PURPOSE:          Windivs Shell Services
+ * PURPOSE:          classicOS Shell Services
  * PROGRAMMER:       Giannis Adamopoulos
  */
 

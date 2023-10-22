@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs TCP/IP protocol driver
+ * PROJECT:     classicOS TCP/IP protocol driver
  * FILE:        tcpip/tinfo.c
  * PURPOSE:     Transport layer information
  * PROGRAMMERS: Art Yerkes

@@ -1,5 +1,5 @@
 /*
- * PROJECT:         Windivs HAL
+ * PROJECT:         classicOS HAL
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            hal/halx86/legacy/bus/isabus.c
  * PURPOSE:

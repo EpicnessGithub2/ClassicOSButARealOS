@@ -1,5 +1,5 @@
 /*
- * Windivs Realtek 8139 Driver
+ * classicOS Realtek 8139 Driver
  *
  * Copyright (C) 2013 Cameron Gutman
  *
@@ -143,7 +143,7 @@ MiniportQueryInformation (
 
         case OID_GEN_VENDOR_DESCRIPTION:
         {
-            static UCHAR vendorDesc[] = "Windivs Developers";
+            static UCHAR vendorDesc[] = "classicOS Developers";
             copySource = vendorDesc;
             copyLength = sizeof(vendorDesc);
             break;

@@ -1,7 +1,7 @@
 /*
  * mmintrin.h
  *
- * This file is part of the Windivs CRT package.
+ * This file is part of the classicOS CRT package.
  *
  * Contributors:
  *   Timo Kreuzer (timo.kreuzer@reactos.org)

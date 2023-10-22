@@ -1,5 +1,5 @@
 /*
-    Windivs Kernel Streaming
+    classicOS Kernel Streaming
     Digital Rights Management
 
     Author: Andrew Greenwood

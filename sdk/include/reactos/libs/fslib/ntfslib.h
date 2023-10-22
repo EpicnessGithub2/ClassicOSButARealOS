@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:   See COPYING in the top level directory
- * PROJECT:     Windivs NTFS filesystem library
+ * PROJECT:     classicOS NTFS filesystem library
  * FILE:        include/reactos/libs/fslib/ntfslib.h
  * PURPOSE:     Public definitions for NTFS filesystem library
  */

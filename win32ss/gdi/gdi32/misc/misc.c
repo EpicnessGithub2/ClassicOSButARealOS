@@ -1,5 +1,5 @@
 /*
- *  Windivs GDI lib
+ *  classicOS GDI lib
  *  Copyright (C) 2003 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  *  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 /*
- * PROJECT:         Windivs gdi32.dll
+ * PROJECT:         classicOS gdi32.dll
  * FILE:            win32ss/gdi/gdi32/misc/misc.c
  * PURPOSE:         Miscellaneous functions
  * PROGRAMMER:      Thomas Weidenmueller <w3seek@reactos.com>
@@ -73,7 +73,7 @@ Escape(
     {
         case ABORTDOC:
             /* Note: Windows checks if the handle has any user data for the ABORTDOC command
-             * Windivs copies this behavior to be compatible with windows 2003
+             * classicOS copies this behavior to be compatible with windows 2003
              */
             if (GdiGetDcAttr(hdc) == NULL)
             {
@@ -91,7 +91,7 @@ Escape(
         case SETCOLORTABLE:
             /* Note 1: DRAFTMODE, FLUSHOUTPUT, SETCOLORTABLE are outdated */
             /* Note 2: Windows checks if the handle has any user data for the DRAFTMODE, FLUSHOUTPUT, SETCOLORTABLE commands
-             * Windivs copies this behavior to be compatible with windows 2003
+             * classicOS copies this behavior to be compatible with windows 2003
              */
             if (GdiGetDcAttr(hdc) == NULL)
             {
@@ -102,7 +102,7 @@ Escape(
 
         case SETABORTPROC:
             /* Note: Windows checks if the handle has any user data for the SETABORTPROC command
-             * Windivs copies this behavior to be compatible with windows 2003
+             * classicOS copies this behavior to be compatible with windows 2003
              */
             if (GdiGetDcAttr(hdc) == NULL)
             {
@@ -122,7 +122,7 @@ Escape(
 
         case ENDDOC:
             /* Note: Windows checks if the handle has any user data for the ENDDOC command
-             * Windivs copies this behavior to be compatible with windows 2003
+             * classicOS copies this behavior to be compatible with windows 2003
              */
             if (GdiGetDcAttr(hdc) == NULL)
             {
@@ -155,7 +155,7 @@ Escape(
             DOCINFOA di;
 
             /* Note: Windows checks if the handle has any user data for the STARTDOC command
-             * Windivs copies this behavior to be compatible with windows 2003
+             * classicOS copies this behavior to be compatible with windows 2003
              */
             if (GdiGetDcAttr(hdc) == NULL)
             {

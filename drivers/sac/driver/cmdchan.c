@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Drivers
+ * PROJECT:     classicOS Drivers
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        drivers/sac/driver/cmdchan.c
  * PURPOSE:     Driver for the Server Administration Console (SAC) for EMS
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

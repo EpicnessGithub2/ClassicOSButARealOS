@@ -1,8 +1,8 @@
 /*
- * PROJECT:     Windivs AT utility
+ * PROJECT:     classicOS AT utility
  * COPYRIGHT:   See COPYING in the top level directory
  * FILE:        base/applications/cmdutils/at/at.c
- * PURPOSE:     Windivs AT utility
+ * PURPOSE:     classicOS AT utility
  * PROGRAMMERS: Eric Kohl <eric.kohl@reactos.org>
  */
 

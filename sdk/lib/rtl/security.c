@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs system libraries
+ * PROJECT:           classicOS system libraries
  * FILE:              lib/rtl/security.c
  * PURPOSE:           Security related functions and Security Objects
  * PROGRAMMER:        Eric Kohl

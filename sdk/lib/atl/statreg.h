@@ -1,5 +1,5 @@
 /*
- * Windivs ATL
+ * classicOS ATL
  *
  * Copyright 2005 Jacek Caban
  * Copyright 2009 Andrew Hill <ash77@reactos.org>

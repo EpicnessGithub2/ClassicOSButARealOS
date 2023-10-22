@@ -1,5 +1,5 @@
 /*
- * Windivs WinStation
+ * classicOS WinStation
  * Copyright (C) 2005 ReactOS Team
  *
  * This library is free software; you can redistribute it and/or
@@ -17,7 +17,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  */
 /*
- * PROJECT:         Windivs winsta.dll
+ * PROJECT:         classicOS winsta.dll
  * FILE:            lib/winsta/main.c
  * PURPOSE:         WinStation
  * PROGRAMMER:      Emanuele Aliberti <ea@reactos.com>

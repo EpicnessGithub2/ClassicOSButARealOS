@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs text-mode setup
+ * PROJECT:         classicOS text-mode setup
  * FILE:            base/setup/usetup/progress.c
  * PURPOSE:         Partition list functions
  * PROGRAMMER:

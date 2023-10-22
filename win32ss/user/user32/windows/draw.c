@@ -1,5 +1,5 @@
 /*
- * Windivs User32 Library
+ * classicOS User32 Library
  * - Various drawing functions
  *
  * Copyright 2001 Casper S. Hournstroup

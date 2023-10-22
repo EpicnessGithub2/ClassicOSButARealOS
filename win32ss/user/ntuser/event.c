@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:         See COPYING in the top level directory
- * PROJECT:           Windivs kernel
+ * PROJECT:           classicOS kernel
  * PURPOSE:           Window event handlers
  * PROGRAMER:         James Tabor <james.tabor@reactos.org>
  */

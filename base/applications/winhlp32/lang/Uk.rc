@@ -77,7 +77,7 @@ END
 
 STRINGTABLE
 {
-STID_WINE_HELP, 	"Довідка Windivs"
+STID_WINE_HELP, 	"Довідка classicOS"
 STID_WHERROR, 		"ПОМИЛКА"
 STID_WARNING,  		"УВАГА"
 STID_INFO,  		"Інформація"

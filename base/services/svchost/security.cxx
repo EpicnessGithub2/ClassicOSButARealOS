@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Service Host
+ * PROJECT:     classicOS Service Host
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        base/services/svchost/security.cxx
  * PURPOSE:     Initializes the COM Object Security Model and Parameters
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 /* INCLUDES ******************************************************************/

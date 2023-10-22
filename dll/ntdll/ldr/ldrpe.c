@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs kernel
+ * PROJECT:         classicOS kernel
  * FILE:            lib/ntdll/ldr/ldrpe.c
  * PURPOSE:         Loader Functions dealing low-level PE Format structures
  * PROGRAMMERS:     Alex Ionescu (alex@relsoft.net)

@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Applications Manager
+ * PROJECT:     classicOS Applications Manager
  * LICENSE:     GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
  * PURPOSE:     Portuguese (Brazilian) resource file
  * TRANSLATOR:  Copyright 2011 Matheus Macabu <mkbu95@gmail.com>
@@ -186,12 +186,12 @@ END
 
 STRINGTABLE
 BEGIN
-    IDS_APPTITLE "Central de Aplicativos Windivs"
+    IDS_APPTITLE "Central de Aplicativos classicOS"
     IDS_APP_AUTHORS "Copyright 2009 Dmitry Chapyshev"
     IDS_SEARCH_TEXT "Procurar…"
     IDS_APPS_COUNT "Número de aplicativos: %d; Selected: %d"
-    IDS_WELCOME_TITLE "Bem-vindo(a) a Central de Aplicativos Windivs!\n\n"
-    IDS_WELCOME_TEXT "Escolha uma categoria à esquerda, então escolha um aplicativo para instalar ou desinstalar.\nWeb Site Windivs: "
+    IDS_WELCOME_TITLE "Bem-vindo(a) a Central de Aplicativos classicOS!\n\n"
+    IDS_WELCOME_TEXT "Escolha uma categoria à esquerda, então escolha um aplicativo para instalar ou desinstalar.\nWeb Site classicOS: "
     IDS_WELCOME_URL "https://reactos.org"
     IDS_INSTALLED "Instalado"
     IDS_AVAILABLEFORINST "Disponível para instalação"

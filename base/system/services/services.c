@@ -127,7 +127,7 @@ CheckForLiveCD(VOID)
 
     if (dwSetupInProgress == 1)
     {
-        DPRINT1("Windivs Setup currently in progress!\n");
+        DPRINT1("classicOS Setup currently in progress!\n");
         ScmSetupInProgress = TRUE;
     }
 

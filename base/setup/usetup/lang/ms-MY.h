@@ -5,14 +5,14 @@ static MUI_ENTRY msMYSetupInitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         20,
-        "Please wait while the Windivs Setup initializes itself",
+        "Please wait while the classicOS Setup initializes itself",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -43,7 +43,7 @@ static MUI_ENTRY msMYLanguagePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -95,21 +95,21 @@ static MUI_ENTRY msMYWelcomePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Selamat datang ke persediaan Windivs",
+        "Selamat datang ke persediaan classicOS",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
         6,
         11,
-        "Bahagian persediaan salinan sistem pengendalian Windivs ke",
+        "Bahagian persediaan salinan sistem pengendalian classicOS ke",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -123,42 +123,42 @@ static MUI_ENTRY msMYWelcomePageEntries[] =
     {
         8,
         15,
-        "\x07  Press ENTER to install or upgrade Windivs.",
+        "\x07  Press ENTER to install or upgrade classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         17,
-        "\x07  Tekan R untuk memperbaiki atau mengemaskini Windivs.",
+        "\x07  Tekan R untuk memperbaiki atau mengemaskini classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         19,
-        "\x07  Tekan L untuk melihat syarat-syarat dan terma-terma Pelesenan Windivs.",
+        "\x07  Tekan L untuk melihat syarat-syarat dan terma-terma Pelesenan classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Tekan F3 untuk keluar tanpa memasang Windivs.",
+        "\x07  Tekan F3 untuk keluar tanpa memasang classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         23,
-        "Untuk maklumat lanjut mengenai Windivs, sila layari:",
+        "Untuk maklumat lanjut mengenai classicOS, sila layari:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         24,
-        "https://Windivs.org/",
+        "https://classicOS.org/",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
@@ -182,28 +182,28 @@ static MUI_ENTRY msMYIntroPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs Version Status",
+        "classicOS Version Status",
         TEXT_STYLE_HIGHLIGHT,
         TEXT_ID_STATIC
     },
     {
             6,
             11,
-            "Windivs 2k3",
+            "classicOS 2k3",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
         {
             6,
             12,
-            "Windivs 2k3 is an operating system made to look and function",
+            "classicOS 2k3 is an operating system made to look and function",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -224,7 +224,7 @@ static MUI_ENTRY msMYIntroPageEntries[] =
         {
             6,
             16,
-            "It is advised to install Windivs 2k3 on a VM, as I (the dev) haven't",
+            "It is advised to install classicOS 2k3 on a VM, as I (the dev) haven't",
             TEXT_STYLE_NORMAL,
             TEXT_ID_STATIC
         },
@@ -238,14 +238,14 @@ static MUI_ENTRY msMYIntroPageEntries[] =
     {
         8,
         19,
-        "\x07  Press ENTER to continue Windivs Setup.",
+        "\x07  Press ENTER to continue classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -269,7 +269,7 @@ static MUI_ENTRY msMYLicensePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -283,7 +283,7 @@ static MUI_ENTRY msMYLicensePageEntries[] =
     {
         8,
         8,
-        "The Windivs System is licensed under the terms of the",
+        "The classicOS System is licensed under the terms of the",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -304,7 +304,7 @@ static MUI_ENTRY msMYLicensePageEntries[] =
     {
         8,
         11,
-        "All software that is part of the Windivs system is",
+        "All software that is part of the classicOS system is",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -339,7 +339,7 @@ static MUI_ENTRY msMYLicensePageEntries[] =
     {
         8,
         17,
-        "Windivs only covers distribution to third parties.",
+        "classicOS only covers distribution to third parties.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -353,7 +353,7 @@ static MUI_ENTRY msMYLicensePageEntries[] =
     {
         8,
         19,
-        "GNU General Public License with Windivs please visit",
+        "GNU General Public License with classicOS please visit",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -412,7 +412,7 @@ static MUI_ENTRY msMYDevicePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -519,14 +519,14 @@ static MUI_ENTRY msMYRepairPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Windivs persediaan sedang untuk fasa pembangunan awal. Ia belum lagi",
+        "classicOS persediaan sedang untuk fasa pembangunan awal. Ia belum lagi",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -547,7 +547,7 @@ static MUI_ENTRY msMYRepairPageEntries[] =
     {
         8,
         15,
-        "\x07  Tekan U untuk mengemaskini Windivs.",
+        "\x07  Tekan U untuk mengemaskini classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -592,21 +592,21 @@ static MUI_ENTRY msMYUpgradePageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "The Windivs Setup can upgrade one of the available Windivs installations",
+        "The classicOS Setup can upgrade one of the available classicOS installations",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "listed below, or, if a Windivs installation is damaged, the Setup program",
+        "listed below, or, if a classicOS installation is damaged, the Setup program",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -648,7 +648,7 @@ static MUI_ENTRY msMYUpgradePageEntries[] =
     {
         8,
         21,
-        "\x07  Press F3 to quit without installing Windivs.",
+        "\x07  Press F3 to quit without installing classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -672,7 +672,7 @@ static MUI_ENTRY msMYComputerPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -731,7 +731,7 @@ static MUI_ENTRY msMYFlushPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -776,14 +776,14 @@ static MUI_ENTRY msMYQuitPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Windivs tidak dipasang sepenuhnya.",
+        "classicOS tidak dipasang sepenuhnya.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -828,7 +828,7 @@ static MUI_ENTRY msMYDisplayPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -887,14 +887,14 @@ static MUI_ENTRY msMYSuccessPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         10,
         6,
-        "Komponen-komponen asas Windivs telah berjaya dipasang.",
+        "Komponen-komponen asas classicOS telah berjaya dipasang.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -939,7 +939,7 @@ static MUI_ENTRY msMYBootPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -992,7 +992,7 @@ static MUI_ENTRY msMYSelectPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1020,7 +1020,7 @@ static MUI_ENTRY msMYSelectPartitionEntries[] =
     {
         8,
         13,
-        "\x07  Tekan ENTER untuk memasang Windivs ke sekatan yang dipilih.",
+        "\x07  Tekan ENTER untuk memasang classicOS ke sekatan yang dipilih.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1065,7 +1065,7 @@ static MUI_ENTRY msMYChangeSystemPartition[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1086,14 +1086,14 @@ static MUI_ENTRY msMYChangeSystemPartition[] =
     {
         6,
         16,
-        "uses a format not supported by Windivs.",
+        "uses a format not supported by classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         18,
-        "In order to successfully install Windivs, the Setup program must change",
+        "In order to successfully install classicOS, the Setup program must change",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1163,7 +1163,7 @@ static MUI_ENTRY msMYChangeSystemPartition[] =
     {
         6,
         35,
-        "to the original one after finishing the installation of Windivs.",
+        "to the original one after finishing the installation of classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1187,7 +1187,7 @@ static MUI_ENTRY msMYConfirmDeleteSystemPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1208,7 +1208,7 @@ static MUI_ENTRY msMYConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         11,
-        "programs, programs to start an operating system (like Windivs) or other",
+        "programs, programs to start an operating system (like classicOS) or other",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1243,7 +1243,7 @@ static MUI_ENTRY msMYConfirmDeleteSystemPartitionEntries[] =
     {
         6,
         17,
-        "computer from the harddisk until you finished the Windivs Setup.",
+        "computer from the harddisk until you finished the classicOS Setup.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1295,7 +1295,7 @@ static MUI_ENTRY msMYFormatPartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1333,7 +1333,7 @@ static MUI_ENTRY msMYCheckFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1364,21 +1364,21 @@ static MUI_ENTRY msMYInstallDirectoryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Persediaan memasang Windivs fail ke sekatan yang dipilih. Pilih satu",
+        "Persediaan memasang classicOS fail ke sekatan yang dipilih. Pilih satu",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
     {
         6,
         9,
-        "direktori di mana anda mahu Windivs untuk dipasang:",
+        "direktori di mana anda mahu classicOS untuk dipasang:",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1392,7 +1392,7 @@ static MUI_ENTRY msMYInstallDirectoryEntries[] =
     {
         6,
         15,
-        "ciri-ciri dan kemudian taip direktori di mana anda mahu Windivs untuk",
+        "ciri-ciri dan kemudian taip direktori di mana anda mahu classicOS untuk",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1423,21 +1423,21 @@ static MUI_ENTRY msMYFileCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         0,
         12,
-        "Sila tunggu sementara fail salinan Windivs persediaan",
+        "Sila tunggu sementara fail salinan classicOS persediaan",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
     {
         0,
         13,
-        "untuk Windivs folder pemasangan anda.",
+        "untuk classicOS folder pemasangan anda.",
         TEXT_STYLE_NORMAL | TEXT_ALIGN_CENTER,
         TEXT_ID_STATIC
     },
@@ -1468,7 +1468,7 @@ static MUI_ENTRY msMYBootLoaderEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1527,7 +1527,7 @@ static MUI_ENTRY msMYBootLoaderInstallPageEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Setup ",
+        " classicOS 2k3 Service Pack 2 Setup ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1551,7 +1551,7 @@ static MUI_ENTRY msMYKeyboardSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1610,7 +1610,7 @@ static MUI_ENTRY msMYLayoutSettingsEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1670,14 +1670,14 @@ static MUI_ENTRY msMYPrepareCopyEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
     {
         6,
         8,
-        "Persediaan menyediakan komputer awda untuk menyalin fail-fail Windivs.",
+        "Persediaan menyediakan komputer awda untuk menyalin fail-fail classicOS.",
         TEXT_STYLE_NORMAL,
         TEXT_ID_STATIC
     },
@@ -1702,7 +1702,7 @@ static MUI_ENTRY msMYSelectFSEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1750,7 +1750,7 @@ static MUI_ENTRY msMYDeletePartitionEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1802,7 +1802,7 @@ static MUI_ENTRY msMYRegistryEntries[] =
     {
         4,
         3,
-        " Windivs 2k3 Service Pack 2 Persediaan ",
+        " classicOS 2k3 Service Pack 2 Persediaan ",
         TEXT_STYLE_UNDERLINE,
         TEXT_ID_STATIC
     },
@@ -1837,9 +1837,9 @@ MUI_ERROR msMYErrorEntries[] =
     },
     {
         // ERROR_NOT_INSTALLED
-        "Windivs tidak benar-benar dipasang pada\n"
+        "classicOS tidak benar-benar dipasang pada\n"
         "komputer anda. Jika anda berhenti persediaan sekarang, anda akan perlu\n"
-        "untuk menjalankan persediaan untuk memasang Windivs lagi.\n"
+        "untuk menjalankan persediaan untuk memasang classicOS lagi.\n"
         "\n"
         "  \x07  Tekan ENTER untuk meneruskan persediaan.\n"
         "  \x07  Tekan F3 untuk keluar persediaan.",
@@ -1847,7 +1847,7 @@ MUI_ERROR msMYErrorEntries[] =
     },
     {
         // ERROR_NO_BUILD_PATH
-        "Failed to build the installation paths for the Windivs installation directory!\n"
+        "Failed to build the installation paths for the classicOS installation directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -1857,7 +1857,7 @@ MUI_ERROR msMYErrorEntries[] =
     },
     {
         // ERROR_SOURCE_DIR
-        "You cannot install Windivs within the installation source directory!\n"
+        "You cannot install classicOS within the installation source directory!\n"
         "ENTER = Reboot computer"
     },
     {
@@ -2056,7 +2056,7 @@ MUI_ERROR msMYErrorEntries[] =
     },
     {
         // ERROR_INSUFFICIENT_PARTITION_SIZE,
-        "Partition yang dipilih adalah tidak cukup besar untuk memasang Windivs.\n"
+        "Partition yang dipilih adalah tidak cukup besar untuk memasang classicOS.\n"
         "Partition yang pasang hendaklah mempunyai saiz sekurang-kurangnya %lu MB.\n"
         "\n"
         "  * Tekan sebarang kunci untuk meneruskan.",
@@ -2232,13 +2232,13 @@ MUI_STRING msMYStrings[] =
     {STRING_PARTFORMAT,
     "Partition ini akan diformat seterusnya."},
     {STRING_NONFORMATTEDPART,
-    "Anda telah memilih untuk memasang Windivs pada Partition yang baru atau tidak diformat."},
+    "Anda telah memilih untuk memasang classicOS pada Partition yang baru atau tidak diformat."},
     {STRING_NONFORMATTEDSYSTEMPART,
     "Partition sistem tidak diformat lagi."},
     {STRING_NONFORMATTEDOTHERPART,
     "Partition baru tidak diformat lagi."},
     {STRING_INSTALLONPART,
-    "Persediaan memasang Windivs ke Partition"},
+    "Persediaan memasang classicOS ke Partition"},
     {STRING_CONTINUE,
     "ENTER = Teruskan"},
     {STRING_QUITCONTINUE,

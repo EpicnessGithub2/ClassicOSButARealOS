@@ -1,5 +1,5 @@
 /*
-* PROJECT:     Windivs Character Map
+* PROJECT:     classicOS Character Map
 * LICENSE:     GPL - See COPYING in the top level directory
 * FILE:        base/applications/charmap/MainWindow.cpp
 * PURPOSE:     Implements the main dialog window
@@ -374,7 +374,7 @@ CCharMapWindow::DialogProc(
         {
         case ID_ABOUT:
             MessageBoxW(This->m_hMainWnd,
-                        L"Windivs Character Map",
+                        L"classicOS Character Map",
                         L"About",
                         MB_OK | MB_APPLMODAL);
             break;

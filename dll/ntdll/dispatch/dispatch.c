@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs NT Library
+ * PROJECT:         classicOS NT Library
  * FILE:            dll/ntdll/dispatch/dispatch.c
  * PURPOSE:         User-Mode NT Dispatchers
  * PROGRAMERS:      Alex Ionescu (alex@relsoft.net)

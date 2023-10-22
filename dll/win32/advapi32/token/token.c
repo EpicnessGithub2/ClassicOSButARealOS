@@ -1,6 +1,6 @@
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs system libraries
+ * PROJECT:         classicOS system libraries
  * FILE:            lib/advapi32/token/token.c
  * PURPOSE:         Token functions
  * PROGRAMMER:      Ariadne (ariadne@xs4all.nl)

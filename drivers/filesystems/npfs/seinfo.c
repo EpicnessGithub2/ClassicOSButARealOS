@@ -1,9 +1,9 @@
 /*
- * PROJECT:     Windivs Named Pipe FileSystem
+ * PROJECT:     classicOS Named Pipe FileSystem
  * LICENSE:     BSD - See COPYING.ARM in the top level directory
  * FILE:        drivers/filesystems/npfs/seinfo.c
  * PURPOSE:     Pipes Security Information
- * PROGRAMMERS: Windivs Portable Systems Group
+ * PROGRAMMERS: classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

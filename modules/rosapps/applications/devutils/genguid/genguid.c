@@ -1,5 +1,5 @@
 /*
- *  genguid utility for WINE and Windivs
+ *  genguid utility for WINE and classicOS
  *
  *  Copyright 2003 Jonathan Wilson
  * This library is free software; you can redistribute it and/or

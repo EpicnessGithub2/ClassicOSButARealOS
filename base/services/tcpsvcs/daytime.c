@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs simple TCP/IP services
+ * PROJECT:     classicOS simple TCP/IP services
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        base/services/tcpsvcs/daytime.c
  * PURPOSE:     Sends the current date and time to the client

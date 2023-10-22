@@ -1,5 +1,5 @@
 /*
- *  Windivs kernel
+ *  classicOS kernel
  *  Copyright (C) 2006 ReactOS Team
  *
  *  This program is free software; you can redistribute it and/or modify
@@ -18,7 +18,7 @@
  */
 /*
  * COPYRIGHT:       See COPYING in the top level directory
- * PROJECT:         Windivs hive maker
+ * PROJECT:         classicOS hive maker
  * FILE:            tools/mkhive/binhive.h
  * PURPOSE:         Binary hive export code
  * PROGRAMMER:      Herv� Poussineau

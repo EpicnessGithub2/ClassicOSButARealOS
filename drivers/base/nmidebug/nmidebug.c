@@ -1,9 +1,9 @@
 /*
- * PROJECT:         Windivs NMI Debug Driver
+ * PROJECT:         classicOS NMI Debug Driver
  * LICENSE:         BSD - See COPYING.ARM in the top level directory
  * FILE:            drivers/base/nmidebug/nmidebug.c
  * PURPOSE:         Driver Code
- * PROGRAMMERS:     Windivs Portable Systems Group
+ * PROGRAMMERS:     classicOS Portable Systems Group
  */
 
 /* INCLUDES *******************************************************************/

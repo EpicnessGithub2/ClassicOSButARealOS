@@ -1078,7 +1078,7 @@ Return Value:
 }
 
 NTSTATUS
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 RequestAsynchronousIrpCompletion(
     _In_ PDEVICE_OBJECT DeviceObject,
     _In_ PIRP Irp,
@@ -1112,7 +1112,7 @@ Return Value:
 }
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 DeviceAsynchronousCompletion(
     _In_ WDFREQUEST                       Request,
     _In_ WDFIOTARGET                      Target,
@@ -1253,7 +1253,7 @@ Return Value:
 } // end DeviceReleaseQueue()
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 DeviceReleaseQueueCompletion(
     _In_ WDFREQUEST                       Request,
     _In_ WDFIOTARGET                      Target,
@@ -2627,7 +2627,7 @@ Return Value:
 
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 DeviceRestoreDefaultSpeed(
     _In_ WDFWORKITEM  WorkItem
     )
@@ -3516,7 +3516,7 @@ RequestCompletion(
 
 
 VOID
-NTAPI /* Windivs Change: GCC Does not support STDCALL by default */
+NTAPI /* classicOS Change: GCC Does not support STDCALL by default */
 RequestDummyCompletionRoutine(
     _In_ WDFREQUEST                     Request,
     _In_ WDFIOTARGET                    Target,

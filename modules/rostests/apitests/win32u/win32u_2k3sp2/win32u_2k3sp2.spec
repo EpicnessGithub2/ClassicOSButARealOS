@@ -1,5 +1,5 @@
 ;
-; Windivs Operating System
+; classicOS Operating System
 ;
 ; This file contains all win32k native api functions from win 2003 sp2
 ;

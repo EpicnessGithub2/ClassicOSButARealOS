@@ -1,7 +1,7 @@
 /*
- * PROJECT:                 Windivs Software Control Panel
+ * PROJECT:                 classicOS Software Control Panel
  * FILE:                    dll/cpl/appwiz/appwiz.c
- * PURPOSE:                 Windivs Software Control Panel
+ * PURPOSE:                 classicOS Software Control Panel
  * PROGRAMMERS:             Gero Kuehn (reactos.filter@gkware.com)
  *                          Dmitry Chapyshev (dmitry@reactos.org)
  */

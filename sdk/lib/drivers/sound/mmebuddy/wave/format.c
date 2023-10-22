@@ -1,5 +1,5 @@
 /*
- * PROJECT:     Windivs Sound System "MME Buddy" Library
+ * PROJECT:     classicOS Sound System "MME Buddy" Library
  * LICENSE:     GPL - See COPYING in the top level directory
  * FILE:        lib/drivers/sound/mmebuddy/wave/format.c
  *

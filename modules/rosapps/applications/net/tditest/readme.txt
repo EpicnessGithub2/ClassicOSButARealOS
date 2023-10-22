@@ -13,6 +13,6 @@ DDK environment variables must be set! (run setenv.bat)
     - Run "build" to build the driver
 
 
-Building with Mingw32 and Windivs include files:
+Building with Mingw32 and classicOS include files:
 
-    - Run "make tditest" FROM THE Windivs ROOT DIRECTORY to build the driver
+    - Run "make tditest" FROM THE classicOS ROOT DIRECTORY to build the driver
